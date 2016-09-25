@@ -1,0 +1,350 @@
+[
+  {
+    "epoch_id": 1,
+    "name": "PERÍODO ESCOLAR",
+    "begin": {
+      "date": {
+        "year": 2015,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2017,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 3,
+    "name": "FÉRIAS ESCOLARES",
+    "begin": {
+      "date": {
+        "year": 2016,
+        "month": 6,
+        "day": 13
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2016,
+        "month": 9,
+        "day": 18
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 4,
+    "name": "AGOSTO",
+    "begin": {
+      "date": {
+        "year": 2016,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2016,
+        "month": 9,
+        "day": 1
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 5,
+    "name": "TODO O ANO",
+    "begin": {
+      "date": {
+        "year": 2015,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2017,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 6,
+    "name": "TODO O ANO, EXCEPTO AGOSTO",
+    "begin": {
+      "date": {
+        "year": 2015,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2017,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 8,
+    "name": "PERÍODO DE OBRAS"
+  },
+  {
+    "epoch_id": 9,
+    "name": "FÉRIAS ESCOLARES, EXCETO AGOSTO",
+    "begin": {
+      "date": {
+        "year": 2016,
+        "month": 6,
+        "day": 13
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2016,
+        "month": 9,
+        "day": 18
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 10,
+    "name": "APENAS NOS DIAS DE FEIRA"
+  },
+  {
+    "epoch_id": 12,
+    "name": "P. NOTURNO",
+    "begin": {
+      "date": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 0,
+        "month": 0,
+        "day": 0
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 14,
+    "name": "-"
+  },
+  {
+    "epoch_id": 16,
+    "name": "QUEIMA DAS FITAS",
+    "begin": {
+      "date": {
+        "year": 2013,
+        "month": 5,
+        "day": 3
+      },
+      "time": {
+        "hour": 7,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2013,
+        "month": 5,
+        "day": 11
+      },
+      "time": {
+        "hour": 7,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 17,
+    "name": "TODO O ANO, EXC. FÉRIAS VERÃO",
+    "begin": {
+      "date": {
+        "year": 2015,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2017,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 18,
+    "name": "FÉRIAS DE VERÃO",
+    "begin": {
+      "date": {
+        "year": 2016,
+        "month": 6,
+        "day": 13
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2016,
+        "month": 9,
+        "day": 18
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 19,
+    "name": "FÉRIAS ESCOLARES, EXCEPTO AGOSTO  ",
+    "begin": {
+      "date": {
+        "year": 2016,
+        "month": 6,
+        "day": 13
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2016,
+        "month": 9,
+        "day": 18
+      },
+      "time": {
+        "hour": 2,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  },
+  {
+    "epoch_id": 20,
+    "name": "TODO O ANO, EXCETO AGOSTO",
+    "begin": {
+      "date": {
+        "year": 2015,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    },
+    "end": {
+      "date": {
+        "year": 2017,
+        "month": 1,
+        "day": 1
+      },
+      "time": {
+        "hour": 0,
+        "minute": 0,
+        "second": 0
+      }
+    }
+  }
+]

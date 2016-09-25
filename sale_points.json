@@ -1,0 +1,261 @@
+[
+  {
+    "sale_point_id": 1,
+    "name": "Loja Polis",
+    "weekdays_schedule": "7h30 - 19h30",
+    "weekends_schedule": "Encerrada",
+    "parish": "Almedina",
+    "lat": "40.206453",
+    "lon": "-8.429323",
+    "zone": "Portagem",
+    "official_store": true
+  },
+  {
+    "sale_point_id": 2,
+    "name": "Loja de S. José",
+    "weekdays_schedule": "7h30 -19h30 (exceto em julho e agosto) 9h30 -12h30 e 14h00 -17h00 (julho e agosto)",
+    "weekends_schedule": "Encerrada",
+    "parish": "Stº. Antº. Olivais",
+    "lat": "40.202237",
+    "lon": "-8.410015",
+    "zone": "Igreja de S. José",
+    "official_store": true
+  },
+  {
+    "sale_point_id": 3,
+    "name": "Loja da Praça da República",
+    "weekdays_schedule": "7h30 -19h30 (exceto em julho e agosto) 9h30 -12h30 e 14h00 -17h00 (julho) Encerrada (agosto)",
+    "weekends_schedule": "Encerrada",
+    "parish": "Stª. Cruz",
+    "lat": "40.209708",
+    "lon": "-8.420386",
+    "zone": "Prª. da Républica",
+    "official_store": true
+  },
+  {
+    "sale_point_id": 4,
+    "name": "Loja do Mercado",
+    "weekdays_schedule": "7h00 - 19h00",
+    "weekends_schedule": "8h00 - 13h00 (em final/início de mês)",
+    "parish": "Stª. Cruz",
+    "lat": "40.211152",
+    "lon": "-8.42503",
+    "zone": "Mercado",
+    "official_store": true
+  },
+  {
+    "sale_point_id": 5,
+    "name": "Posto de Venda do Parque Periférico da Casa do Sal - Sul",
+    "weekdays_schedule": "7h30 - 18h00 (exceto em agosto) Encerrado (agosto)",
+    "weekends_schedule": "Encerrado",
+    "official_store": true
+  },
+  {
+    "sale_point_id": 6,
+    "name": "Posto de Venda do Parque Periférico da Casa do Sal - Sul III",
+    "weekdays_schedule": "7h30 - 18h00 (exceto em agosto) Encerrado (agosto)",
+    "weekends_schedule": "Encerrado",
+    "parish": "Eiras",
+    "lat": "40.219406",
+    "lon": "-8.439235",
+    "zone": "Estação Velha",
+    "official_store": true
+  },
+  {
+    "sale_point_id": 7,
+    "name": "Centro de Infomobilidade",
+    "weekdays_schedule": "8h30 - 19h30",
+    "weekends_schedule": "9h30 -15h00 (exceto em julho e agosto)",
+    "parish": "Stª. Cruz",
+    "lat": "40.213436",
+    "lon": "-8.432605",
+    "zone": "Palácio da Justiça/Arnado",
+    "official_store": true
+  },
+  {
+    "sale_point_id": 8,
+    "name": "Supermercado Quaresma",
+    "address": "Rua D. Pedro, nº 21 - S. Martinho do Bispo",
+    "phone": "239 802 727",
+    "parish": "S. Martinho do Bispo",
+    "lat": "40.209661",
+    "lon": "-8.455986",
+    "zone": "S. Martinho",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 9,
+    "name": "Quiosque do Mercado",
+    "address": "Largo Mercado D. Pedro V (em frente aos CTT)",
+    "phone": "239 836 503",
+    "parish": "Stª. Cruz",
+    "lat": "40.211564",
+    "lon": "-8.427335",
+    "zone": "Jardim da Manga",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 10,
+    "name": "Quiosque Paulo Ferreira",
+    "weekdays_schedule": "06h00 - 19h00",
+    "weekends_schedule": "06h00 -13h00",
+    "parish": "S. Bartolomeu",
+    "lat": "40.208897",
+    "lon": "-8.431863",
+    "zone": "Baixa ",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 11,
+    "name": "Quiosque Sousa",
+    "address": "Largo da Portagem",
+    "phone": "239 820 995",
+    "parish": "S. Bartolomeu",
+    "lat": "40.207513",
+    "lon": "-8.429409",
+    "zone": "Portagem",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 12,
+    "name": "Papelaria dos Olivais",
+    "address": "Rua Capitão Luis Gonzaga, nº 5 - Olivais",
+    "phone": "239 716 792",
+    "parish": "Stº. Antº. Olivais",
+    "lat": "40.216832",
+    "lon": "-8.407037",
+    "zone": "Stº Antº dos Olivais",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 13,
+    "name": "Tabacaria Sofia",
+    "address": "Rua da Sofia, nº 167",
+    "phone": "239 824 174",
+    "parish": "Stª. Cruz",
+    "lat": "40.213399",
+    "lon": "-8.430951",
+    "zone": "Palácio da Justiça",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 14,
+    "name": "ZeuLuz - Comp. Elétricos e Eletrónicos, Lda.",
+    "address": "Rua 1º de Maio, nº 104 - Fala - S. Martinho do Bispo",
+    "phone": "239 814 641",
+    "parish": "S. Martinho do Bispo",
+    "lat": "40.202679",
+    "lon": "-8.469405",
+    "zone": "Fala",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 15,
+    "name": "Papelaria e Tabacaria Arquivo, Lda.",
+    "address": "Rua Dr. Manuel Rodrigues, nº 9",
+    "phone": "239 820 620",
+    "parish": "Stª. Cruz",
+    "lat": "40.213784",
+    "lon": "-8.431933",
+    "zone": "Palácio da Justiça",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 16,
+    "name": "Tabacaria Triunfo",
+    "address": "Valdemar Agostinho Oliveira Catarino - Rua do Brasil, nº 233, r/c",
+    "phone": "239 711 889",
+    "parish": "Stº. Antº. Olivais",
+    "lat": "40.201872",
+    "lon": "-8.41372",
+    "zone": "Rua do Brasil",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 17,
+    "name": "Tabacaria Espírito Santo",
+    "address": "Praça 8 de Maio, nº 8",
+    "phone": "239 821 991",
+    "parish": "Stª. Cruz",
+    "lat": "40.210692",
+    "lon": "-8.42914",
+    "zone": "Prª 8 de Maio",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 18,
+    "name": "Café Primavera",
+    "address": "Rua Central da Mesura, nº 84",
+    "phone": "239 811 253",
+    "parish": "Stª. Clara",
+    "lat": "40.196397",
+    "lon": "-8.446771",
+    "zone": "Sta. Clara - Mesura",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 19,
+    "name": "Mini Mercado Pacheco",
+    "weekdays_schedule": "2ª a 6ª das 07h30 às 19h30",
+    "weekends_schedule": "Sábado das 7h30 às 19h30",
+    "address": "Rua Dr. Daniel de Matos, nº 120 r/ch",
+    "phone": "239 714 677",
+    "parish": "Stº. Antº. Olivais",
+    "lat": "40.197265",
+    "lon": "-8.412205",
+    "zone": "Bairro Norton de Matos",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 20,
+    "name": "Dolce Vita",
+    "weekdays_schedule": "10h00 - 23.00",
+    "weekends_schedule": "10h00 - 24h00",
+    "parish": "Stº. Antonio dos Olivais",
+    "lat": "40.204935",
+    "lon": "-8.407208",
+    "zone": "Solum",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 21,
+    "name": "Café Franco",
+    "weekdays_schedule": "07h00 - 23h00",
+    "weekends_schedule": "07h00 - 23h00",
+    "parish": "Ribeira de Frades",
+    "lat": "40.20582",
+    "lon": "-8.494924",
+    "zone": "Ribeira de Frades",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 22,
+    "name": "Tabacaria Papelaria Estrelinha da Sorte",
+    "weekdays_schedule": "08.00 às 19.00",
+    "weekends_schedule": "08.00 às 13.00",
+    "parish": "Stª. Cruz",
+    "lat": "40.211616",
+    "lon": "-8.429604",
+    "zone": "Baixa",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 23,
+    "name": "Fórum Coimbra",
+    "address": "Av. José Bonifácio de Andrade e Silva, n.º 1 - Quinta do Vale Gemil - Almegue",
+    "phone": "239 801 700",
+    "parish": "Stª. Clara",
+    "lat": "40.211556",
+    "lon": "-8.443086 ",
+    "zone": "Almegue",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 24,
+    "name": "Liga dos Amigos dos Hospitais da Universidade de Coimbra",
+    "address": "Praceta Prof. Mota Pinto (Edifício principal dos HUC)",
+    "phone": "239 400 584",
+    "zone": "Celas",
+    "official_store": false
+  }
+]

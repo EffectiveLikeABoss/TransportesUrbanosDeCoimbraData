@@ -1,0 +1,42 @@
+[
+  {
+    "resource": "Epochs",
+    "date": {
+      "year": 2016,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "resource": "Lines",
+    "date": {
+      "year": 2016,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "resource": "SalePoints",
+    "date": {
+      "year": 2016,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "resource": "Schedules",
+    "date": {
+      "year": 2016,
+      "month": 9,
+      "day": 23
+    }
+  },
+  {
+    "resource": "Tickets",
+    "date": {
+      "year": 2016,
+      "month": 9,
+      "day": 23
+    }
+  }
+]
