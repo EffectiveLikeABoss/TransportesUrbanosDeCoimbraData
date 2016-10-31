@@ -44,7 +44,8 @@
       "Urbanização de Banhos Secos",
       "Urbanização Valverde",
       "Senhor dos Aflitos",
-      "Rua 10 de Junho"
+      "Rua 10 de Junho",
+      "Alqueves"
     ]
   },
   {
@@ -77,7 +78,8 @@
       "Escola D. Dinis",
       "Bairro do Brinca",
       "Rua do Padrão",
-      "Avenida Fernão de Magalhães"
+      "Avenida Fernão de Magalhães",
+      "Palácio da Justiça"
     ]
   },
   {
@@ -148,7 +150,8 @@
       "Avenida Urbano Duarte",
       "Rua do Brasil",
       "Avenida Navarro",
-      "Portagem"
+      "Portagem",
+      "Portagem (Parque)"
     ]
   },
   {
@@ -177,7 +180,8 @@
       "Praça da República",
       "Mercado D. Pedro V",
       "Palácio da Justiça",
-      "Avenida Fernão de Magalhães"
+      "Avenida Fernão de Magalhães",
+      "Portagem (Parque)"
     ]
   },
   {
@@ -222,7 +226,8 @@
       "Avenida Fernão de Magalhães",
       "Arnado",
       "Mercado D. Pedro V",
-      "Praça da República"
+      "Praça da República",
+      "Rua ANTERO DE QUENTAL*"
     ]
   },
   {
@@ -269,7 +274,8 @@
       "Casa do Sal",
       "Avenida Fernão de Magalhães",
       "Arnado",
-      "Mercado D. Pedro V"
+      "Mercado D. Pedro V",
+      "Praça da República"
     ]
   },
   {
@@ -313,7 +319,8 @@
       "Universidade Vasco da Gama",
       "Volta do Salgueiral",
       "Lages",
-      "Ponte de Sta Clara"
+      "Ponte de Sta Clara",
+      "Portagem"
     ]
   },
   {
@@ -337,7 +344,8 @@
       "Rua Combatentes",
       "Arcos do Jardim",
       "Praça da República",
-      "Mercado D. Pedro V"
+      "Mercado D. Pedro V",
+      "Palácio da Justiça"
     ]
   },
   {
@@ -415,7 +423,8 @@
       "Casa do Sal",
       "Avenida Fernão de Magalhães",
       "Arnado",
-      "Mercado D. Pedro V"
+      "Mercado D. Pedro V",
+      "Praça da República"
     ]
   },
   {
@@ -514,7 +523,8 @@
       "Avenida Bissaya Barreto",
       "Cruz de Celas",
       "Rua Augusta",
-      "Praça da República"
+      "Praça da República",
+      "Manutenção"
     ]
   },
   {
@@ -544,7 +554,8 @@
       "Rua Machado de Castro",
       "Calouste Gulbenkian",
       "Hospitais Universidade de Coimbra",
-      "Cruz de Celas"
+      "Cruz de Celas",
+      "Praça da República"
     ]
   },
   {
@@ -575,7 +586,8 @@
       "Rot. Avenida Fernão de Magalhães",
       "Casa do Sal",
       "Hospitais Universidade de Coimbra",
-      "Cruz de Celas"
+      "Cruz de Celas",
+      "Praça da República"
     ]
   },
   {
@@ -608,7 +620,8 @@
       "Avenida Fernão de Magalhães",
       "Arnado",
       "Jardim da Manga",
-      "Mercado D. Pedro V"
+      "Mercado D. Pedro V",
+      "Manutenção"
     ]
   },
   {
@@ -638,7 +651,8 @@
       "Mesura",
       "Santa Clara",
       "Portugal Pequenitos",
-      "Ponte de Sta Clara"
+      "Ponte de Sta Clara",
+      "Portagem"
     ]
   },
   {
@@ -668,7 +682,8 @@
       "Avenida Gouveia Monteiro",
       "Hospital Pediátrico",
       "Avenida Bissaya Barreto",
-      "Celas"
+      "Celas",
+      "Hospitais Universidade de Coimbra"
     ]
   },
   {
@@ -772,7 +787,8 @@
       "Rua do Padrão",
       "Estação Velha",
       "Casa do Sal",
-      "Avenida Fernão de Magalhães"
+      "Avenida Fernão de Magalhães",
+      "Estação Nova"
     ]
   },
   {
@@ -799,7 +815,8 @@
       "Rua Combatentes",
       "Arcos do Jardim",
       "Praça da República",
-      "Rua Pde António Vieira"
+      "Rua Pde António Vieira",
+      "Universidade"
     ]
   },
   {
@@ -826,7 +843,8 @@
       "Arnado",
       "Mercado D. Pedro V",
       "Rua Pde António Vieira",
-      "Museu Machado de Castro"
+      "Museu Machado de Castro",
+      "Universidade"
     ]
   },
   {
@@ -872,7 +890,8 @@
       "Estação Velha",
       "( Bairro do Brinca - 5T, 5F )",
       "Relvinha",
-      "Centro de Formação"
+      "Centro de Formação",
+      "Pedrulha (Centro)"
     ]
   },
   {
@@ -943,7 +962,8 @@
       "Estrada da Beira",
       "Vale das Flores",
       "Rua do Brasil",
-      "Avenida Navarro"
+      "Avenida Navarro",
+      "Baixa (Portagem)"
     ]
   },
   {
@@ -981,7 +1001,8 @@
       "Santa Clara",
       "Mesura",
       "Póvoa",
-      "Hospital dos Covões"
+      "Hospital dos Covões",
+      "Cimo de Fala"
     ]
   },
   {
@@ -1010,7 +1031,8 @@
       "Almegue",
       "Açude Ponte",
       "Avenida Fernão de Magalhães",
-      "Estação Nova"
+      "Estação Nova",
+      "Beira Rio"
     ]
   },
   {
@@ -1095,7 +1117,8 @@
       "Almegue",
       "Açude Ponte",
       "Avenida Fernão de Magalhães",
-      "Estação Nova"
+      "Estação Nova",
+      "Beira Rio"
     ]
   },
   {
@@ -1188,7 +1211,8 @@
       "Almegue",
       "Açude Ponte",
       "Avenida Fernão de Magalhães",
-      "Estação Nova"
+      "Estação Nova",
+      "Beira Rio"
     ]
   },
   {
@@ -1221,7 +1245,8 @@
       "Almegue",
       "Açude Ponte",
       "Avenida Fernão de Magalhães",
-      "Estação Nova"
+      "Estação Nova",
+      "Beira Rio"
     ]
   },
   {
@@ -1258,7 +1283,8 @@
       "Portugal Pequenitos",
       "Guarda Inglesa",
       "Fórum Coimbra",
-      "Centro de Saúde S. Clara"
+      "Centro de Saúde S. Clara",
+      "Santa Clara"
     ]
   },
   {
@@ -1289,7 +1315,8 @@
       "Estádio Municipal",
       "São José",
       "Rua do Brasil",
-      "Avenida Navarro"
+      "Avenida Navarro",
+      "Portagem (Parque)"
     ]
   },
   {
@@ -1325,7 +1352,8 @@
       "Avenida Fernão de Magalhães",
       "Arnado",
       "Jardim da Manga",
-      "Mercado D. Pedro V"
+      "Mercado D. Pedro V",
+      "Manutenção"
     ]
   },
   {
@@ -1348,7 +1376,8 @@
       "Carvalhais de Baixo",
       "Banhos Secos",
       "Escola Sec. D. Duarte",
-      "Portugal Pequenitos"
+      "Portugal Pequenitos",
+      "Portagem"
     ]
   },
   {
@@ -1371,7 +1400,8 @@
       "Casa do Sal",
       "Avenida Fernão de Magalhães",
       "Arnado",
-      "Mercado D. Pedro V"
+      "Mercado D. Pedro V",
+      "Praça da República"
     ]
   },
   {
@@ -1394,7 +1424,8 @@
       "Casa do Sal",
       "Avenida Fernão de Magalhães",
       "Arnado",
-      "Mercado D. Pedro V"
+      "Mercado D. Pedro V",
+      "Praça da República"
     ]
   },
   {
@@ -1407,7 +1438,8 @@
       "Mercado D. Pedro V",
       "Colégio Novo",
       "Sé Velha",
-      "Alegria / Parque Verde"
+      "Alegria / Parque Verde",
+      "Portagem"
     ]
   }
 ]
