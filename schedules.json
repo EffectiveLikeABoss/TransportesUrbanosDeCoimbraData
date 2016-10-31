@@ -1699,242 +1699,6 @@
     "order": 1
   },
   {
-    "schedule_id": 1023,
-    "line_id": 194,
-    "epoch_id": 5,
-    "stop_name": "Valongo",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:55 ",
-            "special": false
-          },
-          {
-            "time": "07:20 ",
-            "special": false
-          },
-          {
-            "time": "07:45 ",
-            "special": false
-          },
-          {
-            "time": "08:15 ",
-            "special": false
-          },
-          {
-            "time": "08:45 ",
-            "special": false
-          },
-          {
-            "time": "09:15 ",
-            "special": false
-          },
-          {
-            "time": "10:15 ",
-            "special": false
-          },
-          {
-            "time": "11:55 c",
-            "special": false
-          },
-          {
-            "time": "12:55 ",
-            "special": false
-          },
-          {
-            "time": "14:00 ",
-            "special": false
-          },
-          {
-            "time": "14:55 ",
-            "special": false
-          },
-          {
-            "time": "18:05 ",
-            "special": false
-          },
-          {
-            "time": "19:05 ",
-            "special": false
-          },
-          {
-            "time": "20:05 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "06:50 ",
-            "special": false
-          },
-          {
-            "time": "07:35 ",
-            "special": false
-          },
-          {
-            "time": "08:20 ",
-            "special": false
-          },
-          {
-            "time": "09:25 ",
-            "special": false
-          },
-          {
-            "time": "12:45 ",
-            "special": false
-          },
-          {
-            "time": "13:50 ",
-            "special": false
-          },
-          {
-            "time": "18:45 d",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "14:50 e",
-            "special": false
-          },
-          {
-            "time": "18:45 d",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
-  },
-  {
-    "schedule_id": 1022,
-    "line_id": 194,
-    "epoch_id": 5,
-    "stop_name": "Beira Rio",
-    "observations": "a) Inicia a esta hora na Av. João das Regras, em direcção ao Valongo.\u003c/br\u003eb) Linha 13T - Após o Valongo e Outeiro dos Casais, vai pelas Coalhadas.\u003c/br\u003ec) Linha 13T - Vai pelas Coalhadas (regressa pela Guarda Inglesa e Ponte de S. Clara).\u003c/br\u003ed) Termina à Estação Nova.\u003c/br\u003ee) Vai ao Estremão.\u003c/br\u003ef) Vai pela Escola Inês de Castro no período escolar.\u003c/br\u003eg) Vai pela Escola Silva Gaio no período escolar.",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:35 a",
-            "special": false
-          },
-          {
-            "time": "07:00 a",
-            "special": false
-          },
-          {
-            "time": "07:20 ",
-            "special": false
-          },
-          {
-            "time": "07:50 ",
-            "special": false
-          },
-          {
-            "time": "08:15 ",
-            "special": false
-          },
-          {
-            "time": "08:50 ",
-            "special": false
-          },
-          {
-            "time": "09:50 ",
-            "special": false
-          },
-          {
-            "time": "11:30 b",
-            "special": false
-          },
-          {
-            "time": "12:25 ",
-            "special": false
-          },
-          {
-            "time": "13:30 fg",
-            "special": false
-          },
-          {
-            "time": "14:30 ",
-            "special": false
-          },
-          {
-            "time": "17:40 g",
-            "special": false
-          },
-          {
-            "time": "18:40 ",
-            "special": false
-          },
-          {
-            "time": "19:40 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "06:30 a",
-            "special": false
-          },
-          {
-            "time": "07:15 ",
-            "special": false
-          },
-          {
-            "time": "08:00 ",
-            "special": false
-          },
-          {
-            "time": "08:55 ",
-            "special": false
-          },
-          {
-            "time": "12:20 ",
-            "special": false
-          },
-          {
-            "time": "13:25 ",
-            "special": false
-          },
-          {
-            "time": "18:25 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "14:30 e",
-            "special": false
-          },
-          {
-            "time": "18:25 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 0
-  },
-  {
     "schedule_id": 1101,
     "line_id": 176,
     "epoch_id": 3,
@@ -4982,6 +4746,124 @@
           },
           {
             "time": "20:15 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
+  },
+  {
+    "schedule_id": 1197,
+    "line_id": 194,
+    "epoch_id": 5,
+    "stop_name": "Beira Rio",
+    "observations": "a) Inicia a esta hora na Av. João das Regras, em direcção ao Valongo.\u003c/br\u003eb) Linha 13T - Após o Valongo e Outeiro dos Casais, vai pelas Coalhadas.\u003c/br\u003ec) Linha 13T - Vai pelas Coalhadas (regressa pela Guarda Inglesa e Ponte de S. Clara).\u003c/br\u003ed) Termina à Estação Nova.\u003c/br\u003ee) Vai ao Estremão.\u003c/br\u003ef) No período escolar vai pelas escolas Silva Gaio e Inês de Castro.",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:35 a",
+            "special": false
+          },
+          {
+            "time": "07:00 a",
+            "special": false
+          },
+          {
+            "time": "07:20 ",
+            "special": false
+          },
+          {
+            "time": "07:50 ",
+            "special": false
+          },
+          {
+            "time": "08:15 ",
+            "special": false
+          },
+          {
+            "time": "08:50 ",
+            "special": false
+          },
+          {
+            "time": "09:50 ",
+            "special": false
+          },
+          {
+            "time": "11:30 b",
+            "special": false
+          },
+          {
+            "time": "12:25 ",
+            "special": false
+          },
+          {
+            "time": "13:30 f",
+            "special": false
+          },
+          {
+            "time": "14:30 ",
+            "special": false
+          },
+          {
+            "time": "17:40 f",
+            "special": false
+          },
+          {
+            "time": "18:40 ",
+            "special": false
+          },
+          {
+            "time": "19:40 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "06:30 a",
+            "special": false
+          },
+          {
+            "time": "07:15 ",
+            "special": false
+          },
+          {
+            "time": "08:00 ",
+            "special": false
+          },
+          {
+            "time": "08:55 ",
+            "special": false
+          },
+          {
+            "time": "12:20 ",
+            "special": false
+          },
+          {
+            "time": "13:25 ",
+            "special": false
+          },
+          {
+            "time": "18:25 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "14:30 e",
+            "special": false
+          },
+          {
+            "time": "18:25 ",
             "special": false
           }
         ]
@@ -17799,34 +17681,38 @@
     "order": 1
   },
   {
-    "schedule_id": 1026,
-    "line_id": 145,
+    "schedule_id": 1202,
+    "line_id": 223,
     "epoch_id": 5,
-    "stop_name": "Portagem",
-    "observations": "a) Linha 20T - Entre os Casais e o Outeiro dos Casais vai pelas Coalhadas, efectuando o percurso da Linha 17 entre a paragem por baixo do viaduto das Casas Novas e a Urbanização de S. Bento.\u003c/br\u003eb) Vai pela Escola Silva Gaio, no período escolar.\u003c/br\u003ec) Vai ao Estremão.\u003c/br\u003ed) Termina à Portagem.",
+    "stop_name": "Sé Velha",
+    "observations": "",
     "comments": "",
     "days": [
       {
         "name": "Dias Úteis",
         "times": [
           {
-            "time": "07:05 ",
+            "time": "08:55 ",
             "special": false
           },
           {
-            "time": "07:15 a",
+            "time": "09:25 ",
             "special": false
           },
           {
-            "time": "08:00 ",
+            "time": "09:55 ",
             "special": false
           },
           {
-            "time": "09:00 ",
+            "time": "10:25 ",
             "special": false
           },
           {
-            "time": "10:00 ",
+            "time": "10:55 ",
+            "special": false
+          },
+          {
+            "time": "11:25 ",
             "special": false
           },
           {
@@ -17834,43 +17720,39 @@
             "special": false
           },
           {
-            "time": "12:35 ",
+            "time": "12:25 ",
             "special": false
           },
           {
-            "time": "13:15 ",
+            "time": "14:55 ",
             "special": false
           },
           {
-            "time": "13:35 a",
+            "time": "15:25 ",
             "special": false
           },
           {
-            "time": "14:15 ",
+            "time": "15:55 ",
             "special": false
           },
           {
-            "time": "17:10 ",
+            "time": "16:25 ",
             "special": false
           },
           {
-            "time": "17:40 ",
+            "time": "16:55 ",
             "special": false
           },
           {
-            "time": "18:10 ",
+            "time": "17:25 ",
             "special": false
           },
           {
-            "time": "18:45 ",
+            "time": "17:55 ",
             "special": false
           },
           {
-            "time": "19:15 ",
-            "special": false
-          },
-          {
-            "time": "19:45 ",
+            "time": "18:25 ",
             "special": false
           }
         ]
@@ -17879,38 +17761,37 @@
         "name": "Sábados",
         "times": [
           {
-            "time": "08:30 ",
+            "time": "09:25 ",
             "special": false
           },
           {
-            "time": "09:25 a",
+            "time": "09:55 ",
             "special": false
           },
           {
-            "time": "12:10 ",
+            "time": "10:25 ",
             "special": false
           },
           {
-            "time": "13:15 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "13:20 ",
+            "time": "10:55 ",
             "special": false
           },
           {
-            "time": "18:40 c",
+            "time": "11:25 ",
+            "special": false
+          },
+          {
+            "time": "11:55 ",
+            "special": false
+          },
+          {
+            "time": "12:25 ",
             "special": false
           }
         ]
       }
     ],
-    "order": 0
+    "order": 1
   },
   {
     "schedule_id": 1057,
@@ -21235,124 +21116,6 @@
     "order": 1
   },
   {
-    "schedule_id": 1027,
-    "line_id": 145,
-    "epoch_id": 5,
-    "stop_name": "Valongo",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:40 ",
-            "special": false
-          },
-          {
-            "time": "07:35 ",
-            "special": false
-          },
-          {
-            "time": "07:50 b",
-            "special": false
-          },
-          {
-            "time": "08:30 ",
-            "special": false
-          },
-          {
-            "time": "09:30 ",
-            "special": false
-          },
-          {
-            "time": "10:30 ",
-            "special": false
-          },
-          {
-            "time": "12:40 ",
-            "special": false
-          },
-          {
-            "time": "13:05 ",
-            "special": false
-          },
-          {
-            "time": "13:45 ",
-            "special": false
-          },
-          {
-            "time": "14:10 ",
-            "special": false
-          },
-          {
-            "time": "14:45 ",
-            "special": false
-          },
-          {
-            "time": "17:40 ",
-            "special": false
-          },
-          {
-            "time": "18:10 ",
-            "special": false
-          },
-          {
-            "time": "18:40 ",
-            "special": false
-          },
-          {
-            "time": "19:15 ",
-            "special": false
-          },
-          {
-            "time": "19:45 d",
-            "special": false
-          },
-          {
-            "time": "20:10 d",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "09:00 ",
-            "special": false
-          },
-          {
-            "time": "09:55 d",
-            "special": false
-          },
-          {
-            "time": "12:40 ",
-            "special": false
-          },
-          {
-            "time": "14:10 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "13:50 d",
-            "special": false
-          },
-          {
-            "time": "19:15 d",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
-  },
-  {
     "schedule_id": 1065,
     "line_id": 196,
     "epoch_id": 5,
@@ -24146,6 +23909,351 @@
           },
           {
             "time": "17:35 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
+  },
+  {
+    "schedule_id": 1201,
+    "line_id": 223,
+    "epoch_id": 5,
+    "stop_name": "Portagem",
+    "observations": "A Linha Azul tem um trajeto assinalado no pavimento através de um traço azul e não tem locais de paragem pré-definidos, parando o mini-autocarro a pedido dos clientes.",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "08:40 ",
+            "special": false
+          },
+          {
+            "time": "09:10 ",
+            "special": false
+          },
+          {
+            "time": "09:40 ",
+            "special": false
+          },
+          {
+            "time": "10:10 ",
+            "special": false
+          },
+          {
+            "time": "10:40 ",
+            "special": false
+          },
+          {
+            "time": "11:10 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "12:10 ",
+            "special": false
+          },
+          {
+            "time": "14:40 ",
+            "special": false
+          },
+          {
+            "time": "15:10 ",
+            "special": false
+          },
+          {
+            "time": "15:40 ",
+            "special": false
+          },
+          {
+            "time": "16:10 ",
+            "special": false
+          },
+          {
+            "time": "16:40 ",
+            "special": false
+          },
+          {
+            "time": "17:10 ",
+            "special": false
+          },
+          {
+            "time": "17:40 ",
+            "special": false
+          },
+          {
+            "time": "18:10 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "09:10 ",
+            "special": false
+          },
+          {
+            "time": "09:40 ",
+            "special": false
+          },
+          {
+            "time": "10:10 ",
+            "special": false
+          },
+          {
+            "time": "10:40 ",
+            "special": false
+          },
+          {
+            "time": "11:10 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "12:10 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
+  },
+  {
+    "schedule_id": 1198,
+    "line_id": 194,
+    "epoch_id": 5,
+    "stop_name": "Valongo",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:55 ",
+            "special": false
+          },
+          {
+            "time": "07:20 ",
+            "special": false
+          },
+          {
+            "time": "07:45 ",
+            "special": false
+          },
+          {
+            "time": "08:15 ",
+            "special": false
+          },
+          {
+            "time": "08:45 ",
+            "special": false
+          },
+          {
+            "time": "09:15 ",
+            "special": false
+          },
+          {
+            "time": "10:15 ",
+            "special": false
+          },
+          {
+            "time": "11:55 c",
+            "special": false
+          },
+          {
+            "time": "12:55 ",
+            "special": false
+          },
+          {
+            "time": "14:00 ",
+            "special": false
+          },
+          {
+            "time": "14:55 ",
+            "special": false
+          },
+          {
+            "time": "18:05 ",
+            "special": false
+          },
+          {
+            "time": "19:05 ",
+            "special": false
+          },
+          {
+            "time": "20:05 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "06:50 ",
+            "special": false
+          },
+          {
+            "time": "07:35 ",
+            "special": false
+          },
+          {
+            "time": "08:20 ",
+            "special": false
+          },
+          {
+            "time": "09:25 ",
+            "special": false
+          },
+          {
+            "time": "12:45 ",
+            "special": false
+          },
+          {
+            "time": "13:50 ",
+            "special": false
+          },
+          {
+            "time": "18:45 d",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "14:50 e",
+            "special": false
+          },
+          {
+            "time": "18:45 d",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
+  },
+  {
+    "schedule_id": 1199,
+    "line_id": 145,
+    "epoch_id": 5,
+    "stop_name": "Portagem",
+    "observations": "a) Linha 20T - Entre os Casais e o Outeiro dos Casais vai pelas Coalhadas, efectuando o percurso da Linha 17 entre a paragem por baixo do viaduto das Casas Novas e a Urbanização de S. Bento.\u003c/br\u003eb) No período escolar vai pelas escolas Inês de Castro e Silva Gaio.\u003c/br\u003ec) Vai ao Estremão.\u003c/br\u003ed) Termina à Portagem.",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "07:05 ",
+            "special": false
+          },
+          {
+            "time": "07:15 a",
+            "special": false
+          },
+          {
+            "time": "08:00 ",
+            "special": false
+          },
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "10:00 ",
+            "special": false
+          },
+          {
+            "time": "11:55 ",
+            "special": false
+          },
+          {
+            "time": "12:35 ",
+            "special": false
+          },
+          {
+            "time": "13:15 ",
+            "special": false
+          },
+          {
+            "time": "13:35 a",
+            "special": false
+          },
+          {
+            "time": "14:15 ",
+            "special": false
+          },
+          {
+            "time": "17:10 ",
+            "special": false
+          },
+          {
+            "time": "17:40 ",
+            "special": false
+          },
+          {
+            "time": "18:10 ",
+            "special": false
+          },
+          {
+            "time": "18:45 ",
+            "special": false
+          },
+          {
+            "time": "19:15 ",
+            "special": false
+          },
+          {
+            "time": "19:45 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "08:30 ",
+            "special": false
+          },
+          {
+            "time": "09:25 a",
+            "special": false
+          },
+          {
+            "time": "12:10 ",
+            "special": false
+          },
+          {
+            "time": "13:15 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "18:40 c",
             "special": false
           }
         ]
@@ -27700,6 +27808,124 @@
     "order": 0
   },
   {
+    "schedule_id": 1200,
+    "line_id": 145,
+    "epoch_id": 5,
+    "stop_name": "Valongo",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:40 ",
+            "special": false
+          },
+          {
+            "time": "07:35 ",
+            "special": false
+          },
+          {
+            "time": "07:50 b",
+            "special": false
+          },
+          {
+            "time": "08:30 ",
+            "special": false
+          },
+          {
+            "time": "09:30 ",
+            "special": false
+          },
+          {
+            "time": "10:30 ",
+            "special": false
+          },
+          {
+            "time": "12:40 ",
+            "special": false
+          },
+          {
+            "time": "13:05 ",
+            "special": false
+          },
+          {
+            "time": "13:45 ",
+            "special": false
+          },
+          {
+            "time": "14:10 ",
+            "special": false
+          },
+          {
+            "time": "14:45 ",
+            "special": false
+          },
+          {
+            "time": "17:40 ",
+            "special": false
+          },
+          {
+            "time": "18:10 ",
+            "special": false
+          },
+          {
+            "time": "18:40 ",
+            "special": false
+          },
+          {
+            "time": "19:15 ",
+            "special": false
+          },
+          {
+            "time": "19:45 d",
+            "special": false
+          },
+          {
+            "time": "20:10 d",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "09:55 d",
+            "special": false
+          },
+          {
+            "time": "12:40 ",
+            "special": false
+          },
+          {
+            "time": "14:10 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "13:50 d",
+            "special": false
+          },
+          {
+            "time": "19:15 d",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
+  },
+  {
     "schedule_id": 1099,
     "line_id": 176,
     "epoch_id": 1,
@@ -28930,232 +29156,6 @@
       }
     ],
     "order": 0
-  },
-  {
-    "schedule_id": 1155,
-    "line_id": 214,
-    "epoch_id": 5,
-    "stop_name": "Santa Cruz (P. 8 de Maio)",
-    "observations": "A Linha Azul tem um trajeto assinalado no pavimento através de um traço azul e não tem locais de paragem pré-definidos, parando o mini-autocarro a pedido dos clientes.\u003c/br\u003e\u003c/br\u003ea) Horário na Portagem;\u003c/br\u003e\u003c/br\u003eb) Termina na Portagem.",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "08:45 a",
-            "special": false
-          },
-          {
-            "time": "09:15 ",
-            "special": false
-          },
-          {
-            "time": "09:45 ",
-            "special": false
-          },
-          {
-            "time": "10:15 ",
-            "special": false
-          },
-          {
-            "time": "10:45 ",
-            "special": false
-          },
-          {
-            "time": "11:15 ",
-            "special": false
-          },
-          {
-            "time": "11:45 ",
-            "special": false
-          },
-          {
-            "time": "12:15 ",
-            "special": false
-          },
-          {
-            "time": "14:45 a",
-            "special": false
-          },
-          {
-            "time": "15:15 ",
-            "special": false
-          },
-          {
-            "time": "15:45 ",
-            "special": false
-          },
-          {
-            "time": "16:15 ",
-            "special": false
-          },
-          {
-            "time": "16:45 ",
-            "special": false
-          },
-          {
-            "time": "17:15 ",
-            "special": false
-          },
-          {
-            "time": "17:45 ",
-            "special": false
-          },
-          {
-            "time": "18:15 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "09:15 a",
-            "special": false
-          },
-          {
-            "time": "09:45 ",
-            "special": false
-          },
-          {
-            "time": "10:15 ",
-            "special": false
-          },
-          {
-            "time": "10:45 ",
-            "special": false
-          },
-          {
-            "time": "11:15 ",
-            "special": false
-          },
-          {
-            "time": "11:45 ",
-            "special": false
-          },
-          {
-            "time": "12:15 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 0
-  },
-  {
-    "schedule_id": 1156,
-    "line_id": 214,
-    "epoch_id": 5,
-    "stop_name": "Sé Velha",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "08:55 ",
-            "special": false
-          },
-          {
-            "time": "09:25 ",
-            "special": false
-          },
-          {
-            "time": "09:55 ",
-            "special": false
-          },
-          {
-            "time": "10:25 ",
-            "special": false
-          },
-          {
-            "time": "10:55 ",
-            "special": false
-          },
-          {
-            "time": "11:25 ",
-            "special": false
-          },
-          {
-            "time": "11:55 ",
-            "special": false
-          },
-          {
-            "time": "12:25 b",
-            "special": false
-          },
-          {
-            "time": "14:55 ",
-            "special": false
-          },
-          {
-            "time": "15:25 ",
-            "special": false
-          },
-          {
-            "time": "15:55 ",
-            "special": false
-          },
-          {
-            "time": "16:25 ",
-            "special": false
-          },
-          {
-            "time": "16:55 ",
-            "special": false
-          },
-          {
-            "time": "17:25 ",
-            "special": false
-          },
-          {
-            "time": "17:55 ",
-            "special": false
-          },
-          {
-            "time": "18:25 b",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "09:25 ",
-            "special": false
-          },
-          {
-            "time": "09:55 ",
-            "special": false
-          },
-          {
-            "time": "10:25 ",
-            "special": false
-          },
-          {
-            "time": "10:55 ",
-            "special": false
-          },
-          {
-            "time": "11:25 ",
-            "special": false
-          },
-          {
-            "time": "11:55 ",
-            "special": false
-          },
-          {
-            "time": "12:25 b",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
   },
   {
     "schedule_id": 1157,
