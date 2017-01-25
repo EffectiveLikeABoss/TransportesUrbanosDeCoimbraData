@@ -2,41 +2,41 @@
   {
     "resource": "Epochs",
     "date": {
-      "year": 2016,
-      "month": 12,
-      "day": 26
+      "year": 2017,
+      "month": 1,
+      "day": 25
     }
   },
   {
     "resource": "Lines",
     "date": {
-      "year": 2016,
-      "month": 12,
-      "day": 26
+      "year": 2017,
+      "month": 1,
+      "day": 25
     }
   },
   {
     "resource": "SalePoints",
     "date": {
-      "year": 2016,
-      "month": 12,
-      "day": 26
+      "year": 2017,
+      "month": 1,
+      "day": 25
     }
   },
   {
     "resource": "Schedules",
     "date": {
-      "year": 2016,
-      "month": 12,
-      "day": 26
+      "year": 2017,
+      "month": 1,
+      "day": 25
     }
   },
   {
     "resource": "Tickets",
     "date": {
-      "year": 2016,
-      "month": 12,
-      "day": 26
+      "year": 2017,
+      "month": 1,
+      "day": 25
     }
   }
 ]

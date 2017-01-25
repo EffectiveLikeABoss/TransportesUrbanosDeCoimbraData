@@ -4,7 +4,7 @@
     "name": "PERÍODO ESCOLAR",
     "begin": {
       "date": {
-        "year": 2015,
+        "year": 2017,
         "month": 1,
         "day": 1
       },
@@ -16,7 +16,7 @@
     },
     "end": {
       "date": {
-        "year": 2017,
+        "year": 2019,
         "month": 1,
         "day": 1
       },
@@ -32,9 +32,9 @@
     "name": "FÉRIAS ESCOLARES",
     "begin": {
       "date": {
-        "year": 2016,
-        "month": 6,
-        "day": 13
+        "year": 2017,
+        "month": 2,
+        "day": 27
       },
       "time": {
         "hour": 2,
@@ -44,9 +44,9 @@
     },
     "end": {
       "date": {
-        "year": 2016,
-        "month": 9,
-        "day": 18
+        "year": 2017,
+        "month": 3,
+        "day": 2
       },
       "time": {
         "hour": 2,
@@ -60,7 +60,7 @@
     "name": "AGOSTO",
     "begin": {
       "date": {
-        "year": 2016,
+        "year": 2017,
         "month": 8,
         "day": 1
       },
@@ -72,7 +72,7 @@
     },
     "end": {
       "date": {
-        "year": 2016,
+        "year": 2017,
         "month": 9,
         "day": 1
       },
@@ -88,7 +88,7 @@
     "name": "TODO O ANO",
     "begin": {
       "date": {
-        "year": 2015,
+        "year": 2017,
         "month": 1,
         "day": 1
       },
@@ -100,7 +100,7 @@
     },
     "end": {
       "date": {
-        "year": 2017,
+        "year": 2019,
         "month": 1,
         "day": 1
       },
@@ -116,7 +116,7 @@
     "name": "TODO O ANO, EXCEPTO AGOSTO",
     "begin": {
       "date": {
-        "year": 2015,
+        "year": 2017,
         "month": 1,
         "day": 1
       },
@@ -128,7 +128,7 @@
     },
     "end": {
       "date": {
-        "year": 2017,
+        "year": 2019,
         "month": 1,
         "day": 1
       },
@@ -148,9 +148,9 @@
     "name": "FÉRIAS ESCOLARES, EXCETO AGOSTO",
     "begin": {
       "date": {
-        "year": 2016,
-        "month": 6,
-        "day": 13
+        "year": 2017,
+        "month": 2,
+        "day": 27
       },
       "time": {
         "hour": 2,
@@ -160,9 +160,9 @@
     },
     "end": {
       "date": {
-        "year": 2016,
-        "month": 9,
-        "day": 18
+        "year": 2017,
+        "month": 3,
+        "day": 2
       },
       "time": {
         "hour": 2,
@@ -240,7 +240,7 @@
     "name": "TODO O ANO, EXC. FÉRIAS VERÃO",
     "begin": {
       "date": {
-        "year": 2015,
+        "year": 2017,
         "month": 1,
         "day": 1
       },
@@ -252,7 +252,7 @@
     },
     "end": {
       "date": {
-        "year": 2017,
+        "year": 2019,
         "month": 1,
         "day": 1
       },
@@ -268,9 +268,9 @@
     "name": "FÉRIAS DE VERÃO",
     "begin": {
       "date": {
-        "year": 2016,
+        "year": 2017,
         "month": 6,
-        "day": 13
+        "day": 18
       },
       "time": {
         "hour": 2,
@@ -280,7 +280,7 @@
     },
     "end": {
       "date": {
-        "year": 2016,
+        "year": 2017,
         "month": 9,
         "day": 18
       },
@@ -296,9 +296,9 @@
     "name": "FÉRIAS ESCOLARES, EXCEPTO AGOSTO  ",
     "begin": {
       "date": {
-        "year": 2016,
-        "month": 6,
-        "day": 13
+        "year": 2017,
+        "month": 2,
+        "day": 27
       },
       "time": {
         "hour": 2,
@@ -308,9 +308,9 @@
     },
     "end": {
       "date": {
-        "year": 2016,
-        "month": 9,
-        "day": 18
+        "year": 2017,
+        "month": 3,
+        "day": 2
       },
       "time": {
         "hour": 2,
@@ -324,7 +324,7 @@
     "name": "TODO O ANO, EXCETO AGOSTO",
     "begin": {
       "date": {
-        "year": 2015,
+        "year": 2017,
         "month": 1,
         "day": 1
       },
@@ -336,7 +336,7 @@
     },
     "end": {
       "date": {
-        "year": 2017,
+        "year": 2019,
         "month": 1,
         "day": 1
       },
