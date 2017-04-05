@@ -4,6 +4,26 @@
     "ticket_description": "Rede Geral",
     "tariffs": [
       {
+        "name": "1 DESLOCAÇÃO",
+        "total_price": "1.00",
+        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
+        "order": 0
+      },
+      {
+        "name": "3 DESLOCAÇÕES",
+        "total_price": "2.90",
+        "trip_price": "0.97",
+        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
+        "order": 0
+      },
+      {
+        "name": "10 DESLOCAÇÕES",
+        "total_price": "8.50",
+        "trip_price": "0.85",
+        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
+        "order": 0
+      },
+      {
         "name": "3 viagens",
         "total_price": "2.20",
         "trip_price": "0.73",
@@ -100,7 +120,7 @@
       {
         "name": "Passe Social Geral (mensal)",
         "total_price": "35.00",
-        "tariff_desciption": "Válido para toda a rede e com direito a estacionamento gratuito nos Parques de Estacionamento da Casa do Sal.",
+        "tariff_desciption": "Válido para toda a rede e com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal.",
         "order": 0
       }
     ]
@@ -129,7 +149,7 @@
       },
       {
         "name": "Combinado (mensal)",
-        "total_price": "Gratuito nos SMTUC (Protocolo entre a CMC e as transportadoras JOALTO, MOISÉS CORREIA DE OLIVEIRA e TRANSDEV)",
+        "total_price": "Gratuito nos SMTUC (Protocolo entre a CMC e as transportadoras Moisés Correia de Oliveira e JOALTO/TRANSDEV)",
         "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
         "order": 0
       },
@@ -147,8 +167,8 @@
       },
       {
         "name": "Centro Histórico - Elevador do Mercado / Linha Azul (anual)",
-        "total_price": "Gratuito para quem reuna as condições de atribuição",
-        "tariff_desciption": "Válido para o Elevador do Mercado e Linha Azul. Ver condições de atribuição.",
+        "total_price": "Gratuito para quem reúna as condições de atribuição",
+        "tariff_desciption": "Válido para o Elevador do Mercado e para a  Linha Azul. Ver condições de atribuição.",
         "order": 0
       },
       {
@@ -214,52 +234,26 @@
       {
         "name": "Entidade - 2 deslocações + Estacionamento",
         "total_price": "1.95",
-        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento gratuito nos Parques de Estacionamento da Casa do Sal. Ver condições de acesso e utilização.",
+        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
         "order": 13
       },
       {
         "name": "2 deslocações + Estacionamento",
         "total_price": "2.60",
-        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento gratuito nos Parques de Estacionamento da Casa do Sal. Ver condições de acesso e utilização.",
+        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
         "order": 14
       },
       {
         "name": "4 deslocações + Estacionamento",
         "total_price": "4.20",
-        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento gratuito nos Parques de Estacionamento da Casa do Sal. Ver condições de acesso e utilização.",
+        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
         "order": 15
       },
       {
         "name": "Entidade - 4 deslocações + Estacionamento",
         "total_price": "3.15",
-        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento gratuito nos Parques de Estacionamento da Casa do Sal. Ver condições de acesso e utilização.",
+        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
         "order": 17
-      }
-    ]
-  },
-  {
-    "ticket_id": 6,
-    "ticket_description": "Bilhetes Horários",
-    "tariffs": [
-      {
-        "name": "1 DESLOCAÇÃO",
-        "total_price": "1.00",
-        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os titulos Multiviagens já existentes",
-        "order": 0
-      },
-      {
-        "name": "3 DESLOCAÇÕES",
-        "total_price": "2.90",
-        "trip_price": "0.97",
-        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os titulos Multiviagens já existentes",
-        "order": 0
-      },
-      {
-        "name": "10 DESLOCAÇÕES",
-        "total_price": "8.50",
-        "trip_price": "0.85",
-        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os titulos Multiviagens já existentes",
-        "order": 0
       }
     ]
   }

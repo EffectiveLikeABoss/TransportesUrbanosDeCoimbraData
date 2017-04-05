@@ -578,6 +578,252 @@
     "order": 1
   },
   {
+    "schedule_id": 1232,
+    "line_id": 205,
+    "epoch_id": 5,
+    "stop_name": "Pólo II",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "07:25 ",
+            "special": false
+          },
+          {
+            "time": "08:20 g",
+            "special": false
+          },
+          {
+            "time": "08:25 d",
+            "special": true
+          },
+          {
+            "time": "08:45 b",
+            "special": true
+          },
+          {
+            "time": "08:57 b",
+            "special": true
+          },
+          {
+            "time": "09:00 ",
+            "special": true
+          },
+          {
+            "time": "09:15 ",
+            "special": false
+          },
+          {
+            "time": "09:20 b",
+            "special": true
+          },
+          {
+            "time": "10:30 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "12:45 g",
+            "special": false
+          },
+          {
+            "time": "13:40 ",
+            "special": false
+          },
+          {
+            "time": "14:05 a",
+            "special": false
+          },
+          {
+            "time": "14:35 ",
+            "special": false
+          },
+          {
+            "time": "15:00 a",
+            "special": false
+          },
+          {
+            "time": "15:30 ",
+            "special": false
+          },
+          {
+            "time": "16:00 a",
+            "special": false
+          },
+          {
+            "time": "16:30 g",
+            "special": false
+          },
+          {
+            "time": "17:00 a",
+            "special": false
+          },
+          {
+            "time": "17:30 ",
+            "special": false
+          },
+          {
+            "time": "17:35 b",
+            "special": false
+          },
+          {
+            "time": "18:00 a",
+            "special": false
+          },
+          {
+            "time": "18:30 ",
+            "special": false
+          },
+          {
+            "time": "19:00 a",
+            "special": false
+          },
+          {
+            "time": "19:25 ",
+            "special": false
+          },
+          {
+            "time": "20:15 ",
+            "special": false
+          },
+          {
+            "time": "20:35 a",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "08:00 ",
+            "special": false
+          },
+          {
+            "time": "08:40 d",
+            "special": false
+          },
+          {
+            "time": "08:55 ",
+            "special": false
+          },
+          {
+            "time": "09:50 ",
+            "special": false
+          },
+          {
+            "time": "10:45 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "12:35 ",
+            "special": false
+          },
+          {
+            "time": "13:30 ",
+            "special": false
+          },
+          {
+            "time": "14:15 d",
+            "special": false
+          },
+          {
+            "time": "14:25 ",
+            "special": false
+          },
+          {
+            "time": "15:20 ",
+            "special": false
+          },
+          {
+            "time": "16:15 ",
+            "special": false
+          },
+          {
+            "time": "17:10 ",
+            "special": false
+          },
+          {
+            "time": "18:05 ",
+            "special": false
+          },
+          {
+            "time": "19:00 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "09:25 d",
+            "special": false
+          },
+          {
+            "time": "09:50 ",
+            "special": false
+          },
+          {
+            "time": "10:45 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "12:35 ",
+            "special": false
+          },
+          {
+            "time": "13:30 ",
+            "special": false
+          },
+          {
+            "time": "14:15 d",
+            "special": false
+          },
+          {
+            "time": "14:25 ",
+            "special": false
+          },
+          {
+            "time": "15:20 ",
+            "special": false
+          },
+          {
+            "time": "16:15 ",
+            "special": false
+          },
+          {
+            "time": "17:10 ",
+            "special": false
+          },
+          {
+            "time": "18:05 ",
+            "special": false
+          },
+          {
+            "time": "19:00 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
+  },
+  {
     "schedule_id": 49,
     "line_id": 22,
     "epoch_id": 5,
@@ -2292,6 +2538,264 @@
       }
     ],
     "order": 1
+  },
+  {
+    "schedule_id": 1225,
+    "line_id": 213,
+    "epoch_id": 5,
+    "stop_name": "Praça da República",
+    "observations": "OS HORÁRIOS \u003cu\u003eSUBLINHADOS\u003c/u\u003e NÃO SE EFETUAM NO MÊS DE AGOSTO.\u003c/br\u003e\u003c/br\u003e\u003cstrong\u003eAs viagens de ida\u003c/strong\u003e da Linha n.º 19T iniciam-se na Casa do Sal 10 minutos antes do horário indicado para a P. da República.\u003c/br\u003e\u003c/br\u003ea) Vai a S. Romão no regresso da Rocha Nova.\u003c/br\u003eb) Vai a S. Romão (7h40) na ida para a Rocha Nova. No regresso vai pelos H.U.C.\u003c/br\u003ec) Viagem vinda dos Hospitais U.C. com início na P. República na paragem da Linha 36. Vai pelo P. Justiça, Av. F. Magalhães, Casa do Sal e Circular Externa até Coselhas, onde retoma o percurso habitual.\u003c/br\u003ed) Iniciam o Serviço na Casa do Sal 5 minutos antes do horário indicado para a P. República, exceto a viagem das 7h20 (7h10 na Casa do Sal).\u003c/br\u003ee) Termina na P. República, não indo aos Hospitais U.C.\u003c/br\u003ef) Vai pelos Hospitais U.C., C. Celas e P. República, seguindo para o P. Justiça, Av. Fernão Magalhães e Casa do Sal.\u003c/br\u003eg) No regresso da Rocha Nova vai por S. Paulo de Frades, Casal da Rosa, Eiras, Bº de Santa Apolónia, Monte Romeiras e Bº do Brinca.\u003c/br\u003eh) A partir de Lordemão vai por S. Romão e Circular Externa até à primeira saída para Coselhas.\u003c/br\u003ei) Após a P. República, termina nos Hospitais U.C.",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:30 d",
+            "special": false
+          },
+          {
+            "time": "07:10 ",
+            "special": true
+          },
+          {
+            "time": "07:20 b",
+            "special": false
+          },
+          {
+            "time": "07:45 ",
+            "special": false
+          },
+          {
+            "time": "08:20 c",
+            "special": false
+          },
+          {
+            "time": "09:25 ",
+            "special": false
+          },
+          {
+            "time": "10:00 ",
+            "special": false
+          },
+          {
+            "time": "11:15 ",
+            "special": false
+          },
+          {
+            "time": "12:20 a",
+            "special": false
+          },
+          {
+            "time": "12:50 d",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "13:50 ",
+            "special": false
+          },
+          {
+            "time": "14:50 ",
+            "special": true
+          },
+          {
+            "time": "15:10 ",
+            "special": false
+          },
+          {
+            "time": "16:10 ",
+            "special": false
+          },
+          {
+            "time": "16:40 ",
+            "special": true
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "17:40 a",
+            "special": false
+          },
+          {
+            "time": "18:00 ",
+            "special": false
+          },
+          {
+            "time": "18:20 ",
+            "special": true
+          },
+          {
+            "time": "18:40 ",
+            "special": false
+          },
+          {
+            "time": "19:00 ",
+            "special": false
+          },
+          {
+            "time": "19:40 ",
+            "special": false
+          },
+          {
+            "time": "20:20 ",
+            "special": true
+          },
+          {
+            "time": "20:40 ",
+            "special": false
+          },
+          {
+            "time": "21:40 d",
+            "special": false
+          },
+          {
+            "time": "22:30 g",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "06:45 d",
+            "special": false
+          },
+          {
+            "time": "07:05 d",
+            "special": false
+          },
+          {
+            "time": "07:30 ",
+            "special": false
+          },
+          {
+            "time": "07:50 ",
+            "special": false
+          },
+          {
+            "time": "08:25 ",
+            "special": false
+          },
+          {
+            "time": "10:00 ",
+            "special": false
+          },
+          {
+            "time": "10:30 ",
+            "special": false
+          },
+          {
+            "time": "11:15 ",
+            "special": false
+          },
+          {
+            "time": "11:40 a",
+            "special": false
+          },
+          {
+            "time": "12:20 ",
+            "special": false
+          },
+          {
+            "time": "12:50 ",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "13:50 a",
+            "special": false
+          },
+          {
+            "time": "15:10 ",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "18:00 ",
+            "special": false
+          },
+          {
+            "time": "19:00 ",
+            "special": false
+          },
+          {
+            "time": "20:00 d",
+            "special": false
+          },
+          {
+            "time": "20:50 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "07:50 d",
+            "special": false
+          },
+          {
+            "time": "08:35 ",
+            "special": false
+          },
+          {
+            "time": "09:25 ",
+            "special": false
+          },
+          {
+            "time": "12:45 d",
+            "special": false
+          },
+          {
+            "time": "13:45 ",
+            "special": false
+          },
+          {
+            "time": "14:40 a",
+            "special": false
+          },
+          {
+            "time": "15:40 c",
+            "special": false
+          },
+          {
+            "time": "16:40 a",
+            "special": false
+          },
+          {
+            "time": "17:40 ",
+            "special": false
+          },
+          {
+            "time": "18:40 ",
+            "special": false
+          },
+          {
+            "time": "19:35 ",
+            "special": false
+          },
+          {
+            "time": "20:25 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
   },
   {
     "schedule_id": 625,
@@ -4032,248 +4536,6 @@
     "order": 0
   },
   {
-    "schedule_id": 1168,
-    "line_id": 205,
-    "epoch_id": 5,
-    "stop_name": "Pólo II",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "07:25 ",
-            "special": false
-          },
-          {
-            "time": "08:20 g",
-            "special": false
-          },
-          {
-            "time": "08:25 d",
-            "special": true
-          },
-          {
-            "time": "08:45 b",
-            "special": true
-          },
-          {
-            "time": "08:57 b",
-            "special": true
-          },
-          {
-            "time": "09:00 ",
-            "special": true
-          },
-          {
-            "time": "09:15 ",
-            "special": false
-          },
-          {
-            "time": "09:20 b",
-            "special": true
-          },
-          {
-            "time": "10:30 ",
-            "special": false
-          },
-          {
-            "time": "11:40 ",
-            "special": false
-          },
-          {
-            "time": "12:45 g",
-            "special": false
-          },
-          {
-            "time": "13:40 ",
-            "special": false
-          },
-          {
-            "time": "14:05 a",
-            "special": false
-          },
-          {
-            "time": "14:35 ",
-            "special": false
-          },
-          {
-            "time": "15:00 a",
-            "special": false
-          },
-          {
-            "time": "15:30 ",
-            "special": false
-          },
-          {
-            "time": "16:00 a",
-            "special": false
-          },
-          {
-            "time": "16:30 g",
-            "special": false
-          },
-          {
-            "time": "17:00 a",
-            "special": false
-          },
-          {
-            "time": "17:30 ",
-            "special": false
-          },
-          {
-            "time": "17:35 b",
-            "special": false
-          },
-          {
-            "time": "18:00 a",
-            "special": false
-          },
-          {
-            "time": "18:30 ",
-            "special": false
-          },
-          {
-            "time": "19:00 a",
-            "special": false
-          },
-          {
-            "time": "19:25 ",
-            "special": false
-          },
-          {
-            "time": "20:15 ",
-            "special": false
-          },
-          {
-            "time": "20:35 a",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "08:00 ",
-            "special": false
-          },
-          {
-            "time": "08:40 d",
-            "special": false
-          },
-          {
-            "time": "08:55 ",
-            "special": false
-          },
-          {
-            "time": "09:50 ",
-            "special": false
-          },
-          {
-            "time": "10:45 ",
-            "special": false
-          },
-          {
-            "time": "11:40 ",
-            "special": false
-          },
-          {
-            "time": "12:35 ",
-            "special": false
-          },
-          {
-            "time": "13:30 ",
-            "special": false
-          },
-          {
-            "time": "14:15 d",
-            "special": false
-          },
-          {
-            "time": "14:25 ",
-            "special": false
-          },
-          {
-            "time": "15:20 ",
-            "special": false
-          },
-          {
-            "time": "16:15 ",
-            "special": false
-          },
-          {
-            "time": "17:10 ",
-            "special": false
-          },
-          {
-            "time": "18:05 ",
-            "special": false
-          },
-          {
-            "time": "19:00 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "09:50 ",
-            "special": false
-          },
-          {
-            "time": "10:45 ",
-            "special": false
-          },
-          {
-            "time": "11:40 ",
-            "special": false
-          },
-          {
-            "time": "12:35 ",
-            "special": false
-          },
-          {
-            "time": "13:30 ",
-            "special": false
-          },
-          {
-            "time": "14:15 d",
-            "special": false
-          },
-          {
-            "time": "14:25 ",
-            "special": false
-          },
-          {
-            "time": "15:20 ",
-            "special": false
-          },
-          {
-            "time": "16:15 ",
-            "special": false
-          },
-          {
-            "time": "17:10 ",
-            "special": false
-          },
-          {
-            "time": "18:05 ",
-            "special": false
-          },
-          {
-            "time": "19:00 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
-  },
-  {
     "schedule_id": 1045,
     "line_id": 201,
     "epoch_id": 5,
@@ -5946,264 +6208,6 @@
     "order": 1
   },
   {
-    "schedule_id": 1129,
-    "line_id": 213,
-    "epoch_id": 5,
-    "stop_name": "Praça da República",
-    "observations": "OS HORÁRIOS \u003cu\u003eSUBLINHADOS\u003c/u\u003e NÃO SE EFETUAM NO MÊS DE AGOSTO.\u003c/br\u003e\u003c/br\u003e\u003cstrong\u003eAs viagens de ida\u003c/strong\u003e da Linha n.º 19T iniciam-se na Casa do Sal 10 minutos antes do horário indicado para a P. da República.\u003c/br\u003e\u003c/br\u003ea) Vai a S. Romão no regresso da Rocha Nova.\u003c/br\u003eb) Vai a S. Romão (7h40) na ida para a Rocha Nova. No regresso vai pelos H.U.C.\u003c/br\u003ec) Viagem vinda dos Hospitais U.C. com início na P. República na paragem da Linha 36. Vai pelo P. Justiça, Av. F. Magalhães, Casa do Sal e Circular Externa até Coselhas, onde retoma o percurso habitual.\u003c/br\u003ed) Iniciam o Serviço na Casa do Sal 5 minutos antes do horário indicado para a P. República, exceto a viagem das 7h20 (7h10 na Casa do Sal).\u003c/br\u003ee) Termina na P. República, não indo aos Hospitais U.C.\u003c/br\u003ef) Vai pelos Hospitais U.C., C. Celas e P. República, seguindo para o P. Justiça, Av. Fernão Magalhães e Casa do Sal.\u003c/br\u003eg) No regresso da Rocha Nova vai por S. Paulo de Frades, Casal da Rosa, Eiras, Monte Romeiras e Bº do Brinca.\u003c/br\u003eh) A partir de Lordemão vai por S. Romão e Circular Externa até à primeira saída para Coselhas.\u003c/br\u003ei) Após a P. República, termina nos Hospitais U.C.",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:30 d",
-            "special": false
-          },
-          {
-            "time": "07:10 ",
-            "special": true
-          },
-          {
-            "time": "07:20 b",
-            "special": false
-          },
-          {
-            "time": "07:45 ",
-            "special": false
-          },
-          {
-            "time": "08:20 c",
-            "special": false
-          },
-          {
-            "time": "09:25 ",
-            "special": false
-          },
-          {
-            "time": "10:00 ",
-            "special": false
-          },
-          {
-            "time": "11:15 ",
-            "special": false
-          },
-          {
-            "time": "12:20 a",
-            "special": false
-          },
-          {
-            "time": "12:50 d",
-            "special": false
-          },
-          {
-            "time": "13:20 ",
-            "special": false
-          },
-          {
-            "time": "13:50 ",
-            "special": false
-          },
-          {
-            "time": "14:50 ",
-            "special": true
-          },
-          {
-            "time": "15:10 ",
-            "special": false
-          },
-          {
-            "time": "16:10 ",
-            "special": false
-          },
-          {
-            "time": "16:40 ",
-            "special": true
-          },
-          {
-            "time": "17:00 ",
-            "special": false
-          },
-          {
-            "time": "17:40 a",
-            "special": false
-          },
-          {
-            "time": "18:00 ",
-            "special": false
-          },
-          {
-            "time": "18:20 ",
-            "special": true
-          },
-          {
-            "time": "18:40 ",
-            "special": false
-          },
-          {
-            "time": "19:00 ",
-            "special": false
-          },
-          {
-            "time": "19:40 ",
-            "special": false
-          },
-          {
-            "time": "20:20 ",
-            "special": true
-          },
-          {
-            "time": "20:40 ",
-            "special": false
-          },
-          {
-            "time": "21:40 d",
-            "special": false
-          },
-          {
-            "time": "22:30 g",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "06:45 d",
-            "special": false
-          },
-          {
-            "time": "07:05 d",
-            "special": false
-          },
-          {
-            "time": "07:30 ",
-            "special": false
-          },
-          {
-            "time": "07:50 ",
-            "special": false
-          },
-          {
-            "time": "08:25 ",
-            "special": false
-          },
-          {
-            "time": "10:00 ",
-            "special": false
-          },
-          {
-            "time": "10:30 ",
-            "special": false
-          },
-          {
-            "time": "11:15 ",
-            "special": false
-          },
-          {
-            "time": "11:40 a",
-            "special": false
-          },
-          {
-            "time": "12:20 ",
-            "special": false
-          },
-          {
-            "time": "12:50 ",
-            "special": false
-          },
-          {
-            "time": "13:20 ",
-            "special": false
-          },
-          {
-            "time": "13:50 a",
-            "special": false
-          },
-          {
-            "time": "15:10 ",
-            "special": false
-          },
-          {
-            "time": "17:00 ",
-            "special": false
-          },
-          {
-            "time": "18:00 ",
-            "special": false
-          },
-          {
-            "time": "19:00 ",
-            "special": false
-          },
-          {
-            "time": "20:00 d",
-            "special": false
-          },
-          {
-            "time": "20:50 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "07:50 d",
-            "special": false
-          },
-          {
-            "time": "08:35 ",
-            "special": false
-          },
-          {
-            "time": "09:25 ",
-            "special": false
-          },
-          {
-            "time": "12:45 d",
-            "special": false
-          },
-          {
-            "time": "13:45 ",
-            "special": false
-          },
-          {
-            "time": "14:40 a",
-            "special": false
-          },
-          {
-            "time": "15:40 c",
-            "special": false
-          },
-          {
-            "time": "16:40 a",
-            "special": false
-          },
-          {
-            "time": "17:40 ",
-            "special": false
-          },
-          {
-            "time": "18:40 ",
-            "special": false
-          },
-          {
-            "time": "19:35 ",
-            "special": false
-          },
-          {
-            "time": "20:25 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 0
-  },
-  {
     "schedule_id": 862,
     "line_id": 166,
     "epoch_id": 4,
@@ -6660,264 +6664,6 @@
       }
     ],
     "order": 4
-  },
-  {
-    "schedule_id": 1130,
-    "line_id": 213,
-    "epoch_id": 5,
-    "stop_name": "Rocha Nova",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:50 ",
-            "special": false
-          },
-          {
-            "time": "07:40 ",
-            "special": true
-          },
-          {
-            "time": "07:55 f",
-            "special": false
-          },
-          {
-            "time": "08:20 e",
-            "special": false
-          },
-          {
-            "time": "09:00 ",
-            "special": false
-          },
-          {
-            "time": "09:55 i",
-            "special": false
-          },
-          {
-            "time": "10:50 ",
-            "special": false
-          },
-          {
-            "time": "11:55 ",
-            "special": false
-          },
-          {
-            "time": "12:50 h",
-            "special": false
-          },
-          {
-            "time": "13:25 ",
-            "special": false
-          },
-          {
-            "time": "13:50 ",
-            "special": false
-          },
-          {
-            "time": "14:25 ",
-            "special": false
-          },
-          {
-            "time": "15:25 ",
-            "special": true
-          },
-          {
-            "time": "15:45 ",
-            "special": false
-          },
-          {
-            "time": "16:35 ",
-            "special": false
-          },
-          {
-            "time": "17:15 ",
-            "special": true
-          },
-          {
-            "time": "17:35 ",
-            "special": false
-          },
-          {
-            "time": "18:05 h",
-            "special": false
-          },
-          {
-            "time": "18:35 ",
-            "special": false
-          },
-          {
-            "time": "18:55 ",
-            "special": true
-          },
-          {
-            "time": "19:15 ",
-            "special": false
-          },
-          {
-            "time": "19:35 i",
-            "special": false
-          },
-          {
-            "time": "20:15 ",
-            "special": false
-          },
-          {
-            "time": "20:50 i",
-            "special": true
-          },
-          {
-            "time": "21:10 i",
-            "special": false
-          },
-          {
-            "time": "22:05 ",
-            "special": false
-          },
-          {
-            "time": "22:50 gi",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "07:05 ",
-            "special": false
-          },
-          {
-            "time": "07:25 ",
-            "special": false
-          },
-          {
-            "time": "08:00 ",
-            "special": false
-          },
-          {
-            "time": "08:20 ",
-            "special": false
-          },
-          {
-            "time": "09:00 ",
-            "special": false
-          },
-          {
-            "time": "10:50 ",
-            "special": false
-          },
-          {
-            "time": "11:15 ",
-            "special": false
-          },
-          {
-            "time": "11:55 ",
-            "special": false
-          },
-          {
-            "time": "12:15 a",
-            "special": false
-          },
-          {
-            "time": "12:55 ",
-            "special": false
-          },
-          {
-            "time": "13:25 ",
-            "special": false
-          },
-          {
-            "time": "13:50 ",
-            "special": false
-          },
-          {
-            "time": "14:15 fh",
-            "special": false
-          },
-          {
-            "time": "15:45 ",
-            "special": false
-          },
-          {
-            "time": "17:35 ",
-            "special": false
-          },
-          {
-            "time": "18:35 ",
-            "special": false
-          },
-          {
-            "time": "19:35 i",
-            "special": false
-          },
-          {
-            "time": "20:25 ",
-            "special": false
-          },
-          {
-            "time": "21:15 i",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "08:10 ",
-            "special": false
-          },
-          {
-            "time": "09:00 ",
-            "special": false
-          },
-          {
-            "time": "10:00 i",
-            "special": false
-          },
-          {
-            "time": "13:20 ",
-            "special": false
-          },
-          {
-            "time": "14:15 ",
-            "special": false
-          },
-          {
-            "time": "15:10 af",
-            "special": false
-          },
-          {
-            "time": "16:15 ",
-            "special": false
-          },
-          {
-            "time": "17:10 a",
-            "special": false
-          },
-          {
-            "time": "18:15 ",
-            "special": false
-          },
-          {
-            "time": "19:10 ",
-            "special": false
-          },
-          {
-            "time": "20:00 ",
-            "special": false
-          },
-          {
-            "time": "20:50 i",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
   },
   {
     "schedule_id": 841,
@@ -17170,252 +16916,6 @@
     "order": 0
   },
   {
-    "schedule_id": 1057,
-    "line_id": 34,
-    "epoch_id": 5,
-    "stop_name": "Hospital Sobral Cid",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:15 a",
-            "special": true
-          },
-          {
-            "time": "06:35 ",
-            "special": false
-          },
-          {
-            "time": "07:00 ",
-            "special": false
-          },
-          {
-            "time": "07:30 ",
-            "special": false
-          },
-          {
-            "time": "08:05 ",
-            "special": false
-          },
-          {
-            "time": "08:40 ",
-            "special": false
-          },
-          {
-            "time": "09:15 d",
-            "special": false
-          },
-          {
-            "time": "10:10 ",
-            "special": false
-          },
-          {
-            "time": "11:25 ",
-            "special": false
-          },
-          {
-            "time": "12:30 ",
-            "special": false
-          },
-          {
-            "time": "13:45 ",
-            "special": false
-          },
-          {
-            "time": "14:50 ",
-            "special": false
-          },
-          {
-            "time": "16:00 ",
-            "special": false
-          },
-          {
-            "time": "17:10 c",
-            "special": false
-          },
-          {
-            "time": "17:50 ",
-            "special": false
-          },
-          {
-            "time": "18:30 ",
-            "special": false
-          },
-          {
-            "time": "19:05 ",
-            "special": false
-          },
-          {
-            "time": "19:40 d",
-            "special": false
-          },
-          {
-            "time": "20:15 ",
-            "special": false
-          },
-          {
-            "time": "21:10 d",
-            "special": false
-          },
-          {
-            "time": "23:15 a",
-            "special": false
-          },
-          {
-            "time": "00:10 h",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "07:05 ",
-            "special": false
-          },
-          {
-            "time": "08:05 ",
-            "special": false
-          },
-          {
-            "time": "09:10 ",
-            "special": false
-          },
-          {
-            "time": "10:15 ",
-            "special": false
-          },
-          {
-            "time": "11:25 ",
-            "special": false
-          },
-          {
-            "time": "12:30 ",
-            "special": false
-          },
-          {
-            "time": "13:10 ",
-            "special": false
-          },
-          {
-            "time": "13:55 ",
-            "special": false
-          },
-          {
-            "time": "14:15 d",
-            "special": false
-          },
-          {
-            "time": "14:55 ",
-            "special": false
-          },
-          {
-            "time": "16:05 ",
-            "special": false
-          },
-          {
-            "time": "17:05 ",
-            "special": false
-          },
-          {
-            "time": "18:10 ",
-            "special": false
-          },
-          {
-            "time": "19:15 ",
-            "special": false
-          },
-          {
-            "time": "20:15 ",
-            "special": false
-          },
-          {
-            "time": "21:10 d",
-            "special": false
-          },
-          {
-            "time": "23:15 a",
-            "special": false
-          },
-          {
-            "time": "00:10 h",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "07:45 ",
-            "special": false
-          },
-          {
-            "time": "08:35 ",
-            "special": false
-          },
-          {
-            "time": "09:35 ",
-            "special": false
-          },
-          {
-            "time": "10:55 ",
-            "special": false
-          },
-          {
-            "time": "11:55 ",
-            "special": false
-          },
-          {
-            "time": "12:55 ",
-            "special": false
-          },
-          {
-            "time": "13:55 ",
-            "special": false
-          },
-          {
-            "time": "15:10 ",
-            "special": false
-          },
-          {
-            "time": "16:25 ",
-            "special": false
-          },
-          {
-            "time": "17:25 ",
-            "special": false
-          },
-          {
-            "time": "18:25 ",
-            "special": false
-          },
-          {
-            "time": "19:20 ",
-            "special": false
-          },
-          {
-            "time": "20:15 ",
-            "special": false
-          },
-          {
-            "time": "21:10 d",
-            "special": false
-          },
-          {
-            "time": "23:15 h",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
-  },
-  {
     "schedule_id": 876,
     "line_id": 117,
     "epoch_id": 5,
@@ -18240,252 +17740,6 @@
           },
           {
             "time": "19:35 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 0
-  },
-  {
-    "schedule_id": 1056,
-    "line_id": 34,
-    "epoch_id": 5,
-    "stop_name": "Portagem (Parque)",
-    "observations": "OS HORÁRIOS \u003cu\u003eSUBLINHADOS\u003c/u\u003e NÃO SE EFECTUAM NO PERÍODO DE FÉRIAS ESCOLARES\u003c/br\u003e\u003cstrong\u003ea)\u003c/strong\u003e Linha 10A - Efectua este horário no Hospital de Sobral Cid e no regresso ao Parque Dr. Manuel Braga vai por Castelo Viegas, Marco dos Pereiros, Assafarge, Carvalhais de Baixo, Banhos Secos e Cruzamento das Lages.\u003c/br\u003e\u003cstrong\u003eb)\u003c/strong\u003e Linha 10A - Na ida efectua o percurso da Linha 10 - para o regresso ver nota (a).\u003c/br\u003e\u003cstrong\u003ec)\u003c/strong\u003e Vão à E.B. 2+3 de Ceira, no período escolar.\u003c/br\u003e\u003cstrong\u003ed)\u003c/strong\u003e Termina à Portagem.\u003c/br\u003e\u003cstrong\u003ee)\u003c/strong\u003e Inicia à Estação Nova neste horário.\u003c/br\u003e\u003cstrong\u003ef)\u003c/strong\u003e Linha 10F - Efectua este horário na Beira Rio na paragem da Linha n.º 32. Na ida para o Hospital Sobral Cid vai pelo percurso da Linha n.º 18 (Ponte de S. Clara, Esc. D. Duarte, Banhos Secos, Carvalhais de Baixo, Assafarge, Marco dos Pereiros e Castelo Viegas). O regresso será pelo percurso da Linha n.º 10).\u003c/br\u003e\u003cstrong\u003eg)\u003c/strong\u003e Inicia no Palácio da Justiça às 6h25.\u003c/br\u003e\u003cstrong\u003eh)\u003c/strong\u003e A partir do Hospital Sobral Cid segue pela Estrada das Lages, terminando na Av. João das Regras.",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "05:55 b",
-            "special": true
-          },
-          {
-            "time": "06:15 ",
-            "special": false
-          },
-          {
-            "time": "06:35 g",
-            "special": false
-          },
-          {
-            "time": "07:00 ",
-            "special": false
-          },
-          {
-            "time": "07:35 ",
-            "special": false
-          },
-          {
-            "time": "08:10 c",
-            "special": false
-          },
-          {
-            "time": "08:45 ",
-            "special": false
-          },
-          {
-            "time": "09:20 ",
-            "special": false
-          },
-          {
-            "time": "10:50 ",
-            "special": false
-          },
-          {
-            "time": "12:05 ",
-            "special": false
-          },
-          {
-            "time": "13:10 ",
-            "special": false
-          },
-          {
-            "time": "14:20 ",
-            "special": false
-          },
-          {
-            "time": "15:30 ",
-            "special": false
-          },
-          {
-            "time": "16:40 ",
-            "special": false
-          },
-          {
-            "time": "17:20 e",
-            "special": false
-          },
-          {
-            "time": "18:00 ",
-            "special": false
-          },
-          {
-            "time": "18:30 ",
-            "special": false
-          },
-          {
-            "time": "19:10 ",
-            "special": false
-          },
-          {
-            "time": "19:50 ",
-            "special": false
-          },
-          {
-            "time": "20:50 ",
-            "special": false
-          },
-          {
-            "time": "22:50 b",
-            "special": false
-          },
-          {
-            "time": "23:45 h",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "06:40 ",
-            "special": false
-          },
-          {
-            "time": "07:45 ",
-            "special": false
-          },
-          {
-            "time": "08:45 ",
-            "special": false
-          },
-          {
-            "time": "09:50 ",
-            "special": false
-          },
-          {
-            "time": "10:50 ",
-            "special": false
-          },
-          {
-            "time": "12:05 ",
-            "special": false
-          },
-          {
-            "time": "12:40 e",
-            "special": false
-          },
-          {
-            "time": "13:10 ",
-            "special": false
-          },
-          {
-            "time": "13:50 ",
-            "special": false
-          },
-          {
-            "time": "14:30 ",
-            "special": false
-          },
-          {
-            "time": "15:35 ",
-            "special": false
-          },
-          {
-            "time": "16:40 ",
-            "special": false
-          },
-          {
-            "time": "17:45 ",
-            "special": false
-          },
-          {
-            "time": "18:50 ",
-            "special": false
-          },
-          {
-            "time": "19:55 ",
-            "special": false
-          },
-          {
-            "time": "20:50 ",
-            "special": false
-          },
-          {
-            "time": "22:50 b",
-            "special": false
-          },
-          {
-            "time": "23:45 h",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "07:25 ",
-            "special": false
-          },
-          {
-            "time": "08:10 ",
-            "special": false
-          },
-          {
-            "time": "09:10 f",
-            "special": false
-          },
-          {
-            "time": "10:10 ",
-            "special": false
-          },
-          {
-            "time": "11:30 ",
-            "special": false
-          },
-          {
-            "time": "12:30 ",
-            "special": false
-          },
-          {
-            "time": "13:30 ",
-            "special": false
-          },
-          {
-            "time": "14:30 ",
-            "special": false
-          },
-          {
-            "time": "15:45 ",
-            "special": false
-          },
-          {
-            "time": "17:00 ",
-            "special": false
-          },
-          {
-            "time": "18:00 ",
-            "special": false
-          },
-          {
-            "time": "19:00 ",
-            "special": false
-          },
-          {
-            "time": "19:55 ",
-            "special": false
-          },
-          {
-            "time": "20:50 ",
-            "special": false
-          },
-          {
-            "time": "22:50 h",
             "special": false
           }
         ]
@@ -22140,6 +21394,756 @@
           },
           {
             "time": "18:35 af",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
+  },
+  {
+    "schedule_id": 1226,
+    "line_id": 213,
+    "epoch_id": 5,
+    "stop_name": "Rocha Nova",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:50 ",
+            "special": false
+          },
+          {
+            "time": "07:40 ",
+            "special": true
+          },
+          {
+            "time": "07:55 f",
+            "special": false
+          },
+          {
+            "time": "08:20 e",
+            "special": false
+          },
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "09:55 i",
+            "special": false
+          },
+          {
+            "time": "10:50 ",
+            "special": false
+          },
+          {
+            "time": "11:55 ",
+            "special": false
+          },
+          {
+            "time": "12:50 h",
+            "special": false
+          },
+          {
+            "time": "13:25 ",
+            "special": false
+          },
+          {
+            "time": "13:50 ",
+            "special": false
+          },
+          {
+            "time": "14:25 ",
+            "special": false
+          },
+          {
+            "time": "15:25 ",
+            "special": true
+          },
+          {
+            "time": "15:45 ",
+            "special": false
+          },
+          {
+            "time": "16:35 ",
+            "special": false
+          },
+          {
+            "time": "17:15 ",
+            "special": true
+          },
+          {
+            "time": "17:35 ",
+            "special": false
+          },
+          {
+            "time": "18:05 h",
+            "special": false
+          },
+          {
+            "time": "18:35 ",
+            "special": false
+          },
+          {
+            "time": "18:55 ",
+            "special": true
+          },
+          {
+            "time": "19:15 ",
+            "special": false
+          },
+          {
+            "time": "19:35 i",
+            "special": false
+          },
+          {
+            "time": "20:15 ",
+            "special": false
+          },
+          {
+            "time": "20:50 i",
+            "special": true
+          },
+          {
+            "time": "21:10 i",
+            "special": false
+          },
+          {
+            "time": "22:05 ",
+            "special": false
+          },
+          {
+            "time": "22:50 gi",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "07:05 ",
+            "special": false
+          },
+          {
+            "time": "07:25 ",
+            "special": false
+          },
+          {
+            "time": "08:00 ",
+            "special": false
+          },
+          {
+            "time": "08:20 ",
+            "special": false
+          },
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "10:50 ",
+            "special": false
+          },
+          {
+            "time": "11:15 ",
+            "special": false
+          },
+          {
+            "time": "11:55 ",
+            "special": false
+          },
+          {
+            "time": "12:15 a",
+            "special": false
+          },
+          {
+            "time": "12:55 ",
+            "special": false
+          },
+          {
+            "time": "13:25 ",
+            "special": false
+          },
+          {
+            "time": "13:50 ",
+            "special": false
+          },
+          {
+            "time": "14:15 fh",
+            "special": false
+          },
+          {
+            "time": "15:45 ",
+            "special": false
+          },
+          {
+            "time": "17:35 ",
+            "special": false
+          },
+          {
+            "time": "18:35 ",
+            "special": false
+          },
+          {
+            "time": "19:35 i",
+            "special": false
+          },
+          {
+            "time": "20:25 ",
+            "special": false
+          },
+          {
+            "time": "21:15 i",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "08:10 ",
+            "special": false
+          },
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "10:00 i",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "14:15 ",
+            "special": false
+          },
+          {
+            "time": "15:10 af",
+            "special": false
+          },
+          {
+            "time": "16:15 ",
+            "special": false
+          },
+          {
+            "time": "17:10 a",
+            "special": false
+          },
+          {
+            "time": "18:15 ",
+            "special": false
+          },
+          {
+            "time": "19:10 ",
+            "special": false
+          },
+          {
+            "time": "20:00 ",
+            "special": false
+          },
+          {
+            "time": "20:50 i",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
+  },
+  {
+    "schedule_id": 1227,
+    "line_id": 34,
+    "epoch_id": 5,
+    "stop_name": "Portagem (Parque)",
+    "observations": "\u003cstrong\u003ea)\u003c/strong\u003e Linha 10A - Efectua este horário no Hospital de Sobral Cid e no regresso ao Parque Dr. Manuel Braga vai por Castelo Viegas, Marco dos Pereiros, Assafarge, Carvalhais de Baixo, Banhos Secos e Cruzamento das Lages.\u003c/br\u003e\u003cstrong\u003eb)\u003c/strong\u003e Linha 10A - Na ida efectua o percurso da Linha 10 - para o regresso ver nota (a).\u003c/br\u003e\u003cstrong\u003ec)\u003c/strong\u003e Vão à E.B. 2+3 de Ceira, no período escolar.\u003c/br\u003e\u003cstrong\u003ed)\u003c/strong\u003e Termina à Portagem.\u003c/br\u003e\u003cstrong\u003ee)\u003c/strong\u003e Inicia à Estação Nova neste horário.\u003c/br\u003e\u003cstrong\u003ef)\u003c/strong\u003e Linha 10F - Efectua este horário na Beira Rio na paragem da Linha n.º 32. Na ida para o Hospital Sobral Cid vai pelo percurso da Linha n.º 18 (Ponte de S. Clara, Esc. D. Duarte, Banhos Secos, Carvalhais de Baixo, Assafarge, Marco dos Pereiros e Castelo Viegas). O regresso será pelo percurso da Linha n.º 10).\u003c/br\u003e\u003cstrong\u003eg)\u003c/strong\u003e Inicia no Palácio da Justiça às 6h25.\u003c/br\u003e\u003cstrong\u003eh)\u003c/strong\u003e A partir do Hospital Sobral Cid segue pela Estrada das Lages, terminando na Av. João das Regras.",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "05:55 b",
+            "special": false
+          },
+          {
+            "time": "06:15 ",
+            "special": false
+          },
+          {
+            "time": "06:35 g",
+            "special": false
+          },
+          {
+            "time": "07:00 ",
+            "special": false
+          },
+          {
+            "time": "07:35 ",
+            "special": false
+          },
+          {
+            "time": "08:10 c",
+            "special": false
+          },
+          {
+            "time": "08:45 ",
+            "special": false
+          },
+          {
+            "time": "09:20 ",
+            "special": false
+          },
+          {
+            "time": "10:50 ",
+            "special": false
+          },
+          {
+            "time": "12:05 ",
+            "special": false
+          },
+          {
+            "time": "13:10 ",
+            "special": false
+          },
+          {
+            "time": "14:20 ",
+            "special": false
+          },
+          {
+            "time": "15:30 ",
+            "special": false
+          },
+          {
+            "time": "16:40 ",
+            "special": false
+          },
+          {
+            "time": "17:20 e",
+            "special": false
+          },
+          {
+            "time": "18:00 ",
+            "special": false
+          },
+          {
+            "time": "18:30 ",
+            "special": false
+          },
+          {
+            "time": "19:10 ",
+            "special": false
+          },
+          {
+            "time": "19:50 ",
+            "special": false
+          },
+          {
+            "time": "20:50 ",
+            "special": false
+          },
+          {
+            "time": "22:50 b",
+            "special": false
+          },
+          {
+            "time": "23:45 h",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "06:40 ",
+            "special": false
+          },
+          {
+            "time": "07:45 ",
+            "special": false
+          },
+          {
+            "time": "08:45 ",
+            "special": false
+          },
+          {
+            "time": "09:50 ",
+            "special": false
+          },
+          {
+            "time": "10:50 ",
+            "special": false
+          },
+          {
+            "time": "12:05 ",
+            "special": false
+          },
+          {
+            "time": "12:40 e",
+            "special": false
+          },
+          {
+            "time": "13:10 ",
+            "special": false
+          },
+          {
+            "time": "13:50 ",
+            "special": false
+          },
+          {
+            "time": "14:30 ",
+            "special": false
+          },
+          {
+            "time": "15:35 ",
+            "special": false
+          },
+          {
+            "time": "16:40 ",
+            "special": false
+          },
+          {
+            "time": "17:45 ",
+            "special": false
+          },
+          {
+            "time": "18:50 ",
+            "special": false
+          },
+          {
+            "time": "19:55 ",
+            "special": false
+          },
+          {
+            "time": "20:50 ",
+            "special": false
+          },
+          {
+            "time": "22:50 b",
+            "special": false
+          },
+          {
+            "time": "23:45 h",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "07:25 ",
+            "special": false
+          },
+          {
+            "time": "08:10 ",
+            "special": false
+          },
+          {
+            "time": "09:10 f",
+            "special": false
+          },
+          {
+            "time": "10:10 ",
+            "special": false
+          },
+          {
+            "time": "11:30 ",
+            "special": false
+          },
+          {
+            "time": "12:30 ",
+            "special": false
+          },
+          {
+            "time": "13:30 ",
+            "special": false
+          },
+          {
+            "time": "14:30 ",
+            "special": false
+          },
+          {
+            "time": "15:45 ",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "18:00 ",
+            "special": false
+          },
+          {
+            "time": "19:00 ",
+            "special": false
+          },
+          {
+            "time": "19:55 ",
+            "special": false
+          },
+          {
+            "time": "20:50 ",
+            "special": false
+          },
+          {
+            "time": "22:50 h",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
+  },
+  {
+    "schedule_id": 1231,
+    "line_id": 205,
+    "epoch_id": 5,
+    "stop_name": "Santa Clara",
+    "observations": "OS HORÁRIOS A \u003cu\u003eSUBLINHADO\u003c/u\u003e NÃO SE EFETUAM NO PERÍODO DE FÉRIAS ESCOLARES.\u003c/br\u003eAOS FINS-DE-SEMANA E FERIADOS FUNCIONA A LINHA N.º 38F QUE PASSA PELA QUINTA DA PORTELA E VAI PARA A PORTAGEM VIA AÇUDE-PONTE E AV. FERNÃO MAGALHÃES.\u003c/br\u003ea) Não se efetua no mês de agosto.\u003c/br\u003eb) Efetua a linha nº 38T cujo percurso de regresso termina na Portagem, não passando pelo Pinhal de Marrocos, Areeiro e Vale das Flores. Assim, a partir do Polo II segue pela Boavista, Av. Urbano Duarte, R. do Brasil e Av. Emídio Navarro até a Portagem.\u003c/br\u003ec) Inicia neste horário no Parque Manuel Braga, com destino ao Polo II (Linha n.º 38T).\u003c/br\u003ed) Inicia neste horário na Portagem, com destino a S. Clara.\u003c/br\u003ee) Termina a linha nº 38 no Pólo II, onde inicia a linha nº 34.\u003c/br\u003ef) Vai pela Ponte-Açude, Av. Fernão Magalhães e Estação Nova, terminando na Beira Rio.\u003c/br\u003eg) Em agosto, a partir do Alto de S. João vai à Quinta da Portela.\u003c/br\u003eh) Inicia neste horário no Fórum Coimbra, efetuando a Linha n.º 38F em direção à Ponte-Açude e terminando na Beira Rio.",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "07:05 ce",
+            "special": true
+          },
+          {
+            "time": "07:15 c",
+            "special": false
+          },
+          {
+            "time": "08:00 g",
+            "special": false
+          },
+          {
+            "time": "08:0 ce",
+            "special": true
+          },
+          {
+            "time": "08:40 ",
+            "special": true
+          },
+          {
+            "time": "08:55 ",
+            "special": false
+          },
+          {
+            "time": "10:00 ",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "12:25 g",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "14:15 ",
+            "special": false
+          },
+          {
+            "time": "14:40 a",
+            "special": false
+          },
+          {
+            "time": "15:10 ",
+            "special": false
+          },
+          {
+            "time": "15:40 a",
+            "special": false
+          },
+          {
+            "time": "16:10 g",
+            "special": false
+          },
+          {
+            "time": "16:40 a",
+            "special": false
+          },
+          {
+            "time": "17:10 ",
+            "special": false
+          },
+          {
+            "time": "17:40 a",
+            "special": false
+          },
+          {
+            "time": "18:10 ",
+            "special": false
+          },
+          {
+            "time": "18:40 a",
+            "special": false
+          },
+          {
+            "time": "19:05 ",
+            "special": false
+          },
+          {
+            "time": "19:35 af",
+            "special": false
+          },
+          {
+            "time": "19:55 ",
+            "special": false
+          },
+          {
+            "time": "20:45 f",
+            "special": false
+          },
+          {
+            "time": "23:13 h",
+            "special": false
+          },
+          {
+            "time": "00:20 h",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "07:50 c",
+            "special": false
+          },
+          {
+            "time": "08:35 ",
+            "special": false
+          },
+          {
+            "time": "09:30 ",
+            "special": false
+          },
+          {
+            "time": "10:25 ",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "12:15 ",
+            "special": false
+          },
+          {
+            "time": "13:10 ",
+            "special": false
+          },
+          {
+            "time": "14:05 ",
+            "special": false
+          },
+          {
+            "time": "14:30 f",
+            "special": false
+          },
+          {
+            "time": "15:00 ",
+            "special": false
+          },
+          {
+            "time": "15:55 ",
+            "special": false
+          },
+          {
+            "time": "16:50 ",
+            "special": false
+          },
+          {
+            "time": "17:45 ",
+            "special": false
+          },
+          {
+            "time": "18:40 ",
+            "special": false
+          },
+          {
+            "time": "19:35 f",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "09:30 ",
+            "special": false
+          },
+          {
+            "time": "10:25 ",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "12:15 ",
+            "special": false
+          },
+          {
+            "time": "13:10 ",
+            "special": false
+          },
+          {
+            "time": "14:05 ",
+            "special": false
+          },
+          {
+            "time": "14:30 f",
+            "special": false
+          },
+          {
+            "time": "15:00 ",
+            "special": false
+          },
+          {
+            "time": "15:55 ",
+            "special": false
+          },
+          {
+            "time": "16:50 ",
+            "special": false
+          },
+          {
+            "time": "17:10 f",
+            "special": false
+          },
+          {
+            "time": "17:45 ",
+            "special": false
+          },
+          {
+            "time": "18:40 ",
+            "special": false
+          },
+          {
+            "time": "19:35 f",
             "special": false
           }
         ]
@@ -28207,6 +28211,252 @@
     "order": 0
   },
   {
+    "schedule_id": 1228,
+    "line_id": 34,
+    "epoch_id": 5,
+    "stop_name": "Hospital Sobral Cid",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:15 a",
+            "special": false
+          },
+          {
+            "time": "06:35 ",
+            "special": false
+          },
+          {
+            "time": "07:00 ",
+            "special": false
+          },
+          {
+            "time": "07:30 ",
+            "special": false
+          },
+          {
+            "time": "08:05 ",
+            "special": false
+          },
+          {
+            "time": "08:40 ",
+            "special": false
+          },
+          {
+            "time": "09:15 d",
+            "special": false
+          },
+          {
+            "time": "10:10 ",
+            "special": false
+          },
+          {
+            "time": "11:25 ",
+            "special": false
+          },
+          {
+            "time": "12:30 ",
+            "special": false
+          },
+          {
+            "time": "13:45 ",
+            "special": false
+          },
+          {
+            "time": "14:50 ",
+            "special": false
+          },
+          {
+            "time": "16:00 ",
+            "special": false
+          },
+          {
+            "time": "17:10 c",
+            "special": false
+          },
+          {
+            "time": "17:50 ",
+            "special": false
+          },
+          {
+            "time": "18:30 ",
+            "special": false
+          },
+          {
+            "time": "19:05 ",
+            "special": false
+          },
+          {
+            "time": "19:40 d",
+            "special": false
+          },
+          {
+            "time": "20:15 ",
+            "special": false
+          },
+          {
+            "time": "21:10 d",
+            "special": false
+          },
+          {
+            "time": "23:15 a",
+            "special": false
+          },
+          {
+            "time": "00:10 h",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "07:05 ",
+            "special": false
+          },
+          {
+            "time": "08:05 ",
+            "special": false
+          },
+          {
+            "time": "09:10 ",
+            "special": false
+          },
+          {
+            "time": "10:15 ",
+            "special": false
+          },
+          {
+            "time": "11:25 ",
+            "special": false
+          },
+          {
+            "time": "12:30 ",
+            "special": false
+          },
+          {
+            "time": "13:10 ",
+            "special": false
+          },
+          {
+            "time": "13:55 ",
+            "special": false
+          },
+          {
+            "time": "14:15 d",
+            "special": false
+          },
+          {
+            "time": "14:55 ",
+            "special": false
+          },
+          {
+            "time": "16:05 ",
+            "special": false
+          },
+          {
+            "time": "17:05 ",
+            "special": false
+          },
+          {
+            "time": "18:10 ",
+            "special": false
+          },
+          {
+            "time": "19:15 ",
+            "special": false
+          },
+          {
+            "time": "20:15 ",
+            "special": false
+          },
+          {
+            "time": "21:10 d",
+            "special": false
+          },
+          {
+            "time": "23:15 a",
+            "special": false
+          },
+          {
+            "time": "00:10 h",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "07:45 ",
+            "special": false
+          },
+          {
+            "time": "08:35 ",
+            "special": false
+          },
+          {
+            "time": "09:35 ",
+            "special": false
+          },
+          {
+            "time": "10:55 ",
+            "special": false
+          },
+          {
+            "time": "11:55 ",
+            "special": false
+          },
+          {
+            "time": "12:55 ",
+            "special": false
+          },
+          {
+            "time": "13:55 ",
+            "special": false
+          },
+          {
+            "time": "15:10 ",
+            "special": false
+          },
+          {
+            "time": "16:25 ",
+            "special": false
+          },
+          {
+            "time": "17:25 ",
+            "special": false
+          },
+          {
+            "time": "18:25 ",
+            "special": false
+          },
+          {
+            "time": "19:20 ",
+            "special": false
+          },
+          {
+            "time": "20:15 ",
+            "special": false
+          },
+          {
+            "time": "21:10 d",
+            "special": false
+          },
+          {
+            "time": "23:15 h",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
+  },
+  {
     "schedule_id": 1212,
     "line_id": 172,
     "epoch_id": 3,
@@ -28926,252 +29176,6 @@
       }
     ],
     "order": 2
-  },
-  {
-    "schedule_id": 1167,
-    "line_id": 205,
-    "epoch_id": 5,
-    "stop_name": "Santa Clara",
-    "observations": "OS HORÁRIOS A \u003cu\u003eSUBLINHADO\u003c/u\u003e NÃO SE EFETUAM NO PERÍODO DE FÉRIAS ESCOLARES.\u003c/br\u003eAOS FINS-DE-SEMANA E FERIADOS FUNCIONA A LINHA N.º 38F QUE PASSA PELA QUINTA DA PORTELA E VAI PARA A PORTAGEM VIA AÇUDE-PONTE E AV. FERNÃO MAGALHÃES.\u003c/br\u003ea) Não se efetua no mês de agosto.\u003c/br\u003eb) Efetua a linha nº 38T cujo percurso de regresso termina na Portagem, não passando pelo Pinhal de Marrocos, Areeiro e Vale das Flores. Assim, a partir do Polo II segue pela Boavista, Av. Urbano Duarte, R. do Brasil e Av. Emídio Navarro até a Portagem.\u003c/br\u003ec) Inicia neste horário no Parque Manuel Braga, com destino ao Polo II (Linha n.º 38T).\u003c/br\u003ed) Inicia neste horário na Portagem, com destino a S. Clara.\u003c/br\u003ee) Termina a linha nº 38 no Pólo II, onde inicia a linha nº 34.\u003c/br\u003ef) Vai pela Ponte-Açude, Av. Fernão Magalhães e Estação Nova, terminando na Beira Rio.\u003c/br\u003eg) Em agosto, a partir do Alto de S. João vai à Quinta da Portela.\u003c/br\u003eh) Inicia neste horário no Fórum Coimbra, efetuando a Linha n.º 38F em direção à Ponte-Açude e terminando na Beira Rio.",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "07:05 ce",
-            "special": true
-          },
-          {
-            "time": "07:15 c",
-            "special": false
-          },
-          {
-            "time": "08:00 g",
-            "special": false
-          },
-          {
-            "time": "08:0 ce",
-            "special": true
-          },
-          {
-            "time": "08:40 ",
-            "special": true
-          },
-          {
-            "time": "08:55 ",
-            "special": false
-          },
-          {
-            "time": "10:00 ",
-            "special": false
-          },
-          {
-            "time": "11:20 ",
-            "special": false
-          },
-          {
-            "time": "12:25 g",
-            "special": false
-          },
-          {
-            "time": "13:20 ",
-            "special": false
-          },
-          {
-            "time": "14:15 ",
-            "special": false
-          },
-          {
-            "time": "14:40 a",
-            "special": false
-          },
-          {
-            "time": "15:10 ",
-            "special": false
-          },
-          {
-            "time": "15:40 a",
-            "special": false
-          },
-          {
-            "time": "16:10 g",
-            "special": false
-          },
-          {
-            "time": "16:40 a",
-            "special": false
-          },
-          {
-            "time": "17:10 ",
-            "special": false
-          },
-          {
-            "time": "17:40 a",
-            "special": false
-          },
-          {
-            "time": "18:10 ",
-            "special": false
-          },
-          {
-            "time": "18:40 a",
-            "special": false
-          },
-          {
-            "time": "19:05 ",
-            "special": false
-          },
-          {
-            "time": "19:35 af",
-            "special": false
-          },
-          {
-            "time": "19:55 ",
-            "special": false
-          },
-          {
-            "time": "20:45 f",
-            "special": false
-          },
-          {
-            "time": "23:13 h",
-            "special": false
-          },
-          {
-            "time": "00:20 h",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "07:50 c",
-            "special": false
-          },
-          {
-            "time": "08:35 ",
-            "special": false
-          },
-          {
-            "time": "09:30 ",
-            "special": false
-          },
-          {
-            "time": "10:25 ",
-            "special": false
-          },
-          {
-            "time": "11:20 ",
-            "special": false
-          },
-          {
-            "time": "12:15 ",
-            "special": false
-          },
-          {
-            "time": "13:10 ",
-            "special": false
-          },
-          {
-            "time": "14:05 ",
-            "special": false
-          },
-          {
-            "time": "14:30 f",
-            "special": false
-          },
-          {
-            "time": "15:00 ",
-            "special": false
-          },
-          {
-            "time": "15:55 ",
-            "special": false
-          },
-          {
-            "time": "16:50 ",
-            "special": false
-          },
-          {
-            "time": "17:45 ",
-            "special": false
-          },
-          {
-            "time": "18:40 ",
-            "special": false
-          },
-          {
-            "time": "19:35 f",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "09:40 c",
-            "special": false
-          },
-          {
-            "time": "10:25 ",
-            "special": false
-          },
-          {
-            "time": "11:20 ",
-            "special": false
-          },
-          {
-            "time": "12:15 ",
-            "special": false
-          },
-          {
-            "time": "13:10 ",
-            "special": false
-          },
-          {
-            "time": "14:05 ",
-            "special": false
-          },
-          {
-            "time": "14:30 f",
-            "special": false
-          },
-          {
-            "time": "15:00 ",
-            "special": false
-          },
-          {
-            "time": "15:55 ",
-            "special": false
-          },
-          {
-            "time": "16:50 ",
-            "special": false
-          },
-          {
-            "time": "17:10 f",
-            "special": false
-          },
-          {
-            "time": "17:45 ",
-            "special": false
-          },
-          {
-            "time": "18:40 ",
-            "special": false
-          },
-          {
-            "time": "19:35 f",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 0
   },
   {
     "schedule_id": 1157,
