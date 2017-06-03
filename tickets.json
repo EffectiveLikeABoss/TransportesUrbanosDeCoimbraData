@@ -4,6 +4,32 @@
     "ticket_description": "Rede Geral",
     "tariffs": [
       {
+        "name": "Bilhete para 1 dia família numerosa",
+        "total_price": "0.70",
+        "tariff_desciption": "Válido para toda a rede com limite de 7 viagens por dia",
+        "order": 0
+      },
+      {
+        "name": "Bilhete para 1 dia",
+        "total_price": "3.50",
+        "tariff_desciption": "Válido para toda a rede",
+        "order": 0
+      },
+      {
+        "name": "11 viagens",
+        "total_price": "6.40",
+        "trip_price": "0.58",
+        "tariff_desciption": "Válido para toda a rede",
+        "order": 0
+      },
+      {
+        "name": "9 viagens",
+        "total_price": "5.25",
+        "trip_price": "0.58",
+        "tariff_desciption": "Válido para toda a rede",
+        "order": 0
+      },
+      {
         "name": "1 DESLOCAÇÃO",
         "total_price": "1.00",
         "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
@@ -20,7 +46,14 @@
         "name": "10 DESLOCAÇÕES",
         "total_price": "8.50",
         "trip_price": "0.85",
-        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
+        "tariff_desciption": "Válidos para toda a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
+        "order": 0
+      },
+      {
+        "name": "10 viagens",
+        "total_price": "5.80",
+        "trip_price": "0.58",
+        "tariff_desciption": "Válido para toda a rede",
         "order": 0
       },
       {
@@ -64,39 +97,6 @@
         "trip_price": "0.58",
         "tariff_desciption": "Válido para toda a rede",
         "order": 6
-      },
-      {
-        "name": "9 viagens",
-        "total_price": "5.25",
-        "trip_price": "0.58",
-        "tariff_desciption": "Válido para toda a rede",
-        "order": 7
-      },
-      {
-        "name": "10 viagens",
-        "total_price": "5.80",
-        "trip_price": "0.58",
-        "tariff_desciption": "Válido para toda a rede",
-        "order": 10
-      },
-      {
-        "name": "11 viagens",
-        "total_price": "6.40",
-        "trip_price": "0.58",
-        "tariff_desciption": "Válido para toda a rede",
-        "order": 11
-      },
-      {
-        "name": "Bilhete para 1 dia",
-        "total_price": "3.50",
-        "tariff_desciption": "Válido para toda a rede",
-        "order": 15
-      },
-      {
-        "name": "Bilhete para 1 dia familia numerosa",
-        "total_price": "0.70",
-        "tariff_desciption": "Válido para toda a rede com limite de 7 viagens por dia",
-        "order": 16
       }
     ]
   },

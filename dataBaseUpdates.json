@@ -3,40 +3,40 @@
     "resource": "Epochs",
     "date": {
       "year": 2017,
-      "month": 4,
-      "day": 5
+      "month": 6,
+      "day": 3
     }
   },
   {
     "resource": "Lines",
     "date": {
       "year": 2017,
-      "month": 4,
-      "day": 5
+      "month": 6,
+      "day": 3
     }
   },
   {
     "resource": "SalePoints",
     "date": {
       "year": 2017,
-      "month": 4,
-      "day": 5
+      "month": 6,
+      "day": 3
     }
   },
   {
     "resource": "Schedules",
     "date": {
       "year": 2017,
-      "month": 4,
-      "day": 5
+      "month": 6,
+      "day": 3
     }
   },
   {
     "resource": "Tickets",
     "date": {
       "year": 2017,
-      "month": 4,
-      "day": 5
+      "month": 6,
+      "day": 3
     }
   }
 ]
