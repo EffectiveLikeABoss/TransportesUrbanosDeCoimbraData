@@ -12306,6 +12306,272 @@
     "order": 0
   },
   {
+    "schedule_id": 1191,
+    "line_id": 221,
+    "epoch_id": 5,
+    "stop_name": "Universidade",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "08:20 ",
+            "special": false
+          },
+          {
+            "time": "08:40 ",
+            "special": false
+          },
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "09:20 ",
+            "special": false
+          },
+          {
+            "time": "09:40 ",
+            "special": false
+          },
+          {
+            "time": "10:00 ",
+            "special": false
+          },
+          {
+            "time": "10:20 ",
+            "special": false
+          },
+          {
+            "time": "10:40 ",
+            "special": false
+          },
+          {
+            "time": "11:00 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "12:20 ",
+            "special": false
+          },
+          {
+            "time": "13:00 ",
+            "special": false
+          },
+          {
+            "time": "13:40 ",
+            "special": false
+          },
+          {
+            "time": "14:20 ",
+            "special": false
+          },
+          {
+            "time": "15:00 ",
+            "special": false
+          },
+          {
+            "time": "15:40 ",
+            "special": false
+          },
+          {
+            "time": "16:20 ",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "17:20 ",
+            "special": false
+          },
+          {
+            "time": "17:40 ",
+            "special": false
+          },
+          {
+            "time": "18:00 a",
+            "special": false
+          },
+          {
+            "time": "18:20 a",
+            "special": false
+          },
+          {
+            "time": "18:40 a",
+            "special": false
+          },
+          {
+            "time": "19:00 a",
+            "special": false
+          },
+          {
+            "time": "19:20 a",
+            "special": false
+          },
+          {
+            "time": "19:40 a",
+            "special": false
+          },
+          {
+            "time": "20:00 a",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "08:20 ",
+            "special": false
+          },
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "09:40 ",
+            "special": false
+          },
+          {
+            "time": "10:20 ",
+            "special": false
+          },
+          {
+            "time": "11:00 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "12:20 ",
+            "special": false
+          },
+          {
+            "time": "13:00 ",
+            "special": false
+          },
+          {
+            "time": "13:40 ",
+            "special": false
+          },
+          {
+            "time": "14:20 ",
+            "special": false
+          },
+          {
+            "time": "15:00 ",
+            "special": false
+          },
+          {
+            "time": "15:40 ",
+            "special": false
+          },
+          {
+            "time": "16:20 ",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "17:40 ",
+            "special": false
+          },
+          {
+            "time": "18:20 a",
+            "special": false
+          },
+          {
+            "time": "19:00 a",
+            "special": false
+          },
+          {
+            "time": "19:40 a",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "10:20 ",
+            "special": false
+          },
+          {
+            "time": "11:00 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "12:20 ",
+            "special": false
+          },
+          {
+            "time": "13:00 ",
+            "special": false
+          },
+          {
+            "time": "13:40 ",
+            "special": false
+          },
+          {
+            "time": "14:20 ",
+            "special": false
+          },
+          {
+            "time": "15:00 ",
+            "special": false
+          },
+          {
+            "time": "15:40 ",
+            "special": false
+          },
+          {
+            "time": "16:20 ",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "17:40 ",
+            "special": false
+          },
+          {
+            "time": "18:20 a",
+            "special": false
+          },
+          {
+            "time": "19:00 a",
+            "special": false
+          },
+          {
+            "time": "19:40 a",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
+  },
+  {
     "schedule_id": 1215,
     "line_id": 140,
     "epoch_id": 5,
@@ -28628,6 +28894,276 @@
       }
     ],
     "order": 3
+  },
+  {
+    "schedule_id": 1192,
+    "line_id": 221,
+    "epoch_id": 5,
+    "stop_name": "Rossio S. Clara",
+    "observations": "a) Este horário não se efetua no período de Inverno (1 de outubro a 31 de março)\u003c/br\u003e",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "08:00 ",
+            "special": false
+          },
+          {
+            "time": "08:20 ",
+            "special": false
+          },
+          {
+            "time": "08:40 ",
+            "special": false
+          },
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "09:20 ",
+            "special": false
+          },
+          {
+            "time": "09:40 ",
+            "special": false
+          },
+          {
+            "time": "10:00 ",
+            "special": false
+          },
+          {
+            "time": "10:20 ",
+            "special": false
+          },
+          {
+            "time": "10:40 ",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "12:00 ",
+            "special": false
+          },
+          {
+            "time": "12:40 ",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "14:00 ",
+            "special": false
+          },
+          {
+            "time": "14:40 ",
+            "special": false
+          },
+          {
+            "time": "15:20 ",
+            "special": false
+          },
+          {
+            "time": "16:00 ",
+            "special": false
+          },
+          {
+            "time": "16:20 ",
+            "special": false
+          },
+          {
+            "time": "16:40 ",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "17:20 ",
+            "special": false
+          },
+          {
+            "time": "17:40 a",
+            "special": false
+          },
+          {
+            "time": "18:00 a",
+            "special": false
+          },
+          {
+            "time": "18:20 a",
+            "special": false
+          },
+          {
+            "time": "18:40 a",
+            "special": false
+          },
+          {
+            "time": "19:00 a",
+            "special": false
+          },
+          {
+            "time": "19:20 a",
+            "special": false
+          },
+          {
+            "time": "19:40 a",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "08:00 ",
+            "special": false
+          },
+          {
+            "time": "08:40 ",
+            "special": false
+          },
+          {
+            "time": "09:20 ",
+            "special": false
+          },
+          {
+            "time": "10:00 ",
+            "special": false
+          },
+          {
+            "time": "10:40 ",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "12:00 ",
+            "special": false
+          },
+          {
+            "time": "12:40 ",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "14:00 ",
+            "special": false
+          },
+          {
+            "time": "14:40 ",
+            "special": false
+          },
+          {
+            "time": "15:20 ",
+            "special": false
+          },
+          {
+            "time": "16:00 ",
+            "special": false
+          },
+          {
+            "time": "16:40 ",
+            "special": false
+          },
+          {
+            "time": "17:20 ",
+            "special": false
+          },
+          {
+            "time": "18:00 a",
+            "special": false
+          },
+          {
+            "time": "18:40 a",
+            "special": false
+          },
+          {
+            "time": "19:20 a",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "10:00 ",
+            "special": false
+          },
+          {
+            "time": "10:40 ",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "12:00 ",
+            "special": false
+          },
+          {
+            "time": "12:40 ",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "14:20 ",
+            "special": false
+          },
+          {
+            "time": "14:40 ",
+            "special": false
+          },
+          {
+            "time": "15:20 ",
+            "special": false
+          },
+          {
+            "time": "16:00 ",
+            "special": false
+          },
+          {
+            "time": "16:40 ",
+            "special": false
+          },
+          {
+            "time": "17:20 ",
+            "special": false
+          },
+          {
+            "time": "18:00 a",
+            "special": false
+          },
+          {
+            "time": "18:40 a",
+            "special": false
+          },
+          {
+            "time": "19:20 a",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
   },
   {
     "schedule_id": 1178,

@@ -1429,6 +1429,24 @@
     ]
   },
   {
+    "line_id": 221,
+    "name": "L. Bot",
+    "line_description": "Linha Botânico",
+    "rote": [
+      "Rossio S. Clara",
+      "Parque Manuel Braga",
+      "Parque Verde / Alegria",
+      "Jardim Botânico (Mata)",
+      "Jardim Botânico (Bambuzal)",
+      "Jardim Botânico (Estufa)",
+      "Universidade",
+      "Couraça de Lisboa",
+      "Alegria / Parque Verde",
+      "Portagem",
+      "Rossio S. Clara"
+    ]
+  },
+  {
     "line_id": 223,
     "name": "L. Azul",
     "line_description": "Linha Azul",
