@@ -1913,38 +1913,6 @@
     "order": 0
   },
   {
-    "schedule_id": 1182,
-    "line_id": 186,
-    "epoch_id": 5,
-    "stop_name": "Vale de Canas",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "07:45 c",
-            "special": false
-          },
-          {
-            "time": "12:50 c",
-            "special": false
-          },
-          {
-            "time": "18:25 ",
-            "special": false
-          },
-          {
-            "time": "20:00 bc",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
-  },
-  {
     "schedule_id": 1101,
     "line_id": 176,
     "epoch_id": 3,
@@ -6208,6 +6176,108 @@
     "order": 1
   },
   {
+    "schedule_id": 1250,
+    "line_id": 36,
+    "epoch_id": 5,
+    "stop_name": "Lordemão",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:35 c",
+            "special": false
+          },
+          {
+            "time": "06:50 b",
+            "special": false
+          },
+          {
+            "time": "07:55 h",
+            "special": false
+          },
+          {
+            "time": "08:30 ",
+            "special": false
+          },
+          {
+            "time": "12:25 ",
+            "special": false
+          },
+          {
+            "time": "14:10 h",
+            "special": false
+          },
+          {
+            "time": "17:15 ",
+            "special": false
+          },
+          {
+            "time": "18:10 ",
+            "special": false
+          },
+          {
+            "time": "19:00 b",
+            "special": false
+          },
+          {
+            "time": "19:25 d",
+            "special": false
+          },
+          {
+            "time": "20:45 e",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "06:50 b",
+            "special": false
+          },
+          {
+            "time": "08:35 ",
+            "special": false
+          },
+          {
+            "time": "12:25 ",
+            "special": false
+          },
+          {
+            "time": "14:15 ",
+            "special": false
+          },
+          {
+            "time": "17:35 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "10:10 j",
+            "special": false
+          },
+          {
+            "time": "13:35 j",
+            "special": false
+          },
+          {
+            "time": "20:25 j",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
+  },
+  {
     "schedule_id": 862,
     "line_id": 166,
     "epoch_id": 4,
@@ -7511,38 +7581,6 @@
     "order": 3
   },
   {
-    "schedule_id": 1181,
-    "line_id": 186,
-    "epoch_id": 5,
-    "stop_name": "Baixa (Portagem)",
-    "observations": "\u003cstrong\u003ea)\u003c/strong\u003e \u003cstrong\u003eNão passa pelos Olivais (Cumeada) - Efectua a Linha n.º 42C\u003c/strong\u003e com partida da Portagem (Paragem do Parque) e percurso: Av. Lousã, Vale das Flores, Alto de S. João, Portela, Torres do Mondego e Vale de Canas.\u003c/br\u003e\u003c/br\u003e\u003cstrong\u003eb)\u003c/strong\u003e \u003cstrong\u003eNão passa pelos Olivais (Cumeada) - Efectua a Linha 42C\u003c/strong\u003e, com percurso: Vale de Canas, P. Barbados, R. Alle Alvarez, Tovim, Av. Elísio de Moura, Esc. Eugénio de Castro, Solum, Pr. Jorge Anjinho, \"Bandeiras\", Estrada da Beira, Vale das Flores, R. do Brasil e Portagem.\u003c/br\u003e\u003c/br\u003e\u003cstrong\u003ec)\u003c/strong\u003e Termina na Portagem\u003c/br\u003e",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "07:15 a",
-            "special": false
-          },
-          {
-            "time": "12:00 ",
-            "special": false
-          },
-          {
-            "time": "17:35 ",
-            "special": false
-          },
-          {
-            "time": "19:15 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 0
-  },
-  {
     "schedule_id": 1087,
     "line_id": 50,
     "epoch_id": 5,
@@ -7619,6 +7657,428 @@
       }
     ],
     "order": 0
+  },
+  {
+    "schedule_id": 1247,
+    "line_id": 168,
+    "epoch_id": 20,
+    "stop_name": "Tovim",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "07:00 ",
+            "special": false
+          },
+          {
+            "time": "07:15 ",
+            "special": false
+          },
+          {
+            "time": "07:25 b",
+            "special": false
+          },
+          {
+            "time": "07:45 ",
+            "special": false
+          },
+          {
+            "time": "08:05 b",
+            "special": false
+          },
+          {
+            "time": "08:20 ",
+            "special": false
+          },
+          {
+            "time": "08:35 b",
+            "special": false
+          },
+          {
+            "time": "08:50 ",
+            "special": false
+          },
+          {
+            "time": "09:05 ",
+            "special": false
+          },
+          {
+            "time": "09:20 ab",
+            "special": false
+          },
+          {
+            "time": "09:27 ",
+            "special": false
+          },
+          {
+            "time": "09:44 b",
+            "special": false
+          },
+          {
+            "time": "10:01 ",
+            "special": false
+          },
+          {
+            "time": "10:18 b",
+            "special": false
+          },
+          {
+            "time": "10:35 ",
+            "special": false
+          },
+          {
+            "time": "10:52 ",
+            "special": false
+          },
+          {
+            "time": "11:09 b",
+            "special": false
+          },
+          {
+            "time": "11:26 ",
+            "special": false
+          },
+          {
+            "time": "11:43 b",
+            "special": false
+          },
+          {
+            "time": "12:00 ",
+            "special": false
+          },
+          {
+            "time": "12:17 b",
+            "special": false
+          },
+          {
+            "time": "12:34 ",
+            "special": false
+          },
+          {
+            "time": "12:51 ",
+            "special": false
+          },
+          {
+            "time": "13:08 b",
+            "special": false
+          },
+          {
+            "time": "13:25 ",
+            "special": false
+          },
+          {
+            "time": "13:42 b",
+            "special": false
+          },
+          {
+            "time": "13:59 ",
+            "special": false
+          },
+          {
+            "time": "14:16 b",
+            "special": false
+          },
+          {
+            "time": "14:33 ",
+            "special": false
+          },
+          {
+            "time": "14:50 b",
+            "special": false
+          },
+          {
+            "time": "15:07 ",
+            "special": false
+          },
+          {
+            "time": "15:24 ",
+            "special": false
+          },
+          {
+            "time": "15:41 b",
+            "special": false
+          },
+          {
+            "time": "15:58 ",
+            "special": false
+          },
+          {
+            "time": "16:15 b",
+            "special": false
+          },
+          {
+            "time": "16:32 ",
+            "special": false
+          },
+          {
+            "time": "16:47 b",
+            "special": false
+          },
+          {
+            "time": "17:02 ",
+            "special": false
+          },
+          {
+            "time": "17:17 b",
+            "special": false
+          },
+          {
+            "time": "17:32 ",
+            "special": false
+          },
+          {
+            "time": "17:47 ",
+            "special": false
+          },
+          {
+            "time": "18:02 ",
+            "special": false
+          },
+          {
+            "time": "18:17 b",
+            "special": false
+          },
+          {
+            "time": "18:32 ",
+            "special": false
+          },
+          {
+            "time": "18:47 a",
+            "special": false
+          },
+          {
+            "time": "19:02 b",
+            "special": false
+          },
+          {
+            "time": "19:17 a",
+            "special": false
+          },
+          {
+            "time": "19:30 ",
+            "special": false
+          },
+          {
+            "time": "20:00 a",
+            "special": false
+          },
+          {
+            "time": "20:25 ",
+            "special": false
+          },
+          {
+            "time": "21:10 ",
+            "special": false
+          },
+          {
+            "time": "22:00 ",
+            "special": false
+          },
+          {
+            "time": "22:50 ",
+            "special": false
+          },
+          {
+            "time": "23:25 a",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "07:00 ",
+            "special": false
+          },
+          {
+            "time": "07:44 b",
+            "special": false
+          },
+          {
+            "time": "08:08 ",
+            "special": false
+          },
+          {
+            "time": "08:32 b",
+            "special": false
+          },
+          {
+            "time": "08:56 ",
+            "special": false
+          },
+          {
+            "time": "09:20 ",
+            "special": false
+          },
+          {
+            "time": "09:44 b",
+            "special": false
+          },
+          {
+            "time": "10:08 ",
+            "special": false
+          },
+          {
+            "time": "10:32 ",
+            "special": false
+          },
+          {
+            "time": "10:56 b",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "11:44 ",
+            "special": false
+          },
+          {
+            "time": "12:08 b",
+            "special": false
+          },
+          {
+            "time": "12:32 ",
+            "special": false
+          },
+          {
+            "time": "12:56 ",
+            "special": false
+          },
+          {
+            "time": "13:20 b",
+            "special": false
+          },
+          {
+            "time": "13:44 ",
+            "special": false
+          },
+          {
+            "time": "14:08 a",
+            "special": false
+          },
+          {
+            "time": "14:32 b",
+            "special": false
+          },
+          {
+            "time": "15:20 ",
+            "special": false
+          },
+          {
+            "time": "16:10 b",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "17:50 b",
+            "special": false
+          },
+          {
+            "time": "18:40 ",
+            "special": false
+          },
+          {
+            "time": "19:30 ab",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "08:27 b",
+            "special": false
+          },
+          {
+            "time": "09:15 ",
+            "special": false
+          },
+          {
+            "time": "10:03 b",
+            "special": false
+          },
+          {
+            "time": "10:51 ",
+            "special": false
+          },
+          {
+            "time": "11:39 b",
+            "special": false
+          },
+          {
+            "time": "12:27 ",
+            "special": false
+          },
+          {
+            "time": "13:15 b",
+            "special": false
+          },
+          {
+            "time": "14:03 ",
+            "special": false
+          },
+          {
+            "time": "14:51 b",
+            "special": false
+          },
+          {
+            "time": "15:15 ",
+            "special": false
+          },
+          {
+            "time": "15:39 b",
+            "special": false
+          },
+          {
+            "time": "16:03 ",
+            "special": false
+          },
+          {
+            "time": "16:27 b",
+            "special": false
+          },
+          {
+            "time": "16:53 ",
+            "special": false
+          },
+          {
+            "time": "17:18 b",
+            "special": false
+          },
+          {
+            "time": "17:43 ",
+            "special": false
+          },
+          {
+            "time": "18:08 b",
+            "special": false
+          },
+          {
+            "time": "18:33 a",
+            "special": false
+          },
+          {
+            "time": "18:55 b",
+            "special": false
+          },
+          {
+            "time": "19:40 a",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
   },
   {
     "schedule_id": 1208,
@@ -10158,6 +10618,838 @@
     "order": 1
   },
   {
+    "schedule_id": 1245,
+    "line_id": 168,
+    "epoch_id": 4,
+    "stop_name": "Tovim",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "07:00 ",
+            "special": false
+          },
+          {
+            "time": "07:15 b",
+            "special": false
+          },
+          {
+            "time": "07:35 ",
+            "special": false
+          },
+          {
+            "time": "07:50 b",
+            "special": false
+          },
+          {
+            "time": "08:06 ",
+            "special": false
+          },
+          {
+            "time": "08:23 b",
+            "special": false
+          },
+          {
+            "time": "08:40 ",
+            "special": false
+          },
+          {
+            "time": "08:57 ",
+            "special": false
+          },
+          {
+            "time": "09:14 b",
+            "special": false
+          },
+          {
+            "time": "09:31 ",
+            "special": false
+          },
+          {
+            "time": "09:48 b",
+            "special": false
+          },
+          {
+            "time": "10:05 ",
+            "special": false
+          },
+          {
+            "time": "10:22 b",
+            "special": false
+          },
+          {
+            "time": "10:39 ",
+            "special": false
+          },
+          {
+            "time": "10:56 b",
+            "special": false
+          },
+          {
+            "time": "11:13 ",
+            "special": false
+          },
+          {
+            "time": "11:30 ",
+            "special": false
+          },
+          {
+            "time": "11:47 b",
+            "special": false
+          },
+          {
+            "time": "12:04 ",
+            "special": false
+          },
+          {
+            "time": "12:21 b",
+            "special": false
+          },
+          {
+            "time": "12:38 ",
+            "special": false
+          },
+          {
+            "time": "12:55 ",
+            "special": false
+          },
+          {
+            "time": "13:12 b",
+            "special": false
+          },
+          {
+            "time": "13:29 ",
+            "special": false
+          },
+          {
+            "time": "13:46 b",
+            "special": false
+          },
+          {
+            "time": "14:03 ",
+            "special": false
+          },
+          {
+            "time": "14:20 b",
+            "special": false
+          },
+          {
+            "time": "14:37 ",
+            "special": false
+          },
+          {
+            "time": "14:54 b",
+            "special": false
+          },
+          {
+            "time": "15:11 ",
+            "special": false
+          },
+          {
+            "time": "15:28 ",
+            "special": false
+          },
+          {
+            "time": "15:45 b",
+            "special": false
+          },
+          {
+            "time": "16:02 ",
+            "special": false
+          },
+          {
+            "time": "16:19 b",
+            "special": false
+          },
+          {
+            "time": "16:36 ",
+            "special": false
+          },
+          {
+            "time": "16:53 b",
+            "special": false
+          },
+          {
+            "time": "17:10 ",
+            "special": false
+          },
+          {
+            "time": "17:27 b",
+            "special": false
+          },
+          {
+            "time": "17:46 ",
+            "special": false
+          },
+          {
+            "time": "18:01 b",
+            "special": false
+          },
+          {
+            "time": "18:18 ",
+            "special": false
+          },
+          {
+            "time": "18:35 ",
+            "special": false
+          },
+          {
+            "time": "18:52 ab",
+            "special": false
+          },
+          {
+            "time": "19:09 ",
+            "special": false
+          },
+          {
+            "time": "19:30 ",
+            "special": false
+          },
+          {
+            "time": "20:00 a",
+            "special": false
+          },
+          {
+            "time": "20:25 ",
+            "special": false
+          },
+          {
+            "time": "21:10 ",
+            "special": false
+          },
+          {
+            "time": "22:00 ",
+            "special": false
+          },
+          {
+            "time": "22:50 ",
+            "special": false
+          },
+          {
+            "time": "23:30 a",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "07:00 ",
+            "special": false
+          },
+          {
+            "time": "07:44 b",
+            "special": false
+          },
+          {
+            "time": "08:08 ",
+            "special": false
+          },
+          {
+            "time": "08:32 b",
+            "special": false
+          },
+          {
+            "time": "08:56 ",
+            "special": false
+          },
+          {
+            "time": "09:20 ",
+            "special": false
+          },
+          {
+            "time": "09:44 b",
+            "special": false
+          },
+          {
+            "time": "10:08 ",
+            "special": false
+          },
+          {
+            "time": "10:32 ",
+            "special": false
+          },
+          {
+            "time": "10:56 b",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "11:44 ",
+            "special": false
+          },
+          {
+            "time": "12:08 b",
+            "special": false
+          },
+          {
+            "time": "12:32 ",
+            "special": false
+          },
+          {
+            "time": "12:56 ",
+            "special": false
+          },
+          {
+            "time": "13:20 b",
+            "special": false
+          },
+          {
+            "time": "13:44 ",
+            "special": false
+          },
+          {
+            "time": "14:08 a",
+            "special": false
+          },
+          {
+            "time": "14:32 b",
+            "special": false
+          },
+          {
+            "time": "15:20 ",
+            "special": false
+          },
+          {
+            "time": "16:10 b",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "17:50 b",
+            "special": false
+          },
+          {
+            "time": "18:40 ",
+            "special": false
+          },
+          {
+            "time": "19:30 ab",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "08:27 b",
+            "special": false
+          },
+          {
+            "time": "09:15 ",
+            "special": false
+          },
+          {
+            "time": "10:03 b",
+            "special": false
+          },
+          {
+            "time": "10:51 ",
+            "special": false
+          },
+          {
+            "time": "11:39 b",
+            "special": false
+          },
+          {
+            "time": "12:27 ",
+            "special": false
+          },
+          {
+            "time": "13:15 b",
+            "special": false
+          },
+          {
+            "time": "14:03 ",
+            "special": false
+          },
+          {
+            "time": "14:51 b",
+            "special": false
+          },
+          {
+            "time": "15:15 ",
+            "special": false
+          },
+          {
+            "time": "15:39 b",
+            "special": false
+          },
+          {
+            "time": "16:03 ",
+            "special": false
+          },
+          {
+            "time": "16:27 b",
+            "special": false
+          },
+          {
+            "time": "16:53 ",
+            "special": false
+          },
+          {
+            "time": "17:18 b",
+            "special": false
+          },
+          {
+            "time": "17:43 ",
+            "special": false
+          },
+          {
+            "time": "18:08 b",
+            "special": false
+          },
+          {
+            "time": "18:33 a",
+            "special": false
+          },
+          {
+            "time": "18:55 b",
+            "special": false
+          },
+          {
+            "time": "19:40 a",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 3
+  },
+  {
+    "schedule_id": 1246,
+    "line_id": 168,
+    "epoch_id": 20,
+    "stop_name": "Palácio da Justiça",
+    "observations": "NO MÊS DE AGOSTO CONSULTAR O RESPETIVO HORÁRIO.\u003c/br\u003e\u003c/br\u003ea) Termina na Estação Nova.\u003c/br\u003eb) Vai ao Hospital Pediátrico.",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:40 ",
+            "special": false
+          },
+          {
+            "time": "06:55 ",
+            "special": false
+          },
+          {
+            "time": "07:05 b",
+            "special": false
+          },
+          {
+            "time": "07:15 ",
+            "special": false
+          },
+          {
+            "time": "07:30 b",
+            "special": false
+          },
+          {
+            "time": "07:45 ",
+            "special": false
+          },
+          {
+            "time": "08:00 b",
+            "special": false
+          },
+          {
+            "time": "08:15 ",
+            "special": false
+          },
+          {
+            "time": "08:30 ",
+            "special": false
+          },
+          {
+            "time": "08:45 b",
+            "special": false
+          },
+          {
+            "time": "09:00 ",
+            "special": false
+          },
+          {
+            "time": "09:17 b",
+            "special": false
+          },
+          {
+            "time": "09:34 ",
+            "special": false
+          },
+          {
+            "time": "09:51 b",
+            "special": false
+          },
+          {
+            "time": "10:08 ",
+            "special": false
+          },
+          {
+            "time": "10:25 ",
+            "special": false
+          },
+          {
+            "time": "10:42 b",
+            "special": false
+          },
+          {
+            "time": "10:59 ",
+            "special": false
+          },
+          {
+            "time": "11:16 b",
+            "special": false
+          },
+          {
+            "time": "11:33 ",
+            "special": false
+          },
+          {
+            "time": "11:50 b",
+            "special": false
+          },
+          {
+            "time": "12:07 ",
+            "special": false
+          },
+          {
+            "time": "12:24 ",
+            "special": false
+          },
+          {
+            "time": "12:41 b",
+            "special": false
+          },
+          {
+            "time": "12:58 ",
+            "special": false
+          },
+          {
+            "time": "13:15 b",
+            "special": false
+          },
+          {
+            "time": "13:32 ",
+            "special": false
+          },
+          {
+            "time": "13:49 b",
+            "special": false
+          },
+          {
+            "time": "14:06 ",
+            "special": false
+          },
+          {
+            "time": "14:23 b",
+            "special": false
+          },
+          {
+            "time": "14:40 ",
+            "special": false
+          },
+          {
+            "time": "14:57 ",
+            "special": false
+          },
+          {
+            "time": "15:14 b",
+            "special": false
+          },
+          {
+            "time": "15:30 ",
+            "special": false
+          },
+          {
+            "time": "15:45 b",
+            "special": false
+          },
+          {
+            "time": "16:00 ",
+            "special": false
+          },
+          {
+            "time": "16:15 b",
+            "special": false
+          },
+          {
+            "time": "16:30 ",
+            "special": false
+          },
+          {
+            "time": "16:45 b",
+            "special": false
+          },
+          {
+            "time": "17:00 ",
+            "special": false
+          },
+          {
+            "time": "17:15 ",
+            "special": false
+          },
+          {
+            "time": "17:30 ",
+            "special": false
+          },
+          {
+            "time": "17:45 b",
+            "special": false
+          },
+          {
+            "time": "18:00 ",
+            "special": false
+          },
+          {
+            "time": "18:15 ",
+            "special": false
+          },
+          {
+            "time": "18:30 b",
+            "special": false
+          },
+          {
+            "time": "18:45 ",
+            "special": false
+          },
+          {
+            "time": "19:00 ",
+            "special": false
+          },
+          {
+            "time": "19:30 ",
+            "special": false
+          },
+          {
+            "time": "20:00 ",
+            "special": false
+          },
+          {
+            "time": "20:45 ",
+            "special": false
+          },
+          {
+            "time": "21:35 ",
+            "special": false
+          },
+          {
+            "time": "22:25 ",
+            "special": false
+          },
+          {
+            "time": "23:10 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "06:45 ",
+            "special": false
+          },
+          {
+            "time": "07:20 b",
+            "special": false
+          },
+          {
+            "time": "07:44 ",
+            "special": false
+          },
+          {
+            "time": "08:08 b",
+            "special": false
+          },
+          {
+            "time": "08:32 ",
+            "special": false
+          },
+          {
+            "time": "08:56 ",
+            "special": false
+          },
+          {
+            "time": "09:20 b",
+            "special": false
+          },
+          {
+            "time": "09:44 ",
+            "special": false
+          },
+          {
+            "time": "10:08 ",
+            "special": false
+          },
+          {
+            "time": "10:32 b",
+            "special": false
+          },
+          {
+            "time": "10:56 ",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "11:44 b",
+            "special": false
+          },
+          {
+            "time": "12:08 ",
+            "special": false
+          },
+          {
+            "time": "12:32 ",
+            "special": false
+          },
+          {
+            "time": "12:56 b",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "13:44 ",
+            "special": false
+          },
+          {
+            "time": "14:08 b",
+            "special": false
+          },
+          {
+            "time": "14:56 ",
+            "special": false
+          },
+          {
+            "time": "15:45 b",
+            "special": false
+          },
+          {
+            "time": "16:35 ",
+            "special": false
+          },
+          {
+            "time": "17:25 b",
+            "special": false
+          },
+          {
+            "time": "18:15 ",
+            "special": false
+          },
+          {
+            "time": "19:05 b",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "08:00 b",
+            "special": false
+          },
+          {
+            "time": "08:48 ",
+            "special": false
+          },
+          {
+            "time": "09:36 b",
+            "special": false
+          },
+          {
+            "time": "10:24 ",
+            "special": false
+          },
+          {
+            "time": "11:12 b",
+            "special": false
+          },
+          {
+            "time": "12:00 ",
+            "special": false
+          },
+          {
+            "time": "12:48 b",
+            "special": false
+          },
+          {
+            "time": "13:36 ",
+            "special": false
+          },
+          {
+            "time": "14:24 b",
+            "special": false
+          },
+          {
+            "time": "14:48 ",
+            "special": false
+          },
+          {
+            "time": "15:12 b",
+            "special": false
+          },
+          {
+            "time": "15:36 ",
+            "special": false
+          },
+          {
+            "time": "16:00 b",
+            "special": false
+          },
+          {
+            "time": "16:25 ",
+            "special": false
+          },
+          {
+            "time": "16:50 b",
+            "special": false
+          },
+          {
+            "time": "17:15 ",
+            "special": false
+          },
+          {
+            "time": "17:40 b",
+            "special": false
+          },
+          {
+            "time": "18:05 ",
+            "special": false
+          },
+          {
+            "time": "18:30 b",
+            "special": false
+          },
+          {
+            "time": "19:15 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
+  },
+  {
     "schedule_id": 1070,
     "line_id": 192,
     "epoch_id": 6,
@@ -10576,6 +11868,164 @@
           },
           {
             "time": "00:40 dh",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
+  },
+  {
+    "schedule_id": 1249,
+    "line_id": 36,
+    "epoch_id": 5,
+    "stop_name": "R. ANTERO DE QUENTAL*",
+    "observations": "\u003cstrong\u003e*) Aos Sábados, Domingos e Dias de Feriado efectua a Linha n.º 30F que não vai à R. Antero de Quental, efectuando o horário na P. República.\u003c/strong\u003e\u003c/br\u003ea) Vai à Carapinheira (Linha 30).\u003c/br\u003eb) Horário da Linha 30, na Carapinheira.\u003c/br\u003ec) Efectua o percurso da Linha 25, a partir de Casais de Eiras (vai para a Beira Rio, não indo à P. República).\u003c/br\u003ed) Horário da Linha 30R na Redonda. Regressa por Coselhas, directamente para a Beira Rio.\u003c/br\u003ee) Vai para a Beira Rio, não indo à P. República.\u003c/br\u003ef) No período nocturno consultar o horário da Linha 19T.\u003c/br\u003eg) Vai à Redonda (Linha 30R).\u003c/br\u003eh) Horário da Linha 30R na Redonda. Na viagem das 7h55 vai à Rotunda do Bairro de S. Apolónia.\u003c/br\u003ei) Inicia no Arnado 10 minutos antes.\u003c/br\u003ej) Termina na Manutenção (após Mercado D. Pedro V).",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "07:15 gi",
+            "special": false
+          },
+          {
+            "time": "07:50 ",
+            "special": false
+          },
+          {
+            "time": "11:45 i",
+            "special": false
+          },
+          {
+            "time": "13:10 g",
+            "special": false
+          },
+          {
+            "time": "16:35 i",
+            "special": false
+          },
+          {
+            "time": "17:30 i",
+            "special": false
+          },
+          {
+            "time": "18:05 a",
+            "special": false
+          },
+          {
+            "time": "18:50 g",
+            "special": false
+          },
+          {
+            "time": "19:50 ",
+            "special": false
+          },
+          {
+            "time": "22:-1 f",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "07:50 ",
+            "special": false
+          },
+          {
+            "time": "11:40 ",
+            "special": false
+          },
+          {
+            "time": "13:10 ",
+            "special": false
+          },
+          {
+            "time": "17:05 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "09:35 ",
+            "special": false
+          },
+          {
+            "time": "13:00 ",
+            "special": false
+          },
+          {
+            "time": "19:50 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
+  },
+  {
+    "schedule_id": 1244,
+    "line_id": 228,
+    "epoch_id": 5,
+    "stop_name": "S. Martinho (Piscinas)",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "08:50 a",
+            "special": false
+          },
+          {
+            "time": "11:30 a",
+            "special": false
+          },
+          {
+            "time": "13:55 a",
+            "special": false
+          },
+          {
+            "time": "17:15 a",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
+  },
+  {
+    "schedule_id": 1243,
+    "line_id": 228,
+    "epoch_id": 5,
+    "stop_name": "Beira Rio",
+    "observations": "O ponto de Horário em S. Martinho do Bispo é efetuado no entroncamento com a Rua da Misericórdia.\u003c/br\u003e\u003c/br\u003ea) Termina na Portagem (paragem da Linha n.º 7)",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "08:30 ",
+            "special": false
+          },
+          {
+            "time": "11:10 ",
+            "special": false
+          },
+          {
+            "time": "13:35 ",
+            "special": false
+          },
+          {
+            "time": "16:55 ",
             "special": false
           }
         ]
@@ -12212,100 +13662,6 @@
     "order": 0
   },
   {
-    "schedule_id": 1091,
-    "line_id": 36,
-    "epoch_id": 5,
-    "stop_name": "R. ANTERO DE QUENTAL*",
-    "observations": "\u003cstrong\u003e*) Aos Sábados, Domingos e Dias de Feriado efectua a Linha n.º 30F que não vai à R. Antero de Quental, efectuando o horário na P. República.\u003c/strong\u003e\u003c/br\u003ea) Vai à Carapinheira (Linha 30).\u003c/br\u003eb) Horário da Linha 30, na Carapinheira.\u003c/br\u003ec) Efectua o percurso da Linha 25, a partir de Casais de Eiras (vai para a Beira Rio, não indo à P. República).\u003c/br\u003ed) Horário da Linha 30R na Redonda. Regressa por Coselhas, directamente para a Beira Rio.\u003c/br\u003ee) Vai para a Beira Rio, não indo à P. República.\u003c/br\u003ef) No período nocturno consultar o horário da Linha 19T.\u003c/br\u003eg) Vai à Redonda (Linha 30R).\u003c/br\u003eh) Horário da Linha 30R na Redonda.\u003c/br\u003ei) Inicia no Arnado 10 minutos antes.\u003c/br\u003ej) Termina na Manutenção (após Mercado D. Pedro V).",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "07:15 gi",
-            "special": false
-          },
-          {
-            "time": "07:50 ",
-            "special": false
-          },
-          {
-            "time": "11:45 i",
-            "special": false
-          },
-          {
-            "time": "13:10 g",
-            "special": false
-          },
-          {
-            "time": "16:35 i",
-            "special": false
-          },
-          {
-            "time": "17:30 i",
-            "special": false
-          },
-          {
-            "time": "18:05 a",
-            "special": false
-          },
-          {
-            "time": "18:50 g",
-            "special": false
-          },
-          {
-            "time": "19:50 ",
-            "special": false
-          },
-          {
-            "time": "22:-1 f",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "07:50 ",
-            "special": false
-          },
-          {
-            "time": "11:40 ",
-            "special": false
-          },
-          {
-            "time": "13:10 ",
-            "special": false
-          },
-          {
-            "time": "17:05 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "09:35 ",
-            "special": false
-          },
-          {
-            "time": "13:00 ",
-            "special": false
-          },
-          {
-            "time": "19:50 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 0
-  },
-  {
     "schedule_id": 1191,
     "line_id": 221,
     "epoch_id": 5,
@@ -12850,108 +14206,6 @@
     "order": 0
   },
   {
-    "schedule_id": 1092,
-    "line_id": 36,
-    "epoch_id": 5,
-    "stop_name": "Lordemão",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:35 c",
-            "special": false
-          },
-          {
-            "time": "06:50 b",
-            "special": false
-          },
-          {
-            "time": "07:55 h",
-            "special": false
-          },
-          {
-            "time": "08:30 ",
-            "special": false
-          },
-          {
-            "time": "12:25 ",
-            "special": false
-          },
-          {
-            "time": "14:10 h",
-            "special": false
-          },
-          {
-            "time": "17:15 ",
-            "special": false
-          },
-          {
-            "time": "18:10 ",
-            "special": false
-          },
-          {
-            "time": "19:00 b",
-            "special": false
-          },
-          {
-            "time": "19:25 d",
-            "special": false
-          },
-          {
-            "time": "20:45 e",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "06:50 b",
-            "special": false
-          },
-          {
-            "time": "08:35 ",
-            "special": false
-          },
-          {
-            "time": "12:25 ",
-            "special": false
-          },
-          {
-            "time": "14:15 ",
-            "special": false
-          },
-          {
-            "time": "17:35 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "10:10 j",
-            "special": false
-          },
-          {
-            "time": "13:35 j",
-            "special": false
-          },
-          {
-            "time": "20:25 j",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
-  },
-  {
     "schedule_id": 1132,
     "line_id": 202,
     "epoch_id": 5,
@@ -13148,1248 +14402,6 @@
       }
     ],
     "order": 1
-  },
-  {
-    "schedule_id": 1108,
-    "line_id": 168,
-    "epoch_id": 6,
-    "stop_name": "Tovim",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "07:00 ",
-            "special": false
-          },
-          {
-            "time": "07:15 ",
-            "special": false
-          },
-          {
-            "time": "07:25 ",
-            "special": false
-          },
-          {
-            "time": "07:45 ",
-            "special": false
-          },
-          {
-            "time": "08:05 b",
-            "special": false
-          },
-          {
-            "time": "08:20 ",
-            "special": false
-          },
-          {
-            "time": "08:35 b",
-            "special": false
-          },
-          {
-            "time": "08:50 ",
-            "special": false
-          },
-          {
-            "time": "09:05 ",
-            "special": false
-          },
-          {
-            "time": "09:20 ab",
-            "special": false
-          },
-          {
-            "time": "09:27 ",
-            "special": false
-          },
-          {
-            "time": "09:44 b",
-            "special": false
-          },
-          {
-            "time": "10:01 ",
-            "special": false
-          },
-          {
-            "time": "10:18 b",
-            "special": false
-          },
-          {
-            "time": "10:35 ",
-            "special": false
-          },
-          {
-            "time": "10:52 ",
-            "special": false
-          },
-          {
-            "time": "11:09 b",
-            "special": false
-          },
-          {
-            "time": "11:26 ",
-            "special": false
-          },
-          {
-            "time": "11:43 b",
-            "special": false
-          },
-          {
-            "time": "12:00 ",
-            "special": false
-          },
-          {
-            "time": "12:17 b",
-            "special": false
-          },
-          {
-            "time": "12:34 ",
-            "special": false
-          },
-          {
-            "time": "12:51 ",
-            "special": false
-          },
-          {
-            "time": "13:08 b",
-            "special": false
-          },
-          {
-            "time": "13:25 ",
-            "special": false
-          },
-          {
-            "time": "13:42 b",
-            "special": false
-          },
-          {
-            "time": "13:59 ",
-            "special": false
-          },
-          {
-            "time": "14:16 b",
-            "special": false
-          },
-          {
-            "time": "14:33 ",
-            "special": false
-          },
-          {
-            "time": "14:50 b",
-            "special": false
-          },
-          {
-            "time": "15:07 ",
-            "special": false
-          },
-          {
-            "time": "15:24 ",
-            "special": false
-          },
-          {
-            "time": "15:41 b",
-            "special": false
-          },
-          {
-            "time": "15:58 ",
-            "special": false
-          },
-          {
-            "time": "16:15 b",
-            "special": false
-          },
-          {
-            "time": "16:32 ",
-            "special": false
-          },
-          {
-            "time": "16:47 b",
-            "special": false
-          },
-          {
-            "time": "17:02 ",
-            "special": false
-          },
-          {
-            "time": "17:17 b",
-            "special": false
-          },
-          {
-            "time": "17:32 ",
-            "special": false
-          },
-          {
-            "time": "17:47 ",
-            "special": false
-          },
-          {
-            "time": "18:02 ",
-            "special": false
-          },
-          {
-            "time": "18:17 b",
-            "special": false
-          },
-          {
-            "time": "18:32 ",
-            "special": false
-          },
-          {
-            "time": "18:47 a",
-            "special": false
-          },
-          {
-            "time": "19:02 b",
-            "special": false
-          },
-          {
-            "time": "19:17 a",
-            "special": false
-          },
-          {
-            "time": "19:30 ",
-            "special": false
-          },
-          {
-            "time": "20:00 a",
-            "special": false
-          },
-          {
-            "time": "20:25 ",
-            "special": false
-          },
-          {
-            "time": "21:10 ",
-            "special": false
-          },
-          {
-            "time": "22:00 ",
-            "special": false
-          },
-          {
-            "time": "22:50 ",
-            "special": false
-          },
-          {
-            "time": "23:25 a",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "07:00 ",
-            "special": false
-          },
-          {
-            "time": "07:44 b",
-            "special": false
-          },
-          {
-            "time": "08:08 ",
-            "special": false
-          },
-          {
-            "time": "08:32 b",
-            "special": false
-          },
-          {
-            "time": "08:56 ",
-            "special": false
-          },
-          {
-            "time": "09:20 ",
-            "special": false
-          },
-          {
-            "time": "09:44 b",
-            "special": false
-          },
-          {
-            "time": "10:08 ",
-            "special": false
-          },
-          {
-            "time": "10:32 ",
-            "special": false
-          },
-          {
-            "time": "10:56 b",
-            "special": false
-          },
-          {
-            "time": "11:20 ",
-            "special": false
-          },
-          {
-            "time": "11:44 ",
-            "special": false
-          },
-          {
-            "time": "12:08 b",
-            "special": false
-          },
-          {
-            "time": "12:32 ",
-            "special": false
-          },
-          {
-            "time": "12:56 ",
-            "special": false
-          },
-          {
-            "time": "13:20 b",
-            "special": false
-          },
-          {
-            "time": "13:44 ",
-            "special": false
-          },
-          {
-            "time": "14:08 a",
-            "special": false
-          },
-          {
-            "time": "14:32 b",
-            "special": false
-          },
-          {
-            "time": "15:20 ",
-            "special": false
-          },
-          {
-            "time": "16:10 b",
-            "special": false
-          },
-          {
-            "time": "17:00 ",
-            "special": false
-          },
-          {
-            "time": "17:50 b",
-            "special": false
-          },
-          {
-            "time": "18:40 ",
-            "special": false
-          },
-          {
-            "time": "19:30 ab",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "08:27 b",
-            "special": false
-          },
-          {
-            "time": "09:15 ",
-            "special": false
-          },
-          {
-            "time": "10:03 b",
-            "special": false
-          },
-          {
-            "time": "10:51 ",
-            "special": false
-          },
-          {
-            "time": "11:39 b",
-            "special": false
-          },
-          {
-            "time": "12:27 ",
-            "special": false
-          },
-          {
-            "time": "13:15 b",
-            "special": false
-          },
-          {
-            "time": "14:03 ",
-            "special": false
-          },
-          {
-            "time": "14:51 b",
-            "special": false
-          },
-          {
-            "time": "15:15 ",
-            "special": false
-          },
-          {
-            "time": "15:39 b",
-            "special": false
-          },
-          {
-            "time": "16:03 ",
-            "special": false
-          },
-          {
-            "time": "16:27 b",
-            "special": false
-          },
-          {
-            "time": "16:53 ",
-            "special": false
-          },
-          {
-            "time": "17:18 b",
-            "special": false
-          },
-          {
-            "time": "17:43 ",
-            "special": false
-          },
-          {
-            "time": "18:08 b",
-            "special": false
-          },
-          {
-            "time": "18:33 a",
-            "special": false
-          },
-          {
-            "time": "18:55 b",
-            "special": false
-          },
-          {
-            "time": "19:40 a",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 1
-  },
-  {
-    "schedule_id": 1109,
-    "line_id": 168,
-    "epoch_id": 4,
-    "stop_name": "Palácio da Justiça",
-    "observations": "EM VIGOR NO MÊS DE AGOSTO. PARA OS RESTANTES MESES, CONSULTAR OS RESPECTIVOS HORÁRIOS.\u003c/br\u003e\u003c/br\u003ea) Termina à Estação Nova.\u003c/br\u003eb) Vai ao Hospital Pediátrico.",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:40 ",
-            "special": false
-          },
-          {
-            "time": "06:55 ",
-            "special": false
-          },
-          {
-            "time": "07:10 ",
-            "special": false
-          },
-          {
-            "time": "07:25 b",
-            "special": false
-          },
-          {
-            "time": "07:40 ",
-            "special": false
-          },
-          {
-            "time": "07:57 b",
-            "special": false
-          },
-          {
-            "time": "08:14 ",
-            "special": false
-          },
-          {
-            "time": "08:31 ",
-            "special": false
-          },
-          {
-            "time": "08:48 b",
-            "special": false
-          },
-          {
-            "time": "09:05 ",
-            "special": false
-          },
-          {
-            "time": "09:22 b",
-            "special": false
-          },
-          {
-            "time": "09:39 ",
-            "special": false
-          },
-          {
-            "time": "09:56 b",
-            "special": false
-          },
-          {
-            "time": "10:13 ",
-            "special": false
-          },
-          {
-            "time": "10:30 b",
-            "special": false
-          },
-          {
-            "time": "10:47 ",
-            "special": false
-          },
-          {
-            "time": "11:04 ",
-            "special": false
-          },
-          {
-            "time": "11:21 b",
-            "special": false
-          },
-          {
-            "time": "11:38 ",
-            "special": false
-          },
-          {
-            "time": "11:55 b",
-            "special": false
-          },
-          {
-            "time": "12:12 ",
-            "special": false
-          },
-          {
-            "time": "12:29 ",
-            "special": false
-          },
-          {
-            "time": "12:46 b",
-            "special": false
-          },
-          {
-            "time": "13:03 ",
-            "special": false
-          },
-          {
-            "time": "13:20 b",
-            "special": false
-          },
-          {
-            "time": "13:37 ",
-            "special": false
-          },
-          {
-            "time": "13:54 b",
-            "special": false
-          },
-          {
-            "time": "14:11 ",
-            "special": false
-          },
-          {
-            "time": "14:28 b",
-            "special": false
-          },
-          {
-            "time": "14:45 ",
-            "special": false
-          },
-          {
-            "time": "15:02 ",
-            "special": false
-          },
-          {
-            "time": "15:19 b",
-            "special": false
-          },
-          {
-            "time": "15:36 ",
-            "special": false
-          },
-          {
-            "time": "15:53 b",
-            "special": false
-          },
-          {
-            "time": "16:10 ",
-            "special": false
-          },
-          {
-            "time": "16:27 b",
-            "special": false
-          },
-          {
-            "time": "16:44 ",
-            "special": false
-          },
-          {
-            "time": "17:01 b",
-            "special": false
-          },
-          {
-            "time": "17:18 ",
-            "special": false
-          },
-          {
-            "time": "17:35 b",
-            "special": false
-          },
-          {
-            "time": "17:52 ",
-            "special": false
-          },
-          {
-            "time": "18:09 ",
-            "special": false
-          },
-          {
-            "time": "18:26 b",
-            "special": false
-          },
-          {
-            "time": "18:43 ",
-            "special": false
-          },
-          {
-            "time": "19:00 ",
-            "special": false
-          },
-          {
-            "time": "19:30 ",
-            "special": false
-          },
-          {
-            "time": "20:00 ",
-            "special": false
-          },
-          {
-            "time": "20:45 ",
-            "special": false
-          },
-          {
-            "time": "21:35 ",
-            "special": false
-          },
-          {
-            "time": "22:25 ",
-            "special": false
-          },
-          {
-            "time": "23:10 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "06:45 ",
-            "special": false
-          },
-          {
-            "time": "07:20 b",
-            "special": false
-          },
-          {
-            "time": "07:44 ",
-            "special": false
-          },
-          {
-            "time": "08:08 b",
-            "special": false
-          },
-          {
-            "time": "08:32 ",
-            "special": false
-          },
-          {
-            "time": "08:56 ",
-            "special": false
-          },
-          {
-            "time": "09:20 b",
-            "special": false
-          },
-          {
-            "time": "09:44 ",
-            "special": false
-          },
-          {
-            "time": "10:08 ",
-            "special": false
-          },
-          {
-            "time": "10:32 b",
-            "special": false
-          },
-          {
-            "time": "10:56 ",
-            "special": false
-          },
-          {
-            "time": "11:20 ",
-            "special": false
-          },
-          {
-            "time": "11:44 b",
-            "special": false
-          },
-          {
-            "time": "12:08 ",
-            "special": false
-          },
-          {
-            "time": "12:32 ",
-            "special": false
-          },
-          {
-            "time": "12:56 b",
-            "special": false
-          },
-          {
-            "time": "13:20 ",
-            "special": false
-          },
-          {
-            "time": "13:44 ",
-            "special": false
-          },
-          {
-            "time": "14:08 b",
-            "special": false
-          },
-          {
-            "time": "14:56 ",
-            "special": false
-          },
-          {
-            "time": "15:45 b",
-            "special": false
-          },
-          {
-            "time": "16:35 ",
-            "special": false
-          },
-          {
-            "time": "17:25 b",
-            "special": false
-          },
-          {
-            "time": "18:15 ",
-            "special": false
-          },
-          {
-            "time": "19:05 b",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "08:00 b",
-            "special": false
-          },
-          {
-            "time": "08:48 ",
-            "special": false
-          },
-          {
-            "time": "09:36 b",
-            "special": false
-          },
-          {
-            "time": "10:24 ",
-            "special": false
-          },
-          {
-            "time": "11:12 b",
-            "special": false
-          },
-          {
-            "time": "12:00 ",
-            "special": false
-          },
-          {
-            "time": "12:48 b",
-            "special": false
-          },
-          {
-            "time": "13:36 ",
-            "special": false
-          },
-          {
-            "time": "14:24 b",
-            "special": false
-          },
-          {
-            "time": "14:48 ",
-            "special": false
-          },
-          {
-            "time": "15:12 b",
-            "special": false
-          },
-          {
-            "time": "15:36 ",
-            "special": false
-          },
-          {
-            "time": "16:00 b",
-            "special": false
-          },
-          {
-            "time": "16:25 ",
-            "special": false
-          },
-          {
-            "time": "16:50 b",
-            "special": false
-          },
-          {
-            "time": "17:15 ",
-            "special": false
-          },
-          {
-            "time": "17:40 b",
-            "special": false
-          },
-          {
-            "time": "18:05 ",
-            "special": false
-          },
-          {
-            "time": "18:30 b",
-            "special": false
-          },
-          {
-            "time": "19:15 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 2
-  },
-  {
-    "schedule_id": 1110,
-    "line_id": 168,
-    "epoch_id": 4,
-    "stop_name": "Tovim",
-    "observations": "",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "07:00 ",
-            "special": false
-          },
-          {
-            "time": "07:15 ",
-            "special": false
-          },
-          {
-            "time": "07:35 ",
-            "special": false
-          },
-          {
-            "time": "07:50 b",
-            "special": false
-          },
-          {
-            "time": "08:06 ",
-            "special": false
-          },
-          {
-            "time": "08:23 b",
-            "special": false
-          },
-          {
-            "time": "08:40 ",
-            "special": false
-          },
-          {
-            "time": "08:57 ",
-            "special": false
-          },
-          {
-            "time": "09:14 b",
-            "special": false
-          },
-          {
-            "time": "09:31 ",
-            "special": false
-          },
-          {
-            "time": "09:48 b",
-            "special": false
-          },
-          {
-            "time": "10:05 ",
-            "special": false
-          },
-          {
-            "time": "10:22 b",
-            "special": false
-          },
-          {
-            "time": "10:39 ",
-            "special": false
-          },
-          {
-            "time": "10:56 b",
-            "special": false
-          },
-          {
-            "time": "11:13 ",
-            "special": false
-          },
-          {
-            "time": "11:30 ",
-            "special": false
-          },
-          {
-            "time": "11:47 b",
-            "special": false
-          },
-          {
-            "time": "12:04 ",
-            "special": false
-          },
-          {
-            "time": "12:21 b",
-            "special": false
-          },
-          {
-            "time": "12:38 ",
-            "special": false
-          },
-          {
-            "time": "12:55 ",
-            "special": false
-          },
-          {
-            "time": "13:12 b",
-            "special": false
-          },
-          {
-            "time": "13:29 ",
-            "special": false
-          },
-          {
-            "time": "13:46 b",
-            "special": false
-          },
-          {
-            "time": "14:03 ",
-            "special": false
-          },
-          {
-            "time": "14:20 b",
-            "special": false
-          },
-          {
-            "time": "14:37 ",
-            "special": false
-          },
-          {
-            "time": "14:54 b",
-            "special": false
-          },
-          {
-            "time": "15:11 ",
-            "special": false
-          },
-          {
-            "time": "15:28 ",
-            "special": false
-          },
-          {
-            "time": "15:45 b",
-            "special": false
-          },
-          {
-            "time": "16:02 ",
-            "special": false
-          },
-          {
-            "time": "16:19 b",
-            "special": false
-          },
-          {
-            "time": "16:36 ",
-            "special": false
-          },
-          {
-            "time": "16:53 b",
-            "special": false
-          },
-          {
-            "time": "17:10 ",
-            "special": false
-          },
-          {
-            "time": "17:27 b",
-            "special": false
-          },
-          {
-            "time": "17:46 ",
-            "special": false
-          },
-          {
-            "time": "18:01 b",
-            "special": false
-          },
-          {
-            "time": "18:18 ",
-            "special": false
-          },
-          {
-            "time": "18:35 ",
-            "special": false
-          },
-          {
-            "time": "18:52 ab",
-            "special": false
-          },
-          {
-            "time": "19:09 ",
-            "special": false
-          },
-          {
-            "time": "19:30 ",
-            "special": false
-          },
-          {
-            "time": "20:00 a",
-            "special": false
-          },
-          {
-            "time": "20:25 ",
-            "special": false
-          },
-          {
-            "time": "21:10 ",
-            "special": false
-          },
-          {
-            "time": "22:00 ",
-            "special": false
-          },
-          {
-            "time": "22:50 ",
-            "special": false
-          },
-          {
-            "time": "23:30 a",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "07:00 ",
-            "special": false
-          },
-          {
-            "time": "07:44 b",
-            "special": false
-          },
-          {
-            "time": "08:08 ",
-            "special": false
-          },
-          {
-            "time": "08:32 b",
-            "special": false
-          },
-          {
-            "time": "08:56 ",
-            "special": false
-          },
-          {
-            "time": "09:20 ",
-            "special": false
-          },
-          {
-            "time": "09:44 b",
-            "special": false
-          },
-          {
-            "time": "10:08 ",
-            "special": false
-          },
-          {
-            "time": "10:32 ",
-            "special": false
-          },
-          {
-            "time": "10:56 b",
-            "special": false
-          },
-          {
-            "time": "11:20 ",
-            "special": false
-          },
-          {
-            "time": "11:44 ",
-            "special": false
-          },
-          {
-            "time": "12:08 b",
-            "special": false
-          },
-          {
-            "time": "12:32 ",
-            "special": false
-          },
-          {
-            "time": "12:56 ",
-            "special": false
-          },
-          {
-            "time": "13:20 b",
-            "special": false
-          },
-          {
-            "time": "13:44 ",
-            "special": false
-          },
-          {
-            "time": "14:08 a",
-            "special": false
-          },
-          {
-            "time": "14:32 b",
-            "special": false
-          },
-          {
-            "time": "15:20 ",
-            "special": false
-          },
-          {
-            "time": "16:10 b",
-            "special": false
-          },
-          {
-            "time": "17:00 ",
-            "special": false
-          },
-          {
-            "time": "17:50 b",
-            "special": false
-          },
-          {
-            "time": "18:40 ",
-            "special": false
-          },
-          {
-            "time": "19:30 ab",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "08:27 b",
-            "special": false
-          },
-          {
-            "time": "09:15 ",
-            "special": false
-          },
-          {
-            "time": "10:03 b",
-            "special": false
-          },
-          {
-            "time": "10:51 ",
-            "special": false
-          },
-          {
-            "time": "11:39 b",
-            "special": false
-          },
-          {
-            "time": "12:27 ",
-            "special": false
-          },
-          {
-            "time": "13:15 b",
-            "special": false
-          },
-          {
-            "time": "14:03 ",
-            "special": false
-          },
-          {
-            "time": "14:51 b",
-            "special": false
-          },
-          {
-            "time": "15:15 ",
-            "special": false
-          },
-          {
-            "time": "15:39 b",
-            "special": false
-          },
-          {
-            "time": "16:03 ",
-            "special": false
-          },
-          {
-            "time": "16:27 b",
-            "special": false
-          },
-          {
-            "time": "16:53 ",
-            "special": false
-          },
-          {
-            "time": "17:18 b",
-            "special": false
-          },
-          {
-            "time": "17:43 ",
-            "special": false
-          },
-          {
-            "time": "18:08 b",
-            "special": false
-          },
-          {
-            "time": "18:33 a",
-            "special": false
-          },
-          {
-            "time": "18:55 b",
-            "special": false
-          },
-          {
-            "time": "19:40 a",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 3
   },
   {
     "schedule_id": 975,
@@ -17180,6 +17192,42 @@
       }
     ],
     "order": 0
+  },
+  {
+    "schedule_id": 1237,
+    "line_id": 227,
+    "epoch_id": 5,
+    "stop_name": "Vale de Canas",
+    "observations": "",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "07:15 a",
+            "special": false
+          },
+          {
+            "time": "07:45 c",
+            "special": false
+          },
+          {
+            "time": "12:40 cd",
+            "special": false
+          },
+          {
+            "time": "18:25 ",
+            "special": false
+          },
+          {
+            "time": "20:00 bc",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 1
   },
   {
     "schedule_id": 876,
@@ -20524,6 +20572,444 @@
       }
     ],
     "order": 1
+  },
+  {
+    "schedule_id": 1248,
+    "line_id": 168,
+    "epoch_id": 4,
+    "stop_name": "Palácio da Justiça",
+    "observations": "EM VIGOR NO MÊS DE AGOSTO. PARA OS RESTANTES MESES, CONSULTAR OS RESPECTIVOS HORÁRIOS.\u003c/br\u003e\u003c/br\u003ea) Termina à Estação Nova.\u003c/br\u003eb) Vai ao Hospital Pediátrico.",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "06:40 ",
+            "special": false
+          },
+          {
+            "time": "06:55 b",
+            "special": false
+          },
+          {
+            "time": "07:10 ",
+            "special": false
+          },
+          {
+            "time": "07:25 b",
+            "special": false
+          },
+          {
+            "time": "07:40 ",
+            "special": false
+          },
+          {
+            "time": "07:57 b",
+            "special": false
+          },
+          {
+            "time": "08:14 ",
+            "special": false
+          },
+          {
+            "time": "08:31 ",
+            "special": false
+          },
+          {
+            "time": "08:48 b",
+            "special": false
+          },
+          {
+            "time": "09:05 ",
+            "special": false
+          },
+          {
+            "time": "09:22 b",
+            "special": false
+          },
+          {
+            "time": "09:39 ",
+            "special": false
+          },
+          {
+            "time": "09:56 b",
+            "special": false
+          },
+          {
+            "time": "10:13 ",
+            "special": false
+          },
+          {
+            "time": "10:30 b",
+            "special": false
+          },
+          {
+            "time": "10:47 ",
+            "special": false
+          },
+          {
+            "time": "11:04 ",
+            "special": false
+          },
+          {
+            "time": "11:21 b",
+            "special": false
+          },
+          {
+            "time": "11:38 ",
+            "special": false
+          },
+          {
+            "time": "11:55 b",
+            "special": false
+          },
+          {
+            "time": "12:12 ",
+            "special": false
+          },
+          {
+            "time": "12:29 ",
+            "special": false
+          },
+          {
+            "time": "12:46 b",
+            "special": false
+          },
+          {
+            "time": "13:03 ",
+            "special": false
+          },
+          {
+            "time": "13:20 b",
+            "special": false
+          },
+          {
+            "time": "13:37 ",
+            "special": false
+          },
+          {
+            "time": "13:54 b",
+            "special": false
+          },
+          {
+            "time": "14:11 ",
+            "special": false
+          },
+          {
+            "time": "14:28 b",
+            "special": false
+          },
+          {
+            "time": "14:45 ",
+            "special": false
+          },
+          {
+            "time": "15:02 ",
+            "special": false
+          },
+          {
+            "time": "15:19 b",
+            "special": false
+          },
+          {
+            "time": "15:36 ",
+            "special": false
+          },
+          {
+            "time": "15:53 b",
+            "special": false
+          },
+          {
+            "time": "16:10 ",
+            "special": false
+          },
+          {
+            "time": "16:27 b",
+            "special": false
+          },
+          {
+            "time": "16:44 ",
+            "special": false
+          },
+          {
+            "time": "17:01 b",
+            "special": false
+          },
+          {
+            "time": "17:18 ",
+            "special": false
+          },
+          {
+            "time": "17:35 b",
+            "special": false
+          },
+          {
+            "time": "17:52 ",
+            "special": false
+          },
+          {
+            "time": "18:09 ",
+            "special": false
+          },
+          {
+            "time": "18:26 b",
+            "special": false
+          },
+          {
+            "time": "18:43 ",
+            "special": false
+          },
+          {
+            "time": "19:00 ",
+            "special": false
+          },
+          {
+            "time": "19:30 ",
+            "special": false
+          },
+          {
+            "time": "20:00 ",
+            "special": false
+          },
+          {
+            "time": "20:45 ",
+            "special": false
+          },
+          {
+            "time": "21:35 ",
+            "special": false
+          },
+          {
+            "time": "22:25 ",
+            "special": false
+          },
+          {
+            "time": "23:10 ",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Sábados",
+        "times": [
+          {
+            "time": "06:45 ",
+            "special": false
+          },
+          {
+            "time": "07:20 b",
+            "special": false
+          },
+          {
+            "time": "07:44 ",
+            "special": false
+          },
+          {
+            "time": "08:08 b",
+            "special": false
+          },
+          {
+            "time": "08:32 ",
+            "special": false
+          },
+          {
+            "time": "08:56 ",
+            "special": false
+          },
+          {
+            "time": "09:20 b",
+            "special": false
+          },
+          {
+            "time": "09:44 ",
+            "special": false
+          },
+          {
+            "time": "10:08 ",
+            "special": false
+          },
+          {
+            "time": "10:32 b",
+            "special": false
+          },
+          {
+            "time": "10:56 ",
+            "special": false
+          },
+          {
+            "time": "11:20 ",
+            "special": false
+          },
+          {
+            "time": "11:44 b",
+            "special": false
+          },
+          {
+            "time": "12:08 ",
+            "special": false
+          },
+          {
+            "time": "12:32 ",
+            "special": false
+          },
+          {
+            "time": "12:56 b",
+            "special": false
+          },
+          {
+            "time": "13:20 ",
+            "special": false
+          },
+          {
+            "time": "13:44 ",
+            "special": false
+          },
+          {
+            "time": "14:08 b",
+            "special": false
+          },
+          {
+            "time": "14:56 ",
+            "special": false
+          },
+          {
+            "time": "15:45 b",
+            "special": false
+          },
+          {
+            "time": "16:35 ",
+            "special": false
+          },
+          {
+            "time": "17:25 b",
+            "special": false
+          },
+          {
+            "time": "18:15 ",
+            "special": false
+          },
+          {
+            "time": "19:05 b",
+            "special": false
+          }
+        ]
+      },
+      {
+        "name": "Domingos e Feriados",
+        "times": [
+          {
+            "time": "08:00 b",
+            "special": false
+          },
+          {
+            "time": "08:48 ",
+            "special": false
+          },
+          {
+            "time": "09:36 b",
+            "special": false
+          },
+          {
+            "time": "10:24 ",
+            "special": false
+          },
+          {
+            "time": "11:12 b",
+            "special": false
+          },
+          {
+            "time": "12:00 ",
+            "special": false
+          },
+          {
+            "time": "12:48 b",
+            "special": false
+          },
+          {
+            "time": "13:36 ",
+            "special": false
+          },
+          {
+            "time": "14:24 b",
+            "special": false
+          },
+          {
+            "time": "14:48 ",
+            "special": false
+          },
+          {
+            "time": "15:12 b",
+            "special": false
+          },
+          {
+            "time": "15:36 ",
+            "special": false
+          },
+          {
+            "time": "16:00 b",
+            "special": false
+          },
+          {
+            "time": "16:25 ",
+            "special": false
+          },
+          {
+            "time": "16:50 b",
+            "special": false
+          },
+          {
+            "time": "17:15 ",
+            "special": false
+          },
+          {
+            "time": "17:40 b",
+            "special": false
+          },
+          {
+            "time": "18:05 ",
+            "special": false
+          },
+          {
+            "time": "18:30 b",
+            "special": false
+          },
+          {
+            "time": "19:15 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 2
+  },
+  {
+    "schedule_id": 1239,
+    "line_id": 227,
+    "epoch_id": 5,
+    "stop_name": "Baixa (Portagem)",
+    "observations": "\u003cstrong\u003ea)\u003c/strong\u003e Inicia neste Horário em Misarela, sem passar por Vale de Canas. Efetua a Linha 42M, com percurso: Misarela, Picoto dos Barbados, R. Alle Alvarez, Tovim, Av. Elísio de Moura, Esc. Eugénio de Castro, Solum, Pr. Jorge Anjinho, \"Bandeiras\" e Estrada da Beira até ao Alto de S. João, onde inicia o percurso da Linha n.º 42T, em direção a Vale de Canas. \u003c/br\u003e\u003c/br\u003e\u003cstrong\u003eb)\u003c/strong\u003e \u003cstrong\u003eNão passa pelos Olivais (Cumeada) - Efectua a Linha 42C\u003c/strong\u003e, com percurso: Vale de Canas, P. Barbados, R. Alle Alvarez, Tovim, Av. Elísio de Moura, Esc. Eugénio de Castro, Solum, Pr. Jorge Anjinho, \"Bandeiras\", Estrada da Beira, Vale das Flores, R. do Brasil e Portagem.\u003c/br\u003e\u003c/br\u003e\u003cstrong\u003ec)\u003c/strong\u003e Termina na Portagem.\u003c/br\u003e\u003c/br\u003e\u003cstrong\u003ed)\u003c/strong\u003e Efetua a Linha n.º 42V, com percurso igual ao da Linha n.º 42T, mas passando por Misarela (12h50) no regresso de Vale de Canas.\u003c/br\u003e",
+    "comments": "",
+    "days": [
+      {
+        "name": "Dias Úteis",
+        "times": [
+          {
+            "time": "11:50 d",
+            "special": false
+          },
+          {
+            "time": "17:35 ",
+            "special": false
+          },
+          {
+            "time": "19:15 ",
+            "special": false
+          }
+        ]
+      }
+    ],
+    "order": 0
   },
   {
     "schedule_id": 1065,
@@ -27129,428 +27615,6 @@
       }
     ],
     "order": 3
-  },
-  {
-    "schedule_id": 1107,
-    "line_id": 168,
-    "epoch_id": 6,
-    "stop_name": "Palácio da Justiça",
-    "observations": "NO MÊS DE AGOSTO CONSULTAR O RESPECTIVO HORÁRIO.\u003c/br\u003e\u003c/br\u003ea) Termina na Estação Nova.\u003c/br\u003eb) Vai ao Hospital Pediátrico.",
-    "comments": "",
-    "days": [
-      {
-        "name": "Dias Úteis",
-        "times": [
-          {
-            "time": "06:40 ",
-            "special": false
-          },
-          {
-            "time": "06:55 ",
-            "special": false
-          },
-          {
-            "time": "07:05 ",
-            "special": false
-          },
-          {
-            "time": "07:15 ",
-            "special": false
-          },
-          {
-            "time": "07:30 b",
-            "special": false
-          },
-          {
-            "time": "07:45 ",
-            "special": false
-          },
-          {
-            "time": "08:00 b",
-            "special": false
-          },
-          {
-            "time": "08:15 ",
-            "special": false
-          },
-          {
-            "time": "08:30 ",
-            "special": false
-          },
-          {
-            "time": "08:45 b",
-            "special": false
-          },
-          {
-            "time": "09:00 ",
-            "special": false
-          },
-          {
-            "time": "09:17 b",
-            "special": false
-          },
-          {
-            "time": "09:34 ",
-            "special": false
-          },
-          {
-            "time": "09:51 b",
-            "special": false
-          },
-          {
-            "time": "10:08 ",
-            "special": false
-          },
-          {
-            "time": "10:25 ",
-            "special": false
-          },
-          {
-            "time": "10:42 b",
-            "special": false
-          },
-          {
-            "time": "10:59 ",
-            "special": false
-          },
-          {
-            "time": "11:16 b",
-            "special": false
-          },
-          {
-            "time": "11:33 ",
-            "special": false
-          },
-          {
-            "time": "11:50 b",
-            "special": false
-          },
-          {
-            "time": "12:07 ",
-            "special": false
-          },
-          {
-            "time": "12:24 ",
-            "special": false
-          },
-          {
-            "time": "12:41 b",
-            "special": false
-          },
-          {
-            "time": "12:58 ",
-            "special": false
-          },
-          {
-            "time": "13:15 b",
-            "special": false
-          },
-          {
-            "time": "13:32 ",
-            "special": false
-          },
-          {
-            "time": "13:49 b",
-            "special": false
-          },
-          {
-            "time": "14:06 ",
-            "special": false
-          },
-          {
-            "time": "14:23 b",
-            "special": false
-          },
-          {
-            "time": "14:40 ",
-            "special": false
-          },
-          {
-            "time": "14:57 ",
-            "special": false
-          },
-          {
-            "time": "15:14 b",
-            "special": false
-          },
-          {
-            "time": "15:30 ",
-            "special": false
-          },
-          {
-            "time": "15:45 b",
-            "special": false
-          },
-          {
-            "time": "16:00 ",
-            "special": false
-          },
-          {
-            "time": "16:15 b",
-            "special": false
-          },
-          {
-            "time": "16:30 ",
-            "special": false
-          },
-          {
-            "time": "16:45 b",
-            "special": false
-          },
-          {
-            "time": "17:00 ",
-            "special": false
-          },
-          {
-            "time": "17:15 ",
-            "special": false
-          },
-          {
-            "time": "17:30 ",
-            "special": false
-          },
-          {
-            "time": "17:45 b",
-            "special": false
-          },
-          {
-            "time": "18:00 ",
-            "special": false
-          },
-          {
-            "time": "18:15 ",
-            "special": false
-          },
-          {
-            "time": "18:30 b",
-            "special": false
-          },
-          {
-            "time": "18:45 ",
-            "special": false
-          },
-          {
-            "time": "19:00 ",
-            "special": false
-          },
-          {
-            "time": "19:30 ",
-            "special": false
-          },
-          {
-            "time": "20:00 ",
-            "special": false
-          },
-          {
-            "time": "20:45 ",
-            "special": false
-          },
-          {
-            "time": "21:35 ",
-            "special": false
-          },
-          {
-            "time": "22:25 ",
-            "special": false
-          },
-          {
-            "time": "23:10 ",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Sábados",
-        "times": [
-          {
-            "time": "06:45 ",
-            "special": false
-          },
-          {
-            "time": "07:20 b",
-            "special": false
-          },
-          {
-            "time": "07:44 ",
-            "special": false
-          },
-          {
-            "time": "08:08 b",
-            "special": false
-          },
-          {
-            "time": "08:32 ",
-            "special": false
-          },
-          {
-            "time": "08:56 ",
-            "special": false
-          },
-          {
-            "time": "09:20 b",
-            "special": false
-          },
-          {
-            "time": "09:44 ",
-            "special": false
-          },
-          {
-            "time": "10:08 ",
-            "special": false
-          },
-          {
-            "time": "10:32 b",
-            "special": false
-          },
-          {
-            "time": "10:56 ",
-            "special": false
-          },
-          {
-            "time": "11:20 ",
-            "special": false
-          },
-          {
-            "time": "11:44 b",
-            "special": false
-          },
-          {
-            "time": "12:08 ",
-            "special": false
-          },
-          {
-            "time": "12:32 ",
-            "special": false
-          },
-          {
-            "time": "12:56 b",
-            "special": false
-          },
-          {
-            "time": "13:20 ",
-            "special": false
-          },
-          {
-            "time": "13:44 ",
-            "special": false
-          },
-          {
-            "time": "14:08 b",
-            "special": false
-          },
-          {
-            "time": "14:56 ",
-            "special": false
-          },
-          {
-            "time": "15:45 b",
-            "special": false
-          },
-          {
-            "time": "16:35 ",
-            "special": false
-          },
-          {
-            "time": "17:25 b",
-            "special": false
-          },
-          {
-            "time": "18:15 ",
-            "special": false
-          },
-          {
-            "time": "19:05 b",
-            "special": false
-          }
-        ]
-      },
-      {
-        "name": "Domingos e Feriados",
-        "times": [
-          {
-            "time": "08:00 b",
-            "special": false
-          },
-          {
-            "time": "08:48 ",
-            "special": false
-          },
-          {
-            "time": "09:36 b",
-            "special": false
-          },
-          {
-            "time": "10:24 ",
-            "special": false
-          },
-          {
-            "time": "11:12 b",
-            "special": false
-          },
-          {
-            "time": "12:00 ",
-            "special": false
-          },
-          {
-            "time": "12:48 b",
-            "special": false
-          },
-          {
-            "time": "13:36 ",
-            "special": false
-          },
-          {
-            "time": "14:24 b",
-            "special": false
-          },
-          {
-            "time": "14:48 ",
-            "special": false
-          },
-          {
-            "time": "15:12 b",
-            "special": false
-          },
-          {
-            "time": "15:36 ",
-            "special": false
-          },
-          {
-            "time": "16:00 b",
-            "special": false
-          },
-          {
-            "time": "16:25 ",
-            "special": false
-          },
-          {
-            "time": "16:50 b",
-            "special": false
-          },
-          {
-            "time": "17:15 ",
-            "special": false
-          },
-          {
-            "time": "17:40 b",
-            "special": false
-          },
-          {
-            "time": "18:05 ",
-            "special": false
-          },
-          {
-            "time": "18:30 b",
-            "special": false
-          },
-          {
-            "time": "19:15 ",
-            "special": false
-          }
-        ]
-      }
-    ],
-    "order": 0
   },
   {
     "schedule_id": 1125,
