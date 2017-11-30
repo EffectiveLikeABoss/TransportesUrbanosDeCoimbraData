@@ -33,7 +33,7 @@
     "begin": {
       "date": {
         "year": 2017,
-        "month": 6,
+        "month": 12,
         "day": 18
       },
       "time": {
@@ -44,9 +44,9 @@
     },
     "end": {
       "date": {
-        "year": 2017,
-        "month": 9,
-        "day": 11
+        "year": 2018,
+        "month": 1,
+        "day": 3
       },
       "time": {
         "hour": 2,
@@ -60,7 +60,7 @@
     "name": "AGOSTO",
     "begin": {
       "date": {
-        "year": 2017,
+        "year": 2018,
         "month": 8,
         "day": 1
       },
@@ -72,7 +72,7 @@
     },
     "end": {
       "date": {
-        "year": 2017,
+        "year": 2018,
         "month": 9,
         "day": 1
       },
@@ -149,7 +149,7 @@
     "begin": {
       "date": {
         "year": 2017,
-        "month": 6,
+        "month": 12,
         "day": 18
       },
       "time": {
@@ -160,9 +160,9 @@
     },
     "end": {
       "date": {
-        "year": 2017,
-        "month": 9,
-        "day": 11
+        "year": 2018,
+        "month": 1,
+        "day": 3
       },
       "time": {
         "hour": 2,
@@ -297,7 +297,7 @@
     "begin": {
       "date": {
         "year": 2017,
-        "month": 6,
+        "month": 12,
         "day": 18
       },
       "time": {
@@ -308,9 +308,9 @@
     },
     "end": {
       "date": {
-        "year": 2017,
-        "month": 9,
-        "day": 11
+        "year": 2018,
+        "month": 1,
+        "day": 3
       },
       "time": {
         "hour": 2,

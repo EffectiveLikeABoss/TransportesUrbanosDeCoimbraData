@@ -4,99 +4,79 @@
     "ticket_description": "Rede Geral",
     "tariffs": [
       {
-        "name": "Bilhete para 1 dia família numerosa",
-        "total_price": "0.70",
-        "tariff_desciption": "Válido para toda a rede com limite de 7 viagens por dia",
-        "order": 0
-      },
-      {
-        "name": "Bilhete para 1 dia",
-        "total_price": "3.50",
-        "tariff_desciption": "Válido para toda a rede",
-        "order": 0
-      },
-      {
-        "name": "11 viagens",
-        "total_price": "6.40",
-        "trip_price": "0.58",
-        "tariff_desciption": "Válido para toda a rede",
-        "order": 0
-      },
-      {
-        "name": "9 viagens",
-        "total_price": "5.25",
-        "trip_price": "0.58",
-        "tariff_desciption": "Válido para toda a rede",
-        "order": 0
-      },
-      {
-        "name": "1 DESLOCAÇÃO",
-        "total_price": "1.00",
-        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
-        "order": 0
-      },
-      {
-        "name": "3 DESLOCAÇÕES",
-        "total_price": "2.90",
-        "trip_price": "0.97",
-        "tariff_desciption": "Válidos para toda  a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
-        "order": 0
-      },
-      {
-        "name": "10 DESLOCAÇÕES",
-        "total_price": "8.50",
-        "trip_price": "0.85",
-        "tariff_desciption": "Válidos para toda a rede deslocação com validade de 1 hora * não acumulável nos cartões de suporte com os títulos Multiviagens já existentes",
-        "order": 0
-      },
-      {
-        "name": "10 viagens",
-        "total_price": "5.80",
-        "trip_price": "0.58",
-        "tariff_desciption": "Válido para toda a rede",
-        "order": 0
-      },
-      {
         "name": "3 viagens",
         "total_price": "2.20",
         "trip_price": "0.73",
         "tariff_desciption": "Válido para toda a rede",
-        "order": 1
+        "order": 0
       },
       {
         "name": "4 viagens",
         "total_price": "2.50",
         "trip_price": "0.63",
         "tariff_desciption": "Válido para toda a rede",
-        "order": 2
+        "order": 1
       },
       {
         "name": "5 viagens",
         "total_price": "3.15",
         "trip_price": "0.63",
         "tariff_desciption": "Válido para toda a rede",
-        "order": 3
+        "order": 2
       },
       {
         "name": "6 viagens",
         "total_price": "3.80",
         "trip_price": "0.63",
         "tariff_desciption": "Válido para toda a rede",
-        "order": 4
+        "order": 3
       },
       {
         "name": "7 viagens",
         "total_price": "4.40",
         "trip_price": "0.63",
         "tariff_desciption": "Válido para toda a rede",
-        "order": 5
+        "order": 4
       },
       {
         "name": "8 viagens",
         "total_price": "4.65",
         "trip_price": "0.58",
         "tariff_desciption": "Válido para toda a rede",
+        "order": 5
+      },
+      {
+        "name": "9 viagens",
+        "total_price": "5.25",
+        "trip_price": "0.58",
+        "tariff_desciption": "Válido para toda a rede",
         "order": 6
+      },
+      {
+        "name": "10 viagens",
+        "total_price": "5.80",
+        "trip_price": "0.58",
+        "tariff_desciption": "Válido para toda a rede",
+        "order": 7
+      },
+      {
+        "name": "11 viagens",
+        "total_price": "6.40",
+        "trip_price": "0.58",
+        "tariff_desciption": "Válido para toda a rede",
+        "order": 8
+      },
+      {
+        "name": "Bilhete para 1 dia",
+        "total_price": "3.50",
+        "tariff_desciption": "Válido para toda a rede",
+        "order": 9
+      },
+      {
+        "name": "Bilhete para 1 dia família numerosa",
+        "total_price": "0.70",
+        "tariff_desciption": "Válido para toda a rede com limite de 7 viagens por dia",
+        "order": 10
       }
     ]
   },
@@ -130,8 +110,8 @@
     "ticket_description": "Passe Social Especial",
     "tariffs": [
       {
-        "name": "Aposentado Municipal (mensal)",
-        "total_price": "6.00",
+        "name": "3.ª Idade (mensal)",
+        "total_price": "17.50",
         "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
         "order": 0
       },
@@ -139,73 +119,73 @@
         "name": "Reformado / Pensionista por incapacidade (mensal)",
         "total_price": "17.50",
         "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
-      },
-      {
-        "name": "Bimodal (CP/SMTUC) (mensal)",
-        "total_price": "35.00",
-        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
-      },
-      {
-        "name": "Combinado (mensal)",
-        "total_price": "Gratuito nos SMTUC (Protocolo entre a CMC e as transportadoras Moisés Correia de Oliveira e JOALTO/TRANSDEV)",
-        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
-      },
-      {
-        "name": "Apoio Social + (Anual)",
-        "total_price": "12.00",
-        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
+        "order": 1
       },
       {
         "name": "Sénior + (mensal)",
         "total_price": "14.00",
         "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
-      },
-      {
-        "name": "Centro Histórico - Elevador do Mercado / Linha Azul (anual)",
-        "total_price": "Gratuito para quem reúna as condições de atribuição",
-        "tariff_desciption": "Válido para o Elevador do Mercado e para a  Linha Azul. Ver condições de atribuição.",
-        "order": 0
-      },
-      {
-        "name": "Estudante (mensal)",
-        "total_price": "22.00",
-        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
-      },
-      {
-        "name": "Funcionario Municipal (anual)",
-        "total_price": "12.00",
-        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
-      },
-      {
-        "name": "3.ª Idade (mensal)",
-        "total_price": "17.50",
-        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
+        "order": 2
       },
       {
         "name": "Reformado / Pensionista por incapacidade + (mensal)",
         "total_price": "14.00",
         "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
+        "order": 3
       },
       {
-        "name": "Passe Bem (até 7 dias)",
+        "name": "Estudante (mensal)",
+        "total_price": "22.00",
+        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
+        "order": 4
+      },
+      {
+        "name": "Aposentado Municipal (mensal)",
         "total_price": "6.00",
         "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
+        "order": 5
+      },
+      {
+        "name": "Funcionário Municipal (anual)",
+        "total_price": "12.00",
+        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
+        "order": 6
+      },
+      {
+        "name": "Bimodal (CP/SMTUC) (mensal)",
+        "total_price": "35.00",
+        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
+        "order": 7
+      },
+      {
+        "name": "Combinado (mensal)",
+        "total_price": "Gratuito nos SMTUC (Protocolo entre a CMC e as transportadoras Moisés Correia de Oliveira e JOALTO/TRANSDEV)",
+        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
+        "order": 8
+      },
+      {
+        "name": "Apoio Social + (Anual)",
+        "total_price": "12.00",
+        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
+        "order": 9
       },
       {
         "name": "Consigo + (mensal)",
         "total_price": "1.00",
         "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
-        "order": 0
+        "order": 10
+      },
+      {
+        "name": "Passe Bem / Coimbra conVIDA (até 7 dias)",
+        "total_price": "6.00",
+        "tariff_desciption": "Válido para toda a rede. Ver condições de atribuição.",
+        "order": 11
+      },
+      {
+        "name": "Centro Histórico - Elevador do Mercado / Linha Azul (anual)",
+        "total_price": "Gratuito para quem reúna as condições de atribuição",
+        "tariff_desciption": "Válido para o Elevador do Mercado e para a  Linha Azul. Ver condições de atribuição.",
+        "order": 12
       }
     ]
   },
@@ -214,15 +194,15 @@
     "ticket_description": "ConVIDA",
     "tariffs": [
       {
-        "name": "Emissão de Cartão Viagem ConVIDA",
+        "name": "Viagem conVIDA",
         "total_price": "0.50",
         "tariff_desciption": "Suporte para os títulos pré-comprados (com exceção do Bilhete Família numerosa) e para os Bilhetes com estacionamento.",
         "order": 0
       },
       {
-        "name": "Emissão de Cartão Coimbra ConVIDA",
+        "name": "Coimbra conVIDA",
         "total_price": "6.00",
-        "tariff_desciption": "Suporte para todos os títulos com exceção do Bilhete de motorista",
+        "tariff_desciption": "Suporte para todos os títulos com exceção do Bilhete de motorista.",
         "order": 0
       }
     ]
@@ -232,28 +212,54 @@
     "ticket_description": "Bilhetes com Estacionamento",
     "tariffs": [
       {
-        "name": "Entidade - 2 deslocações + Estacionamento",
-        "total_price": "1.95",
-        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
-        "order": 13
-      },
-      {
         "name": "2 deslocações + Estacionamento",
         "total_price": "2.60",
         "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
-        "order": 14
+        "order": 0
       },
       {
         "name": "4 deslocações + Estacionamento",
         "total_price": "4.20",
         "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
-        "order": 15
+        "order": 1
+      },
+      {
+        "name": "Entidade - 2 deslocações + Estacionamento",
+        "total_price": "1.95",
+        "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
+        "order": 2
       },
       {
         "name": "Entidade - 4 deslocações + Estacionamento",
         "total_price": "3.15",
         "tariff_desciption": "Válido para toda a rede. Deslocação com validade de 1 hora *. Com direito a estacionamento nos Parques de Estacionamento ECOVIA da Casa do Sal. Ver condições de acesso e utilização.",
-        "order": 17
+        "order": 3
+      }
+    ]
+  },
+  {
+    "ticket_id": 6,
+    "ticket_description": "Bilhetes Horários",
+    "tariffs": [
+      {
+        "name": "1 DESLOCAÇÃO",
+        "total_price": "1.00",
+        "tariff_desciption": "Válido para toda a rede.  Deslocação com validade de 1 hora (*).  Não acumulável nos cartões de suporte, com os títulos Multiviagens já existentes.",
+        "order": 0
+      },
+      {
+        "name": "3 DESLOCAÇÕES",
+        "total_price": "2.90",
+        "trip_price": "0.97",
+        "tariff_desciption": "Válido para toda a rede.  Deslocação com validade de 1 hora (*).  Não acumulável nos cartões de suporte, com os títulos Multiviagens já existentes.",
+        "order": 1
+      },
+      {
+        "name": "10 DESLOCAÇÕES",
+        "total_price": "8.50",
+        "trip_price": "0.85",
+        "tariff_desciption": "Válido para toda a rede.  Deslocação com validade de 1 hora (*).  Não acumulável nos cartões de suporte, com os títulos Multiviagens já existentes.",
+        "order": 2
       }
     ]
   }
