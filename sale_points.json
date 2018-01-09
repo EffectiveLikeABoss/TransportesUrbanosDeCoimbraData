@@ -129,17 +129,6 @@
   },
   {
     "sale_point_id": 13,
-    "name": "ZeuLuz - Comp. Elétricos e Eletrónicos, Lda.",
-    "address": "Rua 1º de Maio, nº 104 - Fala - S. Martinho do Bispo",
-    "phone": "239 814 641",
-    "parish": "S. Martinho do Bispo",
-    "lat": "40.202679",
-    "lon": "-8.469405",
-    "zone": "Fala",
-    "official_store": false
-  },
-  {
-    "sale_point_id": 14,
     "name": "Papelaria e Tabacaria Arquivo, Lda.",
     "address": "Rua Dr. Manuel Rodrigues, nº 9",
     "phone": "239 820 620",
@@ -150,7 +139,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 15,
+    "sale_point_id": 14,
     "name": "Tabacaria Triunfo",
     "address": "Valdemar Agostinho Oliveira Catarino - Rua do Brasil, nº 233, r/c",
     "phone": "239 711 889",
@@ -161,7 +150,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 16,
+    "sale_point_id": 15,
     "name": "Tabacaria Espírito Santo",
     "address": "Praça 8 de Maio, nº 8",
     "phone": "239 821 991",
@@ -172,7 +161,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 17,
+    "sale_point_id": 16,
     "name": "Café Primavera",
     "address": "Rua Central da Mesura, nº 84",
     "phone": "239 811 253",
@@ -183,20 +172,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 18,
-    "name": "Mini Mercado Pacheco",
-    "weekdays_schedule": "2ª a 6ª das 07h30 às 19h30",
-    "weekends_schedule": "Sábado das 7h30 às 19h30",
-    "address": "Rua Dr. Daniel de Matos, nº 120 r/ch",
-    "phone": "239 714 677",
-    "parish": "Stº. Antº. Olivais",
-    "lat": "40.197265",
-    "lon": "-8.412205",
-    "zone": "Bairro Norton de Matos",
-    "official_store": false
-  },
-  {
-    "sale_point_id": 19,
+    "sale_point_id": 17,
     "name": "Alma Shooping",
     "weekdays_schedule": "10h00 - 23.00",
     "weekends_schedule": "10h00 - 24h00",
@@ -207,7 +183,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 20,
+    "sale_point_id": 18,
     "name": "Café Franco",
     "weekdays_schedule": "07h00 - 23h00",
     "weekends_schedule": "07h00 - 23h00",
@@ -218,7 +194,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 21,
+    "sale_point_id": 19,
     "name": "Tabacaria Papelaria Estrelinha da Sorte",
     "weekdays_schedule": "08.00 às 19.00",
     "weekends_schedule": "08.00 às 13.00",
@@ -229,7 +205,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 22,
+    "sale_point_id": 20,
     "name": "Fórum Coimbra",
     "address": "Av. José Bonifácio de Andrade e Silva, n.º 1 - Quinta do Vale Gemil - Almegue",
     "phone": "239 801 700",
@@ -240,7 +216,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 23,
+    "sale_point_id": 21,
     "name": "Liga dos Amigos dos Hospitais da Universidade de Coimbra",
     "address": "Praceta Prof. Mota Pinto (Edifício principal dos HUC)",
     "phone": "239 400 584",
