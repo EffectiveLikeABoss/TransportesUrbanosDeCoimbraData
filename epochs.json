@@ -60,7 +60,7 @@
     "name": "AGOSTO",
     "begin": {
       "date": {
-        "year": 2018,
+        "year": 2014,
         "month": 8,
         "day": 1
       },
@@ -72,7 +72,7 @@
     },
     "end": {
       "date": {
-        "year": 2018,
+        "year": 2014,
         "month": 9,
         "day": 1
       },
@@ -88,19 +88,19 @@
     "name": "TODO O ANO",
     "begin": {
       "date": {
-        "year": 2017,
-        "month": 1,
+        "year": 2013,
+        "month": 9,
         "day": 1
       },
       "time": {
-        "hour": 0,
+        "hour": 2,
         "minute": 0,
         "second": 0
       }
     },
     "end": {
       "date": {
-        "year": 2019,
+        "year": 2015,
         "month": 1,
         "day": 1
       },
@@ -145,12 +145,12 @@
   },
   {
     "epoch_id": 9,
-    "name": "FÉRIAS ESCOLARES, EXCETO AGOSTO",
+    "name": "FÉRIAS ESCOLARES, EXCEPTO AGOSTO",
     "begin": {
       "date": {
-        "year": 2017,
-        "month": 12,
-        "day": 18
+        "year": 2014,
+        "month": 6,
+        "day": 15
       },
       "time": {
         "hour": 2,
@@ -160,9 +160,9 @@
     },
     "end": {
       "date": {
-        "year": 2018,
-        "month": 1,
-        "day": 3
+        "year": 2014,
+        "month": 9,
+        "day": 15
       },
       "time": {
         "hour": 2,

@@ -54,7 +54,7 @@
     "sale_point_id": 6,
     "name": "Centro de Infomobilidade",
     "weekdays_schedule": "8h30 - 19h30",
-    "weekends_schedule": "9h30 -15h00 (exceto em julho e agosto)",
+    "weekends_schedule": "9h30 -15h00 (exceto jul e ago)",
     "parish": "Stª. Cruz",
     "lat": "40.213436",
     "lon": "-8.432605",
@@ -107,17 +107,26 @@
   },
   {
     "sale_point_id": 11,
-    "name": "Papelaria dos Olivais",
-    "address": "Rua Capitão Luis Gonzaga, nº 5 - Olivais",
-    "phone": "239 716 792",
-    "parish": "Stº. Antº. Olivais",
-    "lat": "40.216832",
-    "lon": "-8.407037",
-    "zone": "Stº Antº dos Olivais",
+    "name": "Café da Ribeira",
+    "address": "Rua de São Lourenço, 319",
+    "phone": "239 983 239",
+    "lat": "40.2057168",
+    "lon": "-8.4949063",
+    "zone": "Ribeira de Frades",
     "official_store": false
   },
   {
     "sale_point_id": 12,
+    "name": "Nova Papelaria",
+    "address": "Rua Dr. Daniel de Matos, 148",
+    "phone": "239 721 014",
+    "lat": "40.196945",
+    "lon": " -8.412420",
+    "zone": "Bairro Norton de Matos",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 13,
     "name": "Tabacaria Sofia",
     "address": "Rua da Sofia, nº 167",
     "phone": "239 824 174",
@@ -128,7 +137,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 13,
+    "sale_point_id": 14,
     "name": "Papelaria e Tabacaria Arquivo, Lda.",
     "address": "Rua Dr. Manuel Rodrigues, nº 9",
     "phone": "239 820 620",
@@ -139,7 +148,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 14,
+    "sale_point_id": 15,
     "name": "Tabacaria Triunfo",
     "address": "Valdemar Agostinho Oliveira Catarino - Rua do Brasil, nº 233, r/c",
     "phone": "239 711 889",
@@ -150,7 +159,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 15,
+    "sale_point_id": 16,
     "name": "Tabacaria Espírito Santo",
     "address": "Praça 8 de Maio, nº 8",
     "phone": "239 821 991",
@@ -161,7 +170,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 16,
+    "sale_point_id": 17,
     "name": "Café Primavera",
     "address": "Rua Central da Mesura, nº 84",
     "phone": "239 811 253",
@@ -172,25 +181,13 @@
     "official_store": false
   },
   {
-    "sale_point_id": 17,
-    "name": "Alma Shooping",
-    "weekdays_schedule": "10h00 - 23.00",
-    "weekends_schedule": "10h00 - 24h00",
-    "parish": "Stº. Antonio dos Olivais",
-    "lat": "40.204935",
-    "lon": "-8.407208",
-    "zone": "Solum",
-    "official_store": false
-  },
-  {
     "sale_point_id": 18,
-    "name": "Café Franco",
-    "weekdays_schedule": "07h00 - 23h00",
-    "weekends_schedule": "07h00 - 23h00",
-    "parish": "Ribeira de Frades",
-    "lat": "40.20582",
-    "lon": "-8.494924",
-    "zone": "Ribeira de Frades",
+    "name": "Vícios Urbanos - Coimbra Shopping (Piso 0)",
+    "address": "Av. Mendes Silva",
+    "phone": "239 152 672",
+    "lat": "40.194281",
+    "lon": " -8.409049",
+    "zone": "Vale das Flores",
     "official_store": false
   },
   {
