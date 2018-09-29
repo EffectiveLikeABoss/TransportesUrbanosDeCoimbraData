@@ -1,0 +1,45 @@
+{
+	"count" : 2,
+	"news" : [
+		{
+			"title": "HORÁRIOS DO PERÍODO ESCOLAR",
+			"resource_type": "html",
+			"resource": "https://raw.githubusercontent.com/EffectiveLikeABoss/TransportesUrbanosDeCoimbraData/master/news/0003-HORARIOS_DO_PERiODO_ESCOLAR",
+		    "date": {
+		      "year": 2018,
+		      "month": 9,
+		      "day": 5
+		    }
+		},
+		{
+			"title": "ANTECIPAÇÃO DE HORÁRIO DE VIAGEM",
+			"resource_type": "html",
+			"resource": "https://raw.githubusercontent.com/EffectiveLikeABoss/TransportesUrbanosDeCoimbraData/master/news/0002-ANTECIPAÇÃO_DE_HORARIO_DE_VIAGEM",
+		    "date": {
+		      "year": 2018,
+		      "month": 9,
+		      "day": 5
+		    }
+		},
+		{
+			"title": "LOJA DO MERCADO-ABERTURA AO SÁBADO",
+			"resource_type": "html",
+			"resource": "https://raw.githubusercontent.com/EffectiveLikeABoss/TransportesUrbanosDeCoimbraData/master/news/LOJA_DO_MERCADO_ABERTURA_AO_SABADO",
+		    "date": {
+		      "year": 2018,
+		      "month": 8,
+		      "day": 29
+		    }
+		},
+		{
+			"title": "CONVOCAÇÃO DE PLENÁRIO DE TRABALHADORES",
+			"resource_type": "image",
+			"resource": "http://www.smtuc.pt/viewfimg_aviso.php?id=533",
+		    "date": {
+		      "year": 2018,
+		      "month": 7,
+		      "day": 23
+		    }
+		}
+	]
+}
