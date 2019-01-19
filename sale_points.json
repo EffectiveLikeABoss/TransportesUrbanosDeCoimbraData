@@ -88,6 +88,8 @@
     "name": "Quiosque Paulo Ferreira",
     "weekdays_schedule": "06h00 - 19h00",
     "weekends_schedule": "06h00 -13h00",
+    "address": "Estação Nova",
+    "phone": "239 836 503",
     "parish": "S. Bartolomeu",
     "lat": "40.208897",
     "lon": "-8.431863",
@@ -160,13 +162,10 @@
   },
   {
     "sale_point_id": 16,
-    "name": "Tabacaria Espírito Santo",
-    "address": "Praça 8 de Maio, nº 8",
-    "phone": "239 821 991",
-    "parish": "Stª. Cruz",
-    "lat": "40.210692",
-    "lon": "-8.42914",
-    "zone": "Prª 8 de Maio",
+    "name": "Vícios Urbanos - Loja Celas",
+    "address": "Avenida Calouste Gulbenkian Lote 7-r/c-loja 12",
+    "phone": "239 093 002",
+    "zone": "Celas",
     "official_store": false
   },
   {
@@ -182,6 +181,20 @@
   },
   {
     "sale_point_id": 18,
+    "name": "Alma Shopping",
+    "zone": "Estádio",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 19,
+    "name": "Papelaria Olivais",
+    "address": "Rua Capitão Luís Gonzaga, 5",
+    "phone": "239 716 792",
+    "zone": "Olivais",
+    "official_store": false
+  },
+  {
+    "sale_point_id": 20,
     "name": "Vícios Urbanos - Coimbra Shopping (Piso 0)",
     "address": "Av. Mendes Silva",
     "phone": "239 152 672",
@@ -191,10 +204,12 @@
     "official_store": false
   },
   {
-    "sale_point_id": 19,
+    "sale_point_id": 21,
     "name": "Tabacaria Papelaria Estrelinha da Sorte",
     "weekdays_schedule": "08.00 às 19.00",
     "weekends_schedule": "08.00 às 13.00",
+    "address": "Rua da Sofia, nº 46",
+    "phone": "239 821 210",
     "parish": "Stª. Cruz",
     "lat": "40.211616",
     "lon": "-8.429604",
@@ -202,7 +217,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 20,
+    "sale_point_id": 22,
     "name": "Fórum Coimbra",
     "address": "Av. José Bonifácio de Andrade e Silva, n.º 1 - Quinta do Vale Gemil - Almegue",
     "phone": "239 801 700",
@@ -213,7 +228,7 @@
     "official_store": false
   },
   {
-    "sale_point_id": 21,
+    "sale_point_id": 23,
     "name": "Liga dos Amigos dos Hospitais da Universidade de Coimbra",
     "address": "Praceta Prof. Mota Pinto (Edifício principal dos HUC)",
     "phone": "239 400 584",

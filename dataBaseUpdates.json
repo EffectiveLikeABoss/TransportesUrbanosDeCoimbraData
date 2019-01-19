@@ -2,41 +2,41 @@
   {
     "resource": "Epochs",
     "date": {
-      "year": 2018,
-      "month": 5,
-      "day": 20
+      "year": 2019,
+      "month": 1,
+      "day": 19
     }
   },
   {
     "resource": "Lines",
     "date": {
-      "year": 2018,
-      "month": 5,
-      "day": 20
+      "year": 2019,
+      "month": 1,
+      "day": 19
     }
   },
   {
     "resource": "SalePoints",
     "date": {
-      "year": 2018,
-      "month": 5,
-      "day": 20
+      "year": 2019,
+      "month": 1,
+      "day": 19
     }
   },
   {
     "resource": "Schedules",
     "date": {
-      "year": 2018,
-      "month": 5,
-      "day": 20
+      "year": 2019,
+      "month": 1,
+      "day": 19
     }
   },
   {
     "resource": "Tickets",
     "date": {
-      "year": 2018,
-      "month": 5,
-      "day": 20
+      "year": 2019,
+      "month": 1,
+      "day": 19
     }
   }
 ]

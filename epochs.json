@@ -16,7 +16,7 @@
     },
     "end": {
       "date": {
-        "year": 2019,
+        "year": 2020,
         "month": 1,
         "day": 1
       },
@@ -32,7 +32,7 @@
     "name": "FÉRIAS ESCOLARES",
     "begin": {
       "date": {
-        "year": 2017,
+        "year": 2018,
         "month": 12,
         "day": 18
       },
@@ -44,7 +44,7 @@
     },
     "end": {
       "date": {
-        "year": 2018,
+        "year": 2019,
         "month": 1,
         "day": 3
       },
@@ -60,7 +60,7 @@
     "name": "AGOSTO",
     "begin": {
       "date": {
-        "year": 2014,
+        "year": 2019,
         "month": 8,
         "day": 1
       },
@@ -72,7 +72,7 @@
     },
     "end": {
       "date": {
-        "year": 2014,
+        "year": 2019,
         "month": 9,
         "day": 1
       },
@@ -100,7 +100,7 @@
     },
     "end": {
       "date": {
-        "year": 2015,
+        "year": 2020,
         "month": 1,
         "day": 1
       },
@@ -128,7 +128,7 @@
     },
     "end": {
       "date": {
-        "year": 2019,
+        "year": 2020,
         "month": 1,
         "day": 1
       },
@@ -148,9 +148,9 @@
     "name": "FÉRIAS ESCOLARES, EXCEPTO AGOSTO",
     "begin": {
       "date": {
-        "year": 2014,
-        "month": 6,
-        "day": 15
+        "year": 2018,
+        "month": 12,
+        "day": 18
       },
       "time": {
         "hour": 2,
@@ -160,9 +160,9 @@
     },
     "end": {
       "date": {
-        "year": 2014,
-        "month": 9,
-        "day": 15
+        "year": 2019,
+        "month": 1,
+        "day": 3
       },
       "time": {
         "hour": 2,
@@ -252,7 +252,7 @@
     },
     "end": {
       "date": {
-        "year": 2019,
+        "year": 2020,
         "month": 1,
         "day": 1
       },
@@ -268,7 +268,7 @@
     "name": "FÉRIAS DE VERÃO",
     "begin": {
       "date": {
-        "year": 2017,
+        "year": 2019,
         "month": 6,
         "day": 18
       },
@@ -280,7 +280,7 @@
     },
     "end": {
       "date": {
-        "year": 2017,
+        "year": 2019,
         "month": 9,
         "day": 11
       },
@@ -296,7 +296,7 @@
     "name": "FÉRIAS ESCOLARES, EXCEPTO AGOSTO  ",
     "begin": {
       "date": {
-        "year": 2017,
+        "year": 2018,
         "month": 12,
         "day": 18
       },
@@ -308,7 +308,7 @@
     },
     "end": {
       "date": {
-        "year": 2018,
+        "year": 2019,
         "month": 1,
         "day": 3
       },
@@ -336,7 +336,7 @@
     },
     "end": {
       "date": {
-        "year": 2019,
+        "year": 2020,
         "month": 1,
         "day": 1
       },
